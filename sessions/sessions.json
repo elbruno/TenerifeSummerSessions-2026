@@ -1,0 +1,1100 @@
+[
+  {
+    "title": "Redes Modernas en AKS: CNI, Cilium y el nuevo Ingress con Gateway API e Istio",
+    "description": "En esta sesión exploraremos cómo funciona realmente la red en Azure Kubernetes Service (AKS), desde el modelo de red CNI con sus dos propuestas (pod subnet y overlay) hasta la aplicación de políticas de seguridad con Cilium, y cómo el nuevo modelo de Ingress basado en Gateway API redefine la entrada de tráfico en el clúster._x000D_\n_x000D_\nVeremos cómo AKS adopta tecnologías modernas como Cilium y su datapath eBPF para la red y las Network Policies, cómo ECNS aporta capacidades de filtrado en capa 7 para reforzar la seguridad del tráfico, y cómo el nuevo estándar Gateway API, junto con Istio y su modelo Ambient Mesh, transforma el Ingress y el tráfico norte‑sur en Kubernetes._x000D_\n_x000D_\nUna visión completa, práctica y actualizada del stack de red de AKS que necesitas para dominar y construir plataformas seguras, observables y preparadas para el futuro.",
+    "speaker_first": "Jorge",
+    "speaker_last": "Perona Puro",
+    "tagline": "Microsoft MVP | Azure Cloud Architect @ Plain Concepts | Microsoft MCT",
+    "linkedin": "https://www.linkedin.com/in/jorgeperona/",
+    "profile_picture": "https://cdn.sessionize.com/image/58c3-400o400o1-KxPgNTguF7XRYTjmGHKf72.jpg"
+  },
+  {
+    "title": "Cuándo usar qué. Principios de arquitectura en Fabric",
+    "description": "Fabric tiene muchas piezas. Demasiadas, a veces. Lakehouse, Warehouse, Dataflow Gen2, Notebook, Pipeline, Direct Lake, Eventhouse... El problema no es aprender cada una, eso está en la documentación. El problema es saber cuál elegir cuando tienes un caso real delante y tres personas dándote opiniones distintas._x000D_\n_x000D_\nEn esta sesión no vamos a repasar features. Vamos a trabajar los principios que deberían guiar cualquier decisión de arquitectura en Fabric: cuándo un Lakehouse y cuándo un Warehouse, cuándo Direct Lake tiene sentido y cuándo es una trampa, qué papel juega el Notebook frente a un Dataflow o un Pipeline, y cómo decidir si algo vive en Fabric o sigue fuera._x000D_\nNo hay respuestas universales, pero sí hay preguntas correctas. Y hay patrones que se repiten en proyectos reales,  incluyendo errores que ojalá no hubiéramos tenido que cometer nosotras primero 🙃_x000D_\nEl objetivo: salir con un marco mental propio para tomar mejores decisiones.",
+    "speaker_first": "Mar",
+    "speaker_last": "Lizana",
+    "tagline": "Data Squad Lead | Microsoft Data & DevTech MVP",
+    "linkedin": "https://www.linkedin.com/in/mar-lizana/",
+    "profile_picture": "https://cdn.sessionize.com/image/1d9c-400o400o1-nv9xeJxhDRZeGVnKMj8Nbh.jpg"
+  },
+  {
+    "title": "Accesibilidad y neurodivergencia: No todo el mundo navega igual",
+    "description": "Imagina abrir una web y que te abrume la cantidad de información, los colores vibrantes, los elementos en movimiento o los textos interminables. Para muchas personas neurodivergentes, esta es la experiencia habitual en internet._x000D_\n_x000D_\nEn esta charla exploraremos cómo diseñar y desarrollar pensando en distintas formas de procesar el mundo: autismo, TDAH, dislexia, ansiedad y más. Hablaremos de buenas prácticas, errores comunes, cómo aplicar accesibilidad cognitiva y por qué pensar en neurodivergencia es clave para crear experiencias digitales realmente inclusivas. Porque no se trata solo de llegar a más gente, sino de no dejar a nadie atrás.",
+    "speaker_first": "Mía",
+    "speaker_last": "Salazar",
+    "tagline": "Front-End developer at Service Club",
+    "linkedin": "https://www.linkedin.com/in/miasalazar/",
+    "profile_picture": "https://cdn.sessionize.com/image/42d2-400o400o1-Kai1fJ7HdFRmXpseufdUD6.jpg"
+  },
+  {
+    "title": "Copilot ya no responde… ahora trabaja contigo (y dentro de Word y Excel)",
+    "description": "Hasta ahora, usar Copilot era hacer preguntas y recibir respuestas._x000D_\nPero eso ha cambiado._x000D_\nEn esta sesión verás cómo los nuevos modos de Copilot en Word y Excel —como Editar con Copilot o los escenarios tipo “agente”— permiten pasar de pedir ayuda… a trabajar junto a la IA dentro del propio documento._x000D_\nA través de demos reales, descubrirás cómo transformar notas en actas claras, documentos en informes profesionales y datos en decisiones… sin salir de las herramientas que ya usas cada día._x000D_\nPorque esto no va de nuevas funcionalidades. Va de una nueva forma de trabajar.",
+    "speaker_first": "Adrián",
+    "speaker_last": "Espés",
+    "tagline": "Microsoft MVP · M365 Copilot | Consultant & Speaker",
+    "linkedin": "https://www.linkedin.com/in/adrianespes",
+    "profile_picture": "https://cdn.sessionize.com/image/46df-400o400o1-JH1KGFPqxMSzVXWK2wkgan.jpg"
+  },
+  {
+    "title": "El bueno, el feo y el malo: Implementando IA en Azure sin romanticismos",
+    "description": "En el salvaje oeste de la IA en Azure, no todos los caminos llevan al éxito._x000D_\nEn esta charla comparamos Agent Framework, Copilot Studio y Microsoft Foundry como si fueran pistoleros:_x000D_\n¿quién es el bueno para escalar?, ¿quién es el feo cuando hablamos de gobierno y control?, ¿y quién puede convertirse en el malo si se usa mal?_x000D_\nUna sesión técnica, directa y sin romanticismos, para elegir la herramienta correcta antes del duelo final en producción.",
+    "speaker_first": "Celeste Tania",
+    "speaker_last": "Sánchez Fresneda",
+    "tagline": "Consultora Azure y desarrolladora",
+    "linkedin": "https://www.linkedin.com/in/celestesanchez/",
+    "profile_picture": "https://cdn.sessionize.com/image/5afc-400o400o1-pK5dTvkCJFizY2NMU5Qk5x.jpg"
+  },
+  {
+    "title": "Revive tus fotos con IA creando un restaurador inteligente de imágenes",
+    "description": "En este workshop, crearás una potente herramienta de restauración de fotos impulsada por inteligencia artificial. Utilizarás modelos avanzados para restaurar fotos antiguas, dañadas o en blanco y negro, y generar imágenes en color de alta calidad en resolución 4K._x000D_\n_x000D_\nPodrás usar esta herramienta para dar una nueva vida a tus fotos familiares o adaptarla para restaurar ilustraciones, dibujos, pinturas o cualquier otro tipo de imágenes deterioradas._x000D_\n_x000D_\nAl finalizar, tendrás tu propia herramienta funcional de restauración de imágenes basada en IA.",
+    "speaker_first": "David",
+    "speaker_last": "Martinez",
+    "tagline": "CTO Inforrada",
+    "linkedin": "https://www.linkedin.com/in/dmartinezmartinez/",
+    "profile_picture": "https://cdn.sessionize.com/image/28c7-400o400o1-EXV84TdhQcMdnNZpSuJwHu.jpg"
+  },
+  {
+    "title": "No son más listos: están mejor organizados",
+    "description": "Cómo pasar de agentes que responden a sistemas que piensan (y se corrigen)",
+    "speaker_first": "Raúl",
+    "speaker_last": "Antón",
+    "tagline": "Devoteam, Practice Leader",
+    "linkedin": "https://www.linkedin.com/in/raul-anton-valverde-92b84920?trk=contact-info",
+    "profile_picture": "https://cdn.sessionize.com/image/6131-400o400o1-PAqYLbcNUb7CfYuR5rPzcc.jpg"
+  },
+  {
+    "title": "¿Design System o Disaster System? El cadáver exquisito entre diseño y desarrollo",
+    "description": "Olvídate de las diapositivas y prepárate para formar parte de una dinámica en vivo donde la audiencia experimenta con un \"cadáver exquisito\"._x000D_\nA través de una landing interactiva, materializaremos el caos real que surge cuando diseño y desarrollo trabajan en dimensiones paralelas, utilizando la anatomía de una criatura para diseccionar las entrañas de un sistema._x000D_\nAnalizaremos qué mantiene el pulso de tu producto: desde la sinapsis de los Design Tokens y la visión de la Accesibildad (A11y), hasta el armazón de la Arquitectura CSS, el corazón de los Componentes y el lastre de la Deuda Técnica._x000D_\n¿Estás construyendo un organismo funcional o estñas alimentando a un Disaster System sin alma? Ven a descubrirlo antes de que sea demasiado tarde._x000D_\n_x000D_\n**Notas para la organización (No publicar):**_x000D_\nLa temática puede ser tanto diseño como desarrollo, es contenido técnico pero enfocado a que se alineen desde diseño._x000D_\n- Referencia en vídeo: https://www.youtube.com/watch?v=K8nVKFLvQTM_x000D_\nAdjunto enlace a la primera y única charla que impartí con este tema para el IWD26 con Women Techmakers._x000D_\nEn el enlace del Github tenéis la landing interactiva: https://muirogles.github.io/disaster-system/_x000D_\nEstá en español pero tiene un código QR para que puedan meterse y traducirlo al inglés o puedan ver el contenido más cómodo si están lejos de la pantalla._x000D_\n- Personalización: Puedo adaptar la landing page de la demo con el logo específico del evento si me lo proporcionan, para que la experiencia sea más inmersiva para los asistentes. Si es posible me gustaría saber la resolución de la pantalla y configuración del zoom para hacer pruebas de legibilidad antes de la presentación, ya que es una landing responsive y si se presenta desde el mismo equipo o cada uno con el suyo._x000D_\n- Dinámica: La sesión incluye una actividad de \"Cadáver Exquisito\" en tiempo real con la colaboración de 3 voluntari@s del público que dibujen en el escenario mientras realizo la explicación técnica (Serían 3 pases de 30 segundos antes de presentar cada parte de la landing, no es un taller). En caso de que por logística/tiempo no sea posible contar con voluntarios, la charla puede adaptarse a un formato de presentación estándar, aunque la dinámica con el público aporta un valor diferencial a la narrativa de la sesión.",
+    "speaker_first": "María",
+    "speaker_last": "Rogles",
+    "tagline": "Senior UI Developer at Softtek | Real Madrid F.C.",
+    "linkedin": "https://www.linkedin.com/in/mariarogles/",
+    "profile_picture": "https://cdn.sessionize.com/image/84bf-400o400o1-RhSN3Cv86ojjgCX6Y6ZenD.png"
+  },
+  {
+    "title": "Vibe coding sucks! - Harness Engineering para real-world AI development",
+    "description": "El vibe coding vale para hacerle la web a tu peluquera, pero el batacazo que te vas a dar si lo usas en proyectos \"enterprise\", se va a escuchar en Sebastopol._x000D_\n_x000D_\nEn esta sesión veremos cómo el **Harness Engineering** nos ayuda a pasar de prompts sueltos a un entorno de desarrollo asistido por IA más controlado, repetible y adaptado al contexto del proyecto._x000D_\n_x000D_\nAterrizaremos el enfoque con **Spec-Driven Development** y una demo práctica usando **GitHub Spec Kit**, implementando una feature sencilla end-to-end desde la especificación hasta el código._x000D_\n_x000D_\nUna charla práctica para developers que quieren usar IA más allá del hype y llevarla a flujos reales de ingeniería de software.",
+    "speaker_first": "Luis",
+    "speaker_last": "Mañez",
+    "tagline": "Chief architect. Microsoft MVP Azure AI (former M365 development)",
+    "linkedin": "https://www.linkedin.com/in/luismanez/",
+    "profile_picture": "https://cdn.sessionize.com/image/2569-400o400o1-cb-3887-417c-9d87-353019925b98.9dbdec58-a427-4852-ac75-5c92f8b6cf99.PNG"
+  },
+  {
+    "title": "App inteligente de retail multicanal con datos, scoring e IA en 40 minutos",
+    "description": "Partiremos de una cadena ficticia de retail omnicanal con un problema muy reconocible: sus datos de clientes, ventas, devoluciones y stock están repartidos entre varios sistemas y tienen problemas de calidad. En esta sesión veremos cómo convertir ese caos en una app inteligente que ayude a tomar decisiones._x000D_\n_x000D_\nEn 40 minutos recorreremos el flujo completo: ingesta de datos, perfilado de calidad, limpieza, fact table integrada, features de clientes y productos, scoring básico y una app de exploración. Cerraremos incorporando IA para hacer preguntas en lenguaje natural y generar recomendaciones accionables.",
+    "speaker_first": "Antonio José",
+    "speaker_last": "Soto Rodriguez",
+    "tagline": "MVP Azure AI & Microsoft Fabric",
+    "linkedin": "https://www.linkedin.com/in/antoniosql/",
+    "profile_picture": "https://cdn.sessionize.com/image/99bf-400o400o1-9VyPMaC6gLwoJC85yBssfU.jpg"
+  },
+  {
+    "title": "La Tríada Definitiva: Azure AI Foundry, Microsoft Agent Framework y Copilot Studio",
+    "description": "En el entorno corporativo de 2026, los prototipos de \"domingo por la tarde\" no son suficientes. Cuando nos enfrentamos a sectores como la banca, la industria o los servicios públicos, no podemos conectar bases de datos a modelos públicos mediante API Keys. El reto ha cambiado: ya no se trata de hacer que la IA hable, sino de que trabaje de forma segura, robusta y escalable._x000D_\n_x000D_\nEn esta sesión técnica, desgranaremos cómo construir productos de Inteligencia Artificial listos para producción utilizando los tres pilares del ecosistema Microsoft:_x000D_\n_x000D_\nAzure AI Foundry: La base de la Gobernanza y Seguridad. Veremos cómo gestionar el catálogo de modelos (de OpenAI a Phi-3), implementar filtros de contenido y asegurar que los datos nunca salgan del entorno de confianza de la empresa bajo autenticación Entra ID._x000D_\n_x000D_\nMicrosoft Agent Framework: El cerebro de la Lógica de Negocio. Exploraremos cómo llevar la IA al backend profesional con .NET y C#._x000D_\n_x000D_\nCopilot Studio: La capa de Interfaz y Orquestación. Analizaremos cómo desplegar estos agentes allí donde reside el usuario (Teams, SharePoint...) gestionando el estado de la conversación y el Single Sign-On de forma nativa._x000D_\n_x000D_\nA través de un caso de uso práctico, trazaremos el flujo de una petición desde la interfaz de usuario hasta la ejecución de código en el backend, demostrando que es posible construir sistemas de IA que sean a la vez potentes para el negocio y seguros para el departamento de IT.",
+    "speaker_first": "Daniel",
+    "speaker_last": "Cordoba",
+    "tagline": "Microsoft MVP Business Applications | Power Platform/Microsoft Dynamics Architect en Arbentia",
+    "linkedin": "https://www.linkedin.com/in/daniel-cordoba/",
+    "profile_picture": "https://cdn.sessionize.com/image/6eb6-400o400o1-pGHoRoCLjeXznBuNfPuPJk.png"
+  },
+  {
+    "title": "Arquitectura Escalable en Power Platform: De Prototipo a Solución Empresarial",
+    "description": "Power Platform permite construir soluciones rápidamente, pero escalar esas soluciones en entornos reales requiere algo más que velocidad: arquitectura, gobernanza y decisiones técnicas sólidas._x000D_\n_x000D_\nEn esta sesión diseñaremos una solución completa siguiendo un enfoque estructurado basado en planes de Power Platform y agentes, mostrando cómo evolucionar desde un prototipo inicial hasta una arquitectura preparada para producción._x000D_\n_x000D_\nDurante la demo iteraremos sobre el diseño, evaluando decisiones clave en:_x000D_\n_x000D_\n- modelo de datos_x000D_\n- separación de responsabilidades_x000D_\n- integración_x000D_\n- ALM_x000D_\n_x000D_\nAnalizaremos también las limitaciones del enfoque y cuándo es necesario intervenir manualmente._x000D_\n_x000D_\nQué aprenderás:_x000D_\n1. Cómo diseñar soluciones escalables en Dataverse_x000D_\n2. Uso de agentes para generar artefactos consistentes_x000D_\n3. Patrones de arquitectura en Power Platform",
+    "speaker_first": "Fernando",
+    "speaker_last": "Artigas Alfonso",
+    "tagline": "Dynamics Business Central Technical Consultant",
+    "linkedin": "https://www.linkedin.com/in/fernando-artigas-alfonso-4ab62510b",
+    "profile_picture": "https://cdn.sessionize.com/image/64a5-400o400o1-XMj99Y3TopFdWAptiacgvy.png"
+  },
+  {
+    "title": "Scaling to Production your Agents with Azure Landing Zone & Microsoft Foundry",
+    "description": "In this session i will cover my experience  about Infrastructure and all the things are need it to take in count when you want to scale your existing projects",
+    "speaker_first": "Rubén",
+    "speaker_last": "Toribio Gallardo",
+    "tagline": "Microsoft 365 Architect  - Full stack - AI  Developer",
+    "linkedin": "https://www.linkedin.com/in/rubentg/",
+    "profile_picture": "https://cdn.sessionize.com/image/a51a-400o400o1-MpKWcEB35mz6bNjZrabwu8.png"
+  },
+  {
+    "title": "Los 7 pecados capitales de la IA generativa (y cómo evitarlos)",
+    "description": "La IA generativa ha pasado de ser una curiosidad a integrarse rápidamente en productos reales. Pero entre demos espectaculares y promesas, muchos equipos están tropezando con los mismos errores… una y otra vez._x000D_\n_x000D_\nEn esta charla repasaremos los 7 pecados capitales que suelen aparecer al trabajar con modelos generativos: desde confiar ciegamente en las respuestas del modelo hasta ignorar problemas de coste, seguridad o evaluación. Veremos ejemplos reales, qué ocurre cuando estos errores llegan a producción y, sobre todo, cómo evitarlos con enfoques prácticos._x000D_\n_x000D_\nEl objetivo no es explicar qué es la IA generativa, sino ayudarte a usar esta tecnología con criterio de ingeniería: diseñando sistemas más robustos, predecibles y mantenibles._x000D_\n_x000D_\nUna charla directa, orientada a developers que quieren pasar de jugar con prompts a construir soluciones que realmente funcionen.",
+    "speaker_first": "Alba",
+    "speaker_last": "Catoira Franco",
+    "tagline": "Developer & Cloud Consultant in Tokiota",
+    "linkedin": "https://www.linkedin.com/in/albacatoira",
+    "profile_picture": "https://cdn.sessionize.com/image/ee80-400o400o1-PDsWeYh5Es47MCGrfYoyhM.png"
+  },
+  {
+    "title": "Piensa en pipelines: Aprende qué son, cómo funcionan y cómo aprovecharlas",
+    "description": "¿Crees que las pipelines son solo para desplegar código? Si eres project manager, delivery o desarrollador y sientes que las tareas manuales te roban tiempo, esta charla es para ti._x000D_\n_x000D_\nEn esta sesión, bajaremos a tierra el concepto de \"Azure Pipelines\". Empezaremos por lo básico —qué son y por qué tu equipo las necesita— para que nadie se quede atrás. Pero no nos detendremos en la teoría: exploraremos los casos de uso más cotidianos que transforman la entrega de software._x000D_\n_x000D_\n¿El plato fuerte? Veremos en vivo ejemplos poco convencionales y creativos que demuestran que el límite no está en la herramienta, sino en nuestra imaginación. Sal de la charla con una visión renovada y trucos prácticos para que las pipelines hagan el trabajo por ti, optimizando el día a día de todo tu equipo._x000D_\n_x000D_\n¡Es hora de dejar de hacer clic y empezar a automatizar!",
+    "speaker_first": "Sergio",
+    "speaker_last": "Jiménez Yébenes",
+    "tagline": "Development & Cloud Consultant in Tokiota",
+    "linkedin": "https://www.linkedin.com/in/sergio-jimenez-yebenes/",
+    "profile_picture": "https://cdn.sessionize.com/image/b61b-400o400o1-aHxfvmi9LKugKZRx5N5Acz.png"
+  },
+  {
+    "title": "Artificial Intelligence vs Artificial Stupidity",
+    "description": "Que pasa con esos casos en los que la Inteligencia Artificial parece ser cualquier cosa menos algo Inteligente? Te ha pasado verdad? En esta sesión te vamos a mostrar esos casos en los que parece que pueden hacernos creer que estamos evolucionando a pasos agigantados, pero nada está más lejos de la realidad. No solo te sorprenderás de las cosas que podemos llegar a hacer, sino también que las vamos a comprar con aquellos casos que son muestra de lo mal que podemos hacerlas. ",
+    "speaker_first": "Javier",
+    "speaker_last": "Menendez Pallo",
+    "tagline": "AI MVP | Artificial Intelligence Partner @ Kyndryl",
+    "linkedin": "https://www.linkedin.com/in/jamepa/",
+    "profile_picture": "https://cdn.sessionize.com/image/55b3-400o400o1-84-5bcf-4c80-9ce6-fa892e10f4d4.f0504936-6ade-4073-9e36-c471a3b41d31.jpg"
+  },
+  {
+    "title": "Cálculos visuales en DAX, formas, contextos y optimización",
+    "description": "Los cálculos visuales con DAX en Power BI han marcado un antes y un después en el universo DAX. El cálculo se basa en el visual y no únicamente en el modelo semántico._x000D_\nEn una sesión muy práctica veremos desde la base, los conceptos de forma y contexto visual, utilizaremos las funciones DAX disponibles para implementar cálculos visuales._x000D_\nEn la sesión abordaremos el trabajo con estas expresiones y su implicación en la optimización y el rendimiento de las consultas._x000D_\nVamos a trabajar con Power BI Desktop y DAX Studio.",
+    "speaker_first": "Ana Maria",
+    "speaker_last": "Bisbe York",
+    "tagline": "BI Consultant and Trainer. LinkedIn Learning Trainer. Author. Data Platform MVP. ",
+    "linkedin": "https://www.linkedin.com/in/ambynet/",
+    "profile_picture": "https://cdn.sessionize.com/image/7f42-400o400o1-a8-edee-4edf-aa86-6614dba1dfdc.a831c53d-c952-43ba-9977-ef9be23f58f1.jpg"
+  },
+  {
+    "title": "Vibe Coding con Power Apps: Donde tus ideas cobran vida",
+    "description": "Abrir Power Apps sin un plan claro es más común de lo que parece… y, curiosamente, muchas veces es ahí donde surgen las mejores soluciones. A ese enfoque lo llamamos vibe coding: dejar que la idea evolucione mientras construyes._x000D_\nEn esta sesión vamos a trabajar precisamente así. Partiremos de una idea inicial y, sin un guion rígido, iremos dando forma a una aplicación en directo. Usaremos el potencial del low-code para avanzar rápido, pero también adoptaremos un enfoque pro-code cuando sea necesario, buscando siempre equilibrio entre velocidad y calidad._x000D_\nA lo largo del proceso veremos cómo estructurar apps de forma mantenible, cómo organizar lógica con Power Fx de manera clara, cómo reutilizar componentes y cómo integrar datos sin complicaciones innecesarias. Todo ello mientras lidiamos con lo impredecible que siempre acompaña a una demo en vivo._x000D_\nLa intención no es solo construir algo funcional, sino demostrar una forma distinta de trabajar: más flexible, más creativa y alineada con el concepto de vibe apps, donde la experimentación forma parte del resultado._x000D_\nSi te interesa construir sin sobrepensar cada paso, aprender haciendo y descubrir hasta dónde puede llegar Power Apps cuando combinas intuición con buenas prácticas, esta sesión está pensada para ti.",
+    "speaker_first": "Jorge",
+    "speaker_last": "Fernández Sánchez",
+    "tagline": "Technical Lead at Devoteam | Microsoft MVP",
+    "linkedin": "https://www.linkedin.com/in/jorgefdezsanchez/",
+    "profile_picture": "https://cdn.sessionize.com/image/580c-400o400o1-XM38riD1vCoMRHQdGAcDWx.png"
+  },
+  {
+    "title": "The Age of Frameworks: ALDC + ALCSC",
+    "description": "El desarrollo asistido por IA ya no es una novedad dentro del ecosistema de Business Central. El verdadero desafío hoy no es generar código, sino generar soluciones consistentes, mantenibles y preparadas para producción._x000D_\n_x000D_\nEn esta sesión exploraremos dos iniciativas open source diseñadas para aportar estructura y disciplina de ingeniería al desarrollo AL asistido por IA: AL Development Collection (ALDC) y AL Copilot Skills Collection (ALCSC)._x000D_\n_x000D_\nALDC proporciona un framework modular con agentes personalizados e instrucciones específicas para acelerar la implementación de soluciones complejas de Business Central, como integraciones, APIs y arquitecturas de extensiones. ALCSC lo complementa mediante Skills diseñadas específicamente para GitHub Copilot, guiando las herramientas de IA para seguir patrones y buenas prácticas de Business Central durante la generación de código AL._x000D_\n_x000D_\nJuntos habilitan un nuevo paradigma: el Desarrollo Agéntico para Business Central, donde agentes de IA colaboran con los desarrolladores para implementar patrones, reforzar estándares y mejorar drásticamente la velocidad de desarrollo sin sacrificar la calidad._x000D_\n_x000D_\nDurante la sesión exploraremos:_x000D_\n_x000D_\n1- Cómo ALDC acelera el desarrollo de integraciones y extensiones_x000D_\n2- Cómo ALCSC guía a GitHub Copilot a través de flujos de trabajo de desarrollo AL_x000D_\n3- Cómo agentes de IA personalizados pueden reforzar estándares de arquitectura y desarrollo_x000D_\n4- Una demostración en vivo de desarrollo de extensiones asistido por agentes_x000D_\n_x000D_\nSi te interesa evolucionar del “vibe coding” hacia una ingeniería estructurada asistida por IA, esta sesión mostrará cómo estos frameworks pueden transformar la manera en la que construimos soluciones para Business Central.",
+    "speaker_first": "Fernando",
+    "speaker_last": "Artigas Alfonso",
+    "tagline": "Dynamics Business Central Technical Consultant",
+    "linkedin": "https://www.linkedin.com/in/fernando-artigas-alfonso-4ab62510b",
+    "profile_picture": "https://cdn.sessionize.com/image/64a5-400o400o1-XMj99Y3TopFdWAptiacgvy.png"
+  },
+  {
+    "title": "Verano, Copilot y Agentes: la nueva erupción de IA en las aplicaciones para usuarios de negocio",
+    "description": "En plena era de la inteligencia artificial, las aplicaciones empresariales están viviendo su propia erupción tecnológica. Copilot y los Agentes inteligentes están cambiando la manera en que los usuarios trabajan, consultan información, ejecutan procesos y toman decisiones._x000D_\n_x000D_\nEn esta sesión exploraremos cómo estas nuevas capacidades permiten transformar aplicaciones tradicionales en experiencias inteligentes, donde el usuario ya no solo navega por pantallas, sino que interactúa con agentes capaces de entender contexto, proponer acciones, automatizar tareas y acompañar el flujo de trabajo diario.",
+    "speaker_first": "Jonathan",
+    "speaker_last": "Manrique",
+    "tagline": "Encamina- Technnical Solutions Lead in Modern Workplace -BizzApp",
+    "linkedin": "https://www.linkedin.com/in/jonathan-manrique-rios",
+    "profile_picture": "https://cdn.sessionize.com/image/3b09-400o400o1-DyjKLbv2oqN2uzkqw3Ff74.jpg"
+  },
+  {
+    "title": "“Código bajo el sol: Copilot, Agentes y la nueva forma de construir aplicaciones empresariales",
+    "description": "El verano en Tenerife será el escenario perfecto para hablar de una nueva forma de desarrollar soluciones empresariales. Copilot y los Agentes de IA están cambiando la manera en que los equipos técnicos entienden requisitos, diseñan arquitecturas, escriben código, prueban soluciones y entregan valor al negocio._x000D_\n_x000D_\nEn esta sesión descubriremos cómo estas capacidades permiten a los equipos de desarrollo ser más productivos, reducir fricción, mejorar la calidad técnica y acelerar la entrega de aplicaciones empresariales modernas._x000D_\n_x000D_\nHablaremos de cómo los agentes pueden actuar como copilotos de arquitectura, asistentes de desarrollo, revisores de código, generadores de documentación, analistas de incidencias o compañeros de soporte técnico._x000D_\n_x000D_\nUna sesión para entender cómo pasar de equipos que simplemente desarrollan software a equipos aumentados por IA, capaces de construir soluciones más inteligentes, mantenibles y alineadas con las necesidades reales del negocio.",
+    "speaker_first": "Jonathan",
+    "speaker_last": "Manrique",
+    "tagline": "Encamina- Technnical Solutions Lead in Modern Workplace -BizzApp",
+    "linkedin": "https://www.linkedin.com/in/jonathan-manrique-rios",
+    "profile_picture": "https://cdn.sessionize.com/image/3b09-400o400o1-DyjKLbv2oqN2uzkqw3Ff74.jpg"
+  },
+  {
+    "title": "Fabric Data Agents vs Fabric MCP: la versión Microsoft y la versión que controlas tú",
+    "description": "Microsoft está empujando los Data Agents como la forma \"oficial\" de añadir IA conversacional sobre tus datos en Fabric: read-only, gobernados, integrados con Purview y Entra ID. En paralelo, el ecosistema MCP avanza rápido y permite montar agentes propios sobre el mismo Lakehouse con mucho más control._x000D_\nEn esta sesión diseccionamos ambos enfoques: arquitectura interna, modelo de gobierno, trazabilidad del razonamiento, coste real y limitaciones. Lo veremos con demos en vivo resolviendo la misma pregunta analítica con un Fabric Data Agent y con un cliente MCP apuntando al mismo Lakehouse. Salimos con criterios claros para decidir cuándo conviene cada camino, o cuándo combinarlos.",
+    "speaker_first": "Sara",
+    "speaker_last": "Alonso Bernardo",
+    "tagline": "MVP Data Platform & AI Platform - Data & AI Consultant",
+    "linkedin": "https://www.linkedin.com/in/saraalonsobernardo/",
+    "profile_picture": "https://cdn.sessionize.com/image/0b51-400o400o1-HvsLHtKCavQXuFvFF1KwRP.png"
+  },
+  {
+    "title": "De flujos a agentes: cómo pasar de Power Automate a automatización inteligente con IA",
+    "description": "Durante años hemos automatizado procesos con Power Automate… pero la realidad es que la mayoría siguen siendo rígidos, frágiles y difíciles de escalar._x000D_\nLa nueva generación de soluciones va un paso más allá: agentes capaces de decidir, adaptarse y ejecutar tareas de forma autónoma._x000D_\nEn esta charla veremos cómo evolucionar desde los flujos tradicionales hacia un modelo de automatización inteligente basada en IA, combinando Power Platform con capacidades de reasoning y toma de decisiones._x000D_\nA través de una demo real construiremos progresivamente:_x000D_\n_x000D_\nUn flujo clásico basado en reglas_x000D_\nUn flujo asistido por Copilot_x000D_\nUn agente que interpreta contexto, decide y ejecuta acciones_x000D_\n_x000D_\nSaldrás con una visión clara de hacia dónde va la automatización y, sobre todo, cómo empezar a construir hoy ese futuro.",
+    "speaker_first": "Jon",
+    "speaker_last": "Unzueta Rueda",
+    "tagline": "Lead Enterprise Solutions Engineer - NTTDATA",
+    "linkedin": "https://www.linkedin.com/in/jonunzuetarueda",
+    "profile_picture": "https://cdn.sessionize.com/image/bca2-400o400o1-nedAa8XaXnt3u1FD6gWi65.jpg"
+  },
+  {
+    "title": "El futuro de F&SCM: agentes que analizan, deciden y actúan",
+    "description": "Dynamics 365 F&SCM entra en una nueva etapa con la llegada de los agentes autónomos: capacidades capaces de analizar datos, tomar decisiones y ejecutar tareas sin intervención humana. Esta sesión ofrece una visión clara y práctica de cómo transformar un ERP tradicional en una plataforma inteligente. Exploraremos casos reales, arquitectura, capacidades actuales y roadmap para entender cómo evoluciona el ERP hacia un sistema cognitivo.",
+    "speaker_first": "Marcela",
+    "speaker_last": "Bordolini",
+    "tagline": "Project Manager",
+    "linkedin": "https://www.linkedin.com/in/marcela-bordolini-b107b77/",
+    "profile_picture": "https://cdn.sessionize.com/image/4050-400o400o1-T92FL95QXRWwLB6cUgzib9.jpg"
+  },
+  {
+    "title": "RAGs y agentes sin arruinarte",
+    "description": "En los últimos meses hemos pasado de usar prompts simples a construir sistemas con RAG y agentes para casi cualquier problema. Pero cuando estas soluciones crecen aparecen retos reales: costes, latencia, complejidad y mantenimiento._x000D_\n_x000D_\nEn esta sesión veremos algunos de los errores más comunes al diseñar aplicaciones de IA generativa, cuándo merece la pena usar RAG o agentes y cuándo una solución más simple suele ser suficiente._x000D_\n_x000D_\nA través de ejemplos prácticos revisaremos patrones y decisiones de arquitectura para construir soluciones más eficientes y mantenibles.",
+    "speaker_first": "Sergio",
+    "speaker_last": "Hierro",
+    "tagline": "Software Engineering Consultant at Avanade | Staff Lead at Tech Riders | Técnologo",
+    "linkedin": "https://www.linkedin.com/in/shierroc/",
+    "profile_picture": "https://cdn.sessionize.com/image/d4ef-400o400o1-4UzrURHHQ94wf4ZXSgoQW2.jpg"
+  },
+  {
+    "title": "10 tips para que tu app Blazor funcione bien en producción",
+    "description": "Blazor es una tecnología que cada vez más equipos eligen para sus aplicaciones web en .NET, pero saltar de un proyecto de prueba a producción tiene sus trampas. _x000D_\n_x000D_\nEn esta sesión repasamos 10 tips concretos y aplicables que marcan la diferencia: desde elegir bien el modo de renderizado (Server, WASM, Auto), gestionar el estado correctamente, optimizar la interoperabilidad con JavaScript, configurar la autenticación y autorización, hasta aplicar lazy loading, telemetría y estrategias de despliegue que realmente funcionan._x000D_\n_x000D_\nCada tip está respaldado por ejemplos reales extraídos de proyectos en producción, con el código suficiente para entender el problema y la solución. _x000D_\n_x000D_\nSi estás usando Blazor o estás a punto de hacerlo, esta sesión te dará una lista de comprobación valiosa para evitar los errores más comunes y sacar el máximo partido del framework.",
+    "speaker_first": "Emiliano",
+    "speaker_last": "Montesdeoca",
+    "tagline": "Microsoft MVP in Developer Technologies & Cloud Solutions Team Lead en Intelequia",
+    "linkedin": "https://www.linkedin.com/in/emimontesdeoca/",
+    "profile_picture": "https://cdn.sessionize.com/image/3b3c-400o400o1-Nj5rqcaAponXAQ5oTE6k8y.jpg"
+  },
+  {
+    "title": "Build interactive Agents with Generative UI on Azure",
+    "description": "En esta sesión comprenderemos los tres enfoques para crear interfaces de agentes en el ámbito de la UI Generativa (Generative UI) y cuándo utilizar cada una:_x000D_\n_x000D_\n- UI Generativa Controlada_x000D_\n-  Declarativa_x000D_\n-  Abierta (Open-Ended)_x000D_\n_x000D_\nVisualizaremos una aplicación de agente conectando un agente de LangChain a un frontend en React utilizando CopilotKit y el protocolo AG-UI, con agentes que renderizan gráficos, tarjetas y formularios bajo demanda. Se usara Azure AI Foundry para probar dicho agente y protocolo de interfaz entre agente y frontal.",
+    "speaker_first": "Alexander",
+    "speaker_last": "González",
+    "tagline": "AI Cloud Solution Architect at Avanade | Microsoft AI MVP ",
+    "linkedin": "https://www.linkedin.com/in/alexander-gonz%C3%A1lez-0b388177/",
+    "profile_picture": "https://cdn.sessionize.com/image/1db9-400o400o1-P3mizVZspTdVTcdho528hC.jpg"
+  },
+  {
+    "title": "La respuesta al Vibecoding - Spec Driven Development con SpecKit",
+    "description": "Spec Kit es un marco de desarrollo guiado por especificaciones que estructura el trabajo con agentes de codificación como Copilot, Claude Code o Codex. _x000D_\n_x000D_\nEn lugar de empezar directamente por el código, parte de una especificación clara del problema y avanza mediante un flujo de clarificación, análisis, planificación, descomposición de tareas e implementación._x000D_\n_x000D_\nCada etapa genera contexto y decisiones explícitas, creando una memoria de proyecto coherente y trazable en el tiempo. _x000D_\n_x000D_\nAdemás, mediante archivos como `constitution.md`, los equipos pueden definir principios arquitectónicos y restricciones globales que guían todo el desarrollo._x000D_\n_x000D_\nEn esta charla veremos cómo funciona este enfoque en la práctica, cómo mejora la colaboración con agentes de IA y cómo ayuda a preservar el contexto y la calidad arquitectónica a largo plazo.",
+    "speaker_first": "Leonardo",
+    "speaker_last": "Micheloni",
+    "tagline": "Software Developer at Tokiota",
+    "linkedin": "https://www.linkedin.com/in/leomicheloni/",
+    "profile_picture": "https://cdn.sessionize.com/image/6144-400o400o1-61-b15d-4b8d-9fc6-d6cb32932511.74b5dbad-2b19-4a2f-86d5-0e6ea4bea147.jpg"
+  },
+  {
+    "title": "🏝️ AI Survival Kit  Lo que nadie te cuenta sobre trabajar con agentes en producción",
+    "description": "Crear un agente funcional es fácil._x000D_\n_x000D_\nConseguir que sobreviva en producción…_x000D_\nya es otra historia._x000D_\n_x000D_\nEn esta sesión veremos los problemas reales que aparecen cuando trabajamos con agentes modernos usando:_x000D_\n_x000D_\n* Microsoft Copilot Studio_x000D_\n* GitHub Copilot_x000D_\n* Herramientas externas_x000D_\n* Memoria_x000D_\n* Workflows multiagente_x000D_\n_x000D_\nHablaremos de:_x000D_\n_x000D_\n* Prompts que fallan_x000D_\n* Agentes que “alucinan”_x000D_\n* Costes inesperados_x000D_\n* Pérdida de contexto_x000D_\n* Seguridad_x000D_\n* Debugging_x000D_\n* Gobernanza_x000D_\n* Observabilidad_x000D_\n* Decisiones que marcan la diferencia entre una demo bonita… y una solución usable._x000D_\n_x000D_\nTodo acompañado de demos reales, errores en vivo y aprendizajes prácticos para cualquiera que quiera trabajar con IA moderna sin caer en el hype.",
+    "speaker_first": "Érika",
+    "speaker_last": "Cepeda",
+    "tagline": "Microsoft MVP M365 Copilot | Copilot Sales Specialist @ Devoteam | IA, comunicación y comunidad con flores y mariposas",
+    "linkedin": "https://www.linkedin.com/in/erikacepeda/",
+    "profile_picture": "https://cdn.sessionize.com/image/f802-400o400o1-sHDCfC58BQa2T54zyBJUoy.jpg"
+  },
+  {
+    "title": "Tu Primer despliegue con PBIP Power BI Control de versiones CI/CD GIT en GITHUB",
+    "description": "_x000D_\n_x000D_\nÚnete a nuestra sesión educativa \"Maestría en Control de Versiones: Git, GitHub y Power BI\", diseñada para llevarte de lo básico a lo avanzado en el manejo de herramientas esenciales para el desarrollo y análisis de datos. Aprende a dominar Git y GitHub como herramientas de control de versiones y descubre cómo integrarlas eficazmente con Power BI para potenciar tus proyectos de análisis._x000D_\n_x000D_\nEn esta serie de videos educativos, exploraremos:_x000D_\n_x000D_\nFundamentos de Git y GitHub: Configuración inicial, comandos básicos y mejores prácticas._x000D_\nFlujos de trabajo avanzados: Resolución de conflictos, uso de ramas y colaboración en equipo._x000D_\nIntegración con Power BI: Cómo gestionar versiones de tus proyectos de análisis y compartirlos de manera eficiente._x000D_\nEste evento es perfecto para analistas de datos, desarrolladores y cualquier persona interesada en mejorar su productividad mediante el control de versiones y la colaboración efectiva. ¡No te lo pierdas!",
+    "speaker_first": "Vicente Antonio",
+    "speaker_last": "Juan Magallanes",
+    "tagline": "Ingeniero de datos - Microsoft Fabric - Power BI - Power Apps - Power Automate en Conversia - Microsoft MVP Data Platform",
+    "linkedin": "https://www.linkedin.com/in/vicente-antonio-juan-magallanes-ba7ab4127/",
+    "profile_picture": "https://cdn.sessionize.com/image/dda4-400o400o1-HUydqJTQ1YwtpxWbnVryVG.png"
+  },
+  {
+    "title": "Copilot in Action: Building Apps with PowerPlatform and Unlocking Insights with Microsoft Fabric",
+    "description": "Step into the future of app development and data analysis with Microsoft Copilot. In this session, we’ll show you exactly how to leverage Copilot to build and refine a real-world demo application in PowerApps, showcasing the speed and simplicity of low-code development. From there, we’ll integrate this app with Microsoft Fabric to enable advanced data processing and real-time insights._x000D_\n_x000D_\nThrough live demos, you’ll learn how to use Copilot to streamline app creation, orchestrate data flows within Fabric’s data pipelines, and generate actionable insights with Power BI—all without writing a single line of complex code. We’ll also explore Fabric’s advanced data capabilities, demonstrating how to interact with and optimize datasets directly from our Copilot-powered app._x000D_\n_x000D_\nThis session is packed with actionable strategies, real-world examples, and clear, step-by-step guidance. By the end, you’ll have a practical roadmap for using Copilot and Microsoft Fabric together to enhance productivity, accelerate data-driven decision-making, and unlock new possibilities for your organization._x000D_\n_x000D_\nWhether you’re a developer, a data professional, or a Power Platform enthusiast, this session will give you the tools you need to master Copilot and Microsoft Fabric in your day-to-day work. Don’t just imagine the possibilities—experience them firsthand!",
+    "speaker_first": "Alex",
+    "speaker_last": "Rostan",
+    "tagline": "Microsoft Business Applications MVP / Director",
+    "linkedin": "https://www.linkedin.com/in/alexrostan/",
+    "profile_picture": "https://cdn.sessionize.com/image/c6d8-400o400o1-J1CWQHqYEUresA8KwxRQU2.jpg"
+  },
+  {
+    "title": "RAG end-to-end con SQL Database in Fabric y Power BI",
+    "description": "En esta sesión construiremos un sistema RAG end-to-end utilizando SQL Database in Microsoft Fabric y Power BI. Partiremos de datos reales, generaremos embeddings, los almacenaremos en SQL, prepararemos búsquedas semánticas y conectaremos el resultado con un modelo de lenguaje para obtener respuestas basadas en nuestros propios datos._x000D_\n_x000D_\nAdemás de la parte funcional, veremos los puntos que suelen marcar la diferencia cuando queremos llevar este tipo de soluciones más allá de la demo: diseño de tablas, indexación, seguridad, control de acceso, trazabilidad, evaluación de respuestas y métricas de uso. Cerraremos la sesión mostrando cómo Power BI puede ayudarnos a visualizar el comportamiento del sistema mediante informes orientados a seguimiento, calidad y adopción.",
+    "speaker_first": "Roberto",
+    "speaker_last": "Carrancio",
+    "tagline": "Microsoft MVP | Ingeniero de rendimiento de SQL Server en IESA Comunidades Tecnológicas",
+    "linkedin": "https://www.linkedin.com/in/robertocarrancio/",
+    "profile_picture": "https://cdn.sessionize.com/image/1501-400o400o1-J7Ru9E1eRyCGSGnatRAmeS.png"
+  },
+  {
+    "title": "Creando agentes de Copilot Studio desde VS Code con GitHub Copilot y Claude",
+    "description": "¿Y si pudieras diseñar, modificar y versionar agentes de Microsoft Copilot Studio directamente desde Visual Studio Code, usando asistentes como GitHub Copilot o Claude para acelerar el desarrollo?_x000D_\n_x000D_\nEn esta sesión veremos cómo trabajar con agentes de Copilot Studio desde un enfoque más cercano al desarrollo profesional: estructura de proyecto, edición de topics, configuración declarativa, control de versiones, despliegue y colaboración mediante repositorios Git. Usaremos como ejemplo un agente FinOps, pero el foco no estará en FinOps, sino en el patrón de trabajo: cómo crear, mantener y evolucionar agentes empresariales de Copilot Studio como si fueran software._x000D_\n_x000D_\nDurante la demo mostraremos cómo apoyarnos en herramientas de IA generativa dentro del IDE para generar topics, ajustar instrucciones, crear conocimiento, refactorizar contenido conversacional y preparar despliegues de forma más rápida y controlada. También veremos qué partes encajan mejor con GitHub Copilot, qué puede aportar Claude y cómo combinar ambos en un flujo de trabajo práctico._x000D_\n_x000D_\nUna sesión para developers, architects y makers avanzados que quieran ir más allá del editor visual de Copilot Studio y adoptar un enfoque AI-assisted development, con VS Code, GitHub, control de versiones y buenas prácticas de ingeniería aplicadas a la creación de agentes.",
+    "speaker_first": "David",
+    "speaker_last": "Oliva",
+    "tagline": "Cloud Solution Architect | 3x Microsoft MVP in Developer Technologies",
+    "linkedin": "https://www.linkedin.com/in/davidolivaparedes",
+    "profile_picture": "https://cdn.sessionize.com/image/bac3-400o400o1-9WR6AQJGMWFXBwMa2PpFsQ.jpg"
+  },
+  {
+    "title": "Agentes inteligentes para facturas: conectando Business Central, Copilot Studio y seguridad",
+    "description": "Descubre cómo crear agentes conversacionales capaces de interactuar con Business Central para consultar y aprobar facturas desde lenguaje natural. En esta sesión construiremos un flujo completo usando Copilot Studio y Power Automate para integrar procesos de cuentas a pagar con experiencias conversacionales modernas._x000D_\nTambién exploraremos cómo incorporar identidad, autenticación y seguridad en agentes IA empresariales, aplicando controles de acceso y gobierno sobre las acciones ejecutadas dentro del ERP._x000D_\nUna sesión práctica enfocada en automatización Low-Code, experiencia de usuario y adopción segura de IA en procesos financieros.",
+    "speaker_first": "Lidia",
+    "speaker_last": "Fernández Nieto",
+    "tagline": "Security Cloud Engineer",
+    "linkedin": "https://www.linkedin.com/in/lidia-fernandez-nieto",
+    "profile_picture": "https://cdn.sessionize.com/image/78e2-400o400o1-XHGoWKDmqqupTWSWrsdxU7.jpg"
+  },
+  {
+    "title": " UDF vs UDF: DAX o Fabric, ¿cuál te llevas al verano? 🌴🍹",
+    "description": "Llevamos meses viéndolo y ya no podemos callarnos más: hay demasiada gente confundiendo dos cosas que se llaman igual… pero que no tienen absolutamente nada que ver. 🙈_x000D_\n_x000D_\nUDF vs UDF. Sí. Dos siglas idénticas. Dos tecnologías distintas. Un lío monumental._x000D_\n_x000D_\nPor un lado, las User Defined Functions en DAX: lógica reutilizable encapsulada dentro de tu modelo semántico en Power BI. Escríbela una vez, úsala donde quieras. Por otro, las User Data Functions en Microsoft Fabric: la nueva forma de extender Power BI con lógica personalizada y capacidades que antes sencillamente no existían._x000D_\n_x000D_\n¿Cuál es cuál? ¿Cuándo usar una y cuándo la otra? ¿Y por qué les pusieron el mismo nombre? Esa última pregunta también nos la hacemos nosotras. 😅_x000D_\n_x000D_\nEn esta sesión te lo contamos con demos reales y ejemplos que tienen sentido. Sin rodeos. Con el buen rollo de siempre._x000D_\n_x000D_\nPorque en verano también se aprende. Y si puede ser con una bebida fría en la mano, mejor. 🌴🍹",
+    "speaker_first": "Mónica",
+    "speaker_last": "Mesa",
+    "tagline": "BI & Data Analyst | Data Scientist | Microsoft MVP Data Platform | Speaker & Community Builder ",
+    "linkedin": "https://www.linkedin.com/in/monicamesa/",
+    "profile_picture": "https://cdn.sessionize.com/image/da1f-400o400o1-HC6iLpA1LLXFkpJMkNMDch.png"
+  },
+  {
+    "title": "Lleva tus Sitios de SharePoint al siguiente nivel con Copilot en SharePoint",
+    "description": "¿Estás preparado para revolucionar y elevar tus Sitios de SharePoint al siguiente nivel? En esta sesión práctica exploraremos en detalle lo que es Copilot en SharePoint, los escenarios y casos de uso que permite en tus Sitios de SharePoint tanto con las skills por defecto (Mejora tu Sitio, Organiza tus Bibliotecas de Documentos, Automatiza Procesos), como con Skills personalizadas  o bien creando agentes personalizados agentes en Sitios de SharePoint que aporten valor a tus usuarios.",
+    "speaker_first": "Juan Carlos",
+    "speaker_last": "González Martín",
+    "tagline": "Microsoft 365 SME at RICOH Spain S.L.U | Microsoft 365 & Microsoft 365 Copilot MVP",
+    "linkedin": "https://www.linkedin.com/in/juagon/",
+    "profile_picture": "https://cdn.sessionize.com/image/4015-400o400o1-aPWxvRkFurMUApeqteU7P8.jpg"
+  },
+  {
+    "title": "El stack del futuro ya está aquí: lidera la transformación IA de tu equipo ahora",
+    "description": "La IA generativa no es una moda, es un cambio estructural en cómo se construye software. Esta charla te da la perspectiva de Tech Lead para liderarlo: qué adoptar ya (Claude Code, Copilot), cómo integrarlo sin perder control arquitectónico, qué significa para  la calidad, y cómo entregar más valor y por lo tanto llegar al deploy con más confianza que antes.",
+    "speaker_first": "Adrian",
+    "speaker_last": "Diaz Cervera",
+    "tagline": "Technical Lead at SCRM Lidl International Hub | MVP Office  Development",
+    "linkedin": "https://www.linkedin.com/in/adriandiazcervera/",
+    "profile_picture": "https://cdn.sessionize.com/image/065f-400o400o1-be-b116-4e9a-bd9b-71015d64eca9.3ed7ada1-0859-4734-92de-a01838af88b7.jpg"
+  },
+  {
+    "title": "AI-Augmented Developer Tools",
+    "description": "Greenfield, brownfield... el día a día del desarrollo .NET tiene muchas caras. En cada una de ellas, la IA puede ser tu mejor compañero de equipo — o tu mayor fuente de caos._x000D_\n _x000D_\nEn esta sesión haremos un recorrido por los escenarios más comunes a los que nos enfrentamos: arrancar un proyecto desde cero, mejorar uno que ya existe, incorporar a alguien nuevo al equipo, mantener la arquitectura bajo control. En cada parada veremos cómo trabajar con AI de forma estructurada, con personas expertas que conocen tu contexto y tus convenciones._x000D_\n _x000D_\nPorque el objetivo no es que la IA escriba tu código. Es que tu equipo sea mejor — en calidad, en aprendizaje y en mentoring._x000D_\n _x000D_\nSaldrás con un flujo de trabajo concreto, ejemplos reales y un  install que lo pone todo en marcha.",
+    "speaker_first": "Rubén",
+    "speaker_last": "Gómez García",
+    "tagline": "Microsoft MVP - Developer at Plain Concepts",
+    "linkedin": "https://www.linkedin.com/in/rub%C3%A9n-g%C3%B3mez-garc%C3%ADa-2a2b844a/",
+    "profile_picture": "https://cdn.sessionize.com/image/8849-400o400o1-NzFepdYQsweXfr6YaQZPZV.jpg"
+  },
+  {
+    "title": "Agentes con calle: Para que tu IA deje de inventar y empiece a currar",
+    "description": "Montar un agente que responda preguntas mola, esta guay... pero.._x000D_\nMontar uno que entienda el negocio, sepa dónde está el dato bueno y no vaya por la vida alucinando como un becario con acceso a producción… eso ya es otra liga._x000D_\n_x000D_\nEn esta sesión nos metemos hasta la cocina de la nueva arquitectura de agentes en Microsoft y veremos qué pintan realmente Work IQ, Fabric IQ y Foundry IQ en todo este tinglado._x000D_\n_x000D_\nHablaremos de cómo estas capas IQ ayudan a que los agentes entiendan señales de trabajo, contexto empresarial, semántica de negocio y conocimiento distribuido. En cristiano: cómo pasar de un chatbot resultón a un agente con criterio, memoria de empresa y capacidad de aportar valor de verdad._x000D_\n_x000D_\nUna charla técnica, práctica y sin humo sobre cómo construir agentes más listos, más gobernados y bastante menos kamikazes para el mundo real.",
+    "speaker_first": "Gabriel",
+    "speaker_last": "Naranjo Lituma",
+    "tagline": " Sr. Cloud Solutions Architect - Europe Hybrid CoE",
+    "linkedin": "https://www.linkedin.com/in/gnl/",
+    "profile_picture": "https://cdn.sessionize.com/image/d817-400o400o1-snN7tWK2fr7Nn3tNrEgZCY.jpg"
+  },
+  {
+    "title": "Foundry Local: Llevando la IA al Entorno Local",
+    "description": "Descubre cómo Foundry Local lleva la inteligencia artificial directamente a tu PC, permitiendo ejecutar modelos en local con mayor velocidad, privacidad y menor costo. Exploraremos casos de uso, arquitectura y cómo integrar IA local en tus aplicaciones.",
+    "speaker_first": "Lennin",
+    "speaker_last": "Cenas",
+    "tagline": "Microsoft AI MVP | AI Consultant | Professor",
+    "linkedin": "https://www.linkedin.com/in/lennincenas",
+    "profile_picture": "https://cdn.sessionize.com/image/d26f-400o400o1-JBkYCpmWHtko9f8ArfZtjd.jpg"
+  },
+  {
+    "title": "Construyendo apps con agentes: Copilot, Spec‑Kit, LAT.md y Sentrux",
+    "description": "En esta charla veremos cómo construir una aplicación moderna de principio a fin combinando un ecosistema de agentes y herramientas:_x000D_\n_x000D_\nDefinición funcional con Spec‑Kit_x000D_\n_x000D_\nIteración y generación asistida con Copilot_x000D_\n_x000D_\nDiseño automático en Figma mediante MCP_x000D_\n_x000D_\nOrganización de reglas y documentación con LAT.md_x000D_\n_x000D_\nValidación estructural y de comportamiento con Sentrux y tests_x000D_\n_x000D_\nEnseño cómo crear una app completa usando un pipeline de agentes donde Spec‑Kit define, Copilot genera, Figma diseña, LAT.md documenta y Sentrux valida.",
+    "speaker_first": "Elbrinner",
+    "speaker_last": "Da Silva Fernandes",
+    "tagline": "EL - Arquitecto/Developer/Consultor",
+    "linkedin": "https://www.linkedin.com/in/elbrinner",
+    "profile_picture": "https://cdn.sessionize.com/image/1760-400o400o1-NjQ7XKPQiDFwKYauezCs9U.png"
+  },
+  {
+    "title": "La retro del Dungeon Master: guía a tu equipo a la siguiente fase",
+    "description": "En cada sprint, el equipo entra en la mazmorra: bugs, bloqueos, prisas… y al final solo queda el botín y el cansancio. Pero la retrospectiva no nació para “cumplir con el ritual”, sino para parar, mirar el combate con honestidad y elegir qué habilidad subimos para el siguiente sprint._x000D_\nEn esta charla enseñamos cómo estamos creando un agente que actúa como Dungeon Master de la retro: propone dinámicas para “hacer piña”, reparte turnos para que todo el mundo hable, y convierte lo que sale en mesa en acciones claras con seguimiento real._x000D_\nPorque una buena retro no solo mejora el delivery: también crea un espacio seguro para bajar el ruido, soltar lo que pesa y cuidar la salud mental del equipo desde lo práctico.",
+    "speaker_first": "Ana Pereira",
+    "speaker_last": "Pereira",
+    "tagline": "Analyst en Avanade",
+    "linkedin": "https://www.linkedin.com/in/anampereiramolinero/",
+    "profile_picture": "https://cdn.sessionize.com/image/c239-400o400o1-MyDiZu5tm56fPEFUi9rJBr.jpg"
+  },
+  {
+    "title": "Microsoft Agent Framework Deep Dive",
+    "description": "en esa sesión mostrare como crear agentes, uso de MCP, tools y mas, todo usando Microsoft Agent Framework en C# .NET",
+    "speaker_first": "Ricardo Josue",
+    "speaker_last": "Perez Altamirano",
+    "tagline": "Arquitecto de soluciones TI",
+    "linkedin": "https://www.linkedin.com/in/ricardojosue/",
+    "profile_picture": "https://cdn.sessionize.com/image/a8df-400o400o1-T7Dh8xaNLr5t7L28viUeFU.jpg"
+  },
+  {
+    "title": "Agent Skills en Microsoft Fabric: haciendo más determinista el trabajo en Fabric con agentes de IA",
+    "description": "Las Agent Skills de Microsoft Fabric fueron uno de los anuncios que más me entusiasmaron de la última FabCon. Con ellas podemos hacer que nuestros agentes sean capaces de interactuar con el entorno de Fabric para ayudar en tareas de desarrollo, administración y operación._x000D_\n_x000D_\nEn esta sesión veremos cómo funcionan estas skills, qué requisitos tienen y qué nos permiten hacer, todo ello a través de varios ejemplos prácticos.",
+    "speaker_first": "Nelson",
+    "speaker_last": "Lopez",
+    "tagline": "I help you transform your data into solutions (dataXbi.com)",
+    "linkedin": "https://www.linkedin.com/in/nelson-lopez-centeno/",
+    "profile_picture": "https://cdn.sessionize.com/image/02b4-400o400o1-a8jx8eNj693WwCDKM5Xtqy.jpg"
+  },
+  {
+    "title": "Construyendo Agentes de IA con Microsoft Foundry y Claude",
+    "description": "La nueva generación de aplicaciones de IA ya no se limita a simples chats o copilots. Hoy hablamos de agentes inteligentes capaces de razonar, utilizar herramientas, ejecutar tareas complejas e interactuar con sistemas empresariales._x000D_\n_x000D_\nEn esta sesión construiremos agentes de IA reales utilizando Microsoft Foundry y los modelos Claude de Anthropic disponibles en Azure. Exploraremos cómo aprovechar Claude Sonnet, Opus y Haiku para diseñar soluciones agentic modernas.",
+    "speaker_first": "Pablo",
+    "speaker_last": "Piovano",
+    "tagline": "Director of AI at OZ Digital Consulting | Microsoft MVP in AI | Docker Captain | Speaker, AI Cloud Advocate & Microsoft Specialist",
+    "linkedin": "https://www.linkedin.com/in/ppiova/",
+    "profile_picture": "https://cdn.sessionize.com/image/6245-400o400o1-J2w3Sfdadvgk5uYvrCBgEV.jpg"
+  },
+  {
+    "title": "Dentro del motor: entendiendo cómo VertiPaq procesa y comprime tus datos en Power BI",
+    "description": "VertiPaq es el motor de almacenamiento que permite a Power BI ofrecer un rendimiento excepcional en la compresión y el procesamiento de grandes volúmenes de datos. Entender cómo trabaja este motor es fundamental para diseñar modelos tabulares eficientes y escalables._x000D_\n_x000D_\nEn esta sesión analizaremos los principios de funcionamiento de VertiPaq, desde su lógica de compresión columnar hasta la forma en que gestiona la carga y el almacenamiento en memoria. Exploraremos cómo estas características influyen en el rendimiento general del modelo y qué aspectos del diseño y la estructura de los datos deben considerarse para aprovechar al máximo su potencial.",
+    "speaker_first": "Cecilia",
+    "speaker_last": "Esparza",
+    "tagline": "Analista de datos. Microsoft MVP Data Platform. Microsoft Certified Power BI Data Analyst Associate.",
+    "linkedin": "https://www.linkedin.com/in/cecilia-esparza-catalan-data-analyst",
+    "profile_picture": "https://cdn.sessionize.com/image/484a-400o400o1-pTvLH2mAjeDWCFjRJQUadG.jpg"
+  },
+  {
+    "title": "Subiendo el nivel de Data API Builder: Seguridad, observabilidad e integración moderna",
+    "description": "Data API Builder es una herramienta open source que permite exponer bases de datos modernas mediante APIs REST y GraphQL de forma rápida, segura y con mínima configuración. Diseñado para simplificar el acceso a datos y acelerar el desarrollo de aplicaciones, ofrece un enfoque flexible para construir capas de API sobre tus datos sin necesidad de desarrollar un backend completo._x000D_\n_x000D_\nEn esta sesión de nivel intermedio, llevaremos Data API Builder al siguiente nivel con escenarios de seguridad, gobernanza y operación._x000D_\n_x000D_\nExploraremos cómo integrar autenticación con Microsoft Entra ID para proteger el acceso a tus APIs, implementar autorización basada en roles para controlar de forma granular quién puede acceder a qué datos, y habilitar capacidades de observabilidad y telemetría para monitorear, diagnosticar y operar tus servicios con confianza._x000D_\n_x000D_\nAdemás, revisaremos escenarios modernos de interoperabilidad, incluyendo la autenticación para servidores MCP, mostrando cómo Data API Builder puede participar en arquitecturas preparadas para IA y agentes._x000D_\n_x000D_\nA través de demostraciones prácticas y casos de uso concretos, descubrirás cómo construir APIs seguras, observables y preparadas para entornos modernos utilizando Data API Builder._x000D_\n_x000D_\nSesión dirigida a desarrolladores, arquitectos y profesionales de datos que ya conocen los conceptos básicos de Data API Builder y quieren profundizar en capacidades avanzadas para escenarios empresariales y aplicaciones impulsadas por IA.",
+    "speaker_first": "Luis",
+    "speaker_last": "Beltran",
+    "tagline": "Microsoft MVP ",
+    "linkedin": "https://linkedin.com/in/luis-antonio-beltran-prieto",
+    "profile_picture": "https://cdn.sessionize.com/image/84ea-400o400o1-fyAQhBPQ49TkkWc6xQrD7i.jpg"
+  },
+  {
+    "title": "Agentes IA en producción: más rápidos, más baratos y menos ingenuos",
+    "description": "Crear un agente con IA generativa es relativamente fácil. Conseguir que funcione bien en producción, con buena latencia, costes controlados y resultados consistentes, es otra historia._x000D_\nEn esta sesión veremos cómo diseñar agentes más eficientes desde una perspectiva práctica: reducción de llamadas innecesarias al modelo, optimización del contexto, selección inteligente de modelos, uso eficiente de herramientas, RAG orientado a coste/rendimiento y patrones para evitar que un agente “razone de más” cuando no hace falta._x000D_\nLa charla se centrará en una idea clave: el coste de un agente no depende solo del precio del modelo, sino de la arquitectura de decisión que hay alrededor. Veremos errores habituales, patrones de optimización y formas de medir si un agente está siendo realmente eficiente._x000D_\nUna sesión pensada para quienes ya han experimentado con agentes y quieren dar el siguiente paso: construir soluciones más rápidas, sostenibles y preparadas para producción.",
+    "speaker_first": "Roberto",
+    "speaker_last": "Navarro",
+    "tagline": "Microsoft MVP IA, NTT Data, Azure Evangelist & Architect BigData/IA",
+    "linkedin": "https://www.linkedin.com/in/roberto-navarro-matesanz",
+    "profile_picture": "https://cdn.sessionize.com/image/6c5d-400o400o1-pHWh9tp8c2PWVPeT92K8ir.jpg"
+  },
+  {
+    "title": "Cámaras, listos y AI Acción Vol 2",
+    "description": "Si vuelve esta serie con más fuerza , nos quedamos en que hacer un corto profesional es posible pero , podemos hacer nuestro propio avatar como James Camerón , darle vida a nuestros personajes en múltiples escenas o clonarnos a nosotros mismos con piel , movimiento y voz?? _x000D_\n_x000D_\nVamos a indagar mucho en real emotion , y en mejorar el audio de nuestros personajes hasta que sea imposible descifrar si es real o es mentira . Venga a por ello !!!!",
+    "speaker_first": "Sergio",
+    "speaker_last": "Hernandez Mancebo",
+    "tagline": "Cloud Solutions Architect at Nationale Nederlanden",
+    "linkedin": "",
+    "profile_picture": "https://cdn.sessionize.com/image/3160-400o400o1-7N952MyWWrucsk8JL4tfxx.jpg"
+  },
+  {
+    "title": "Stop Building APIs. Forge Agents with Azure",
+    "description": "En esta sesión veremos en directo cómo se construye una aplicación AI‑native desplegada en Azure Container Apps que sustituye endpoints por agentes autónomos. Usaremos .NET Aspire para componer la app, Dapr para comunicación y componentes, y Azure AI Foundry Agent Service para diseñar, desplegar y gobernar agentes. Verás código, despliegue y telemetría con Azure Monitor/OpenTelemetry para entender cómo pasar de desarrollo local a la nube. ",
+    "speaker_first": "Santiago",
+    "speaker_last": "Porras Rodríguez",
+    "tagline": "Innovation Team Leader, MVP Developer Technologies",
+    "linkedin": "https://www.linkedin.com/in/santiago-porras/",
+    "profile_picture": "https://cdn.sessionize.com/image/5135-400o400o1-40-94c3-4323-80cd-f3e72f09ad6a.8018579b-7e4e-485e-98ae-8afec8af1eb6.png"
+  },
+  {
+    "title": "¿Quién vigila a los agentes? Seguridad y gobierno con Microsoft Agent 365",
+    "description": "Los agentes de IA están dejando de ser simples asistentes para convertirse en actores capaces de consultar información, utilizar herramientas, tomar decisiones y ejecutar acciones dentro de los procesos empresariales. Esta autonomía abre nuevas oportunidades, pero también plantea preguntas difíciles: ¿qué agentes existen en la organización?, ¿con qué identidad operan?, ¿a qué datos y sistemas pueden acceder?, ¿cómo podemos detectar un comportamiento anómalo y quién responde cuando algo sale mal?_x000D_\n_x000D_\nEn esta sesión veremos cómo Microsoft Agent 365 permite abordar estos desafíos proporcionando un plano de control común para descubrir, administrar, observar y proteger los agentes de una organización, independientemente de dónde hayan sido creados. Partiremos de un escenario empresarial en el que diferentes equipos comienzan a desplegar agentes y analizaremos cómo pasar de una adopción fragmentada a un modelo de gobierno estructurado._x000D_\n_x000D_\nRecorreremos los principales controles que intervienen en ese modelo: el inventario y descubrimiento de agentes —incluidos aquellos que aparecen fuera de los canales oficiales—, la asignación de identidades específicas mediante Microsoft Entra Agent ID, la aplicación del principio de mínimo privilegio, la supervisión de actividad y dependencias, y la protección frente a amenazas, comportamientos de riesgo y posibles fugas de información mediante Microsoft Defender y Microsoft Purview._x000D_\n_x000D_\nLa sesión combinará arquitectura, decisiones de diseño y demostraciones prácticas para mostrar cómo incorporar un agente al modelo de gobierno, revisar su identidad y sus permisos, analizar su actividad y establecer controles adecuados durante todo su ciclo de vida. También abordaremos errores habituales, como tratar a los agentes como aplicaciones tradicionales, conceder permisos excesivos, carecer de responsables claros o intentar gobernar únicamente la plataforma en la que fueron desarrollados._x000D_\n_x000D_\nAl finalizar, los asistentes sabrán cómo elaborar un inventario fiable de agentes, definir un modelo de responsabilidades entre negocio, TI y seguridad, diseñar una estrategia de identidad y acceso de mínimo privilegio, establecer controles de observabilidad y protección de datos, y construir una hoja de ruta para adoptar agentes de IA a escala sin perder visibilidad ni control.",
+    "speaker_first": "Ramón",
+    "speaker_last": "Rautenstrauch",
+    "tagline": "Passionate ❤ Marketer. Microsoft MVP 😊. Copilot Evangelist 🤖. CMO 😍. SEO 🧠. AI and Dynamics 365 Consultant 👨‍💻. PLAYMOBILpro facilitator 💭.",
+    "linkedin": "https://www.linkedin.com/in/ramonrautenstrauch/",
+    "profile_picture": "https://cdn.sessionize.com/image/2f26-400o400o1-DH18NRfckCSPEq5Q5NsNEC.jpg"
+  },
+  {
+    "title": "Fabric AI Functions o cómo integrar LLMs directamente en Fabric",
+    "description": "En esta sesión exploraremos cómo incorporar modelos de lenguaje (LLMs) directamente dentro de los flujos de datos en Microsoft Fabric mediante las Fabric AI Functions._x000D_\nVeremos cómo estas capacidades permiten enriquecer datasets desde notebooks, pipelines y consultas SQL, eliminando la necesidad de integraciones externas y simplificando la arquitectura._x000D_\nMostraremos cómo, en pocos pasos, puedes aplicar IA a tareas clave como:_x000D_\n_x000D_\n-transformación y normalización de texto_x000D_\n-traducción automática multidioma_x000D_\n-clasificación y categorización inteligente_x000D_\n-extracción de información estructurada_x000D_\n-generación de resúmenes y enriquecimiento semántico_x000D_\n_x000D_\nGracias a su integración nativa con Fabric y Foundry, estas funciones convierten el stack de datos en un entorno donde la inteligencia artificial forma parte del propio proceso de transformación.",
+    "speaker_first": "María",
+    "speaker_last": "Soto Castro",
+    "tagline": "Head of Innovation at Bravent & Microsoft AI MVP",
+    "linkedin": "https://es.linkedin.com/in/mariasotocastro",
+    "profile_picture": "https://cdn.sessionize.com/image/44dc-400o400o1-BoxvheSCdhVHBJYy31MpKJ.jpg"
+  },
+  {
+    "title": "Hands-On Copilot Cowork Dataverse MCP Server Plugin",
+    "description": "En esta sesión práctica conectaremos el servidor MCP de Dataverse directamente con Copilot Cowork mediante un plugin personalizado, de forma que toda la funcionalidad del MCP de Dataverse quede disponible sin salir de Cowork._x000D_\n_x000D_\nEmpezaremos por la base: registraremos una aplicación en Entra con el permiso mcp.tools, habilitaremos el servidor MCP de Dataverse en el entorno de Power Platform, añadiremos el Client ID como cliente MCP permitido y crearemos el registro OAuth en el Teams Developer Portal. Repasaremos qué valor va en cada portal (Tenant ID, Client ID, Org URL, MCP URL, OAuth registration ID) y los errores típicos que hacen fallar la integración aunque todo parezca correcto._x000D_\n_x000D_\nA continuación construiremos el plugin que expone las herramientas del servidor MCP de Dataverse a Cowork, lo empaquetaremos y lo desplegaremos en Agent 365 para nuestro propio usuario de prueba. Con la conexión validada, cerraremos con la parte divertida: usar Cowork para consultar datos reales de Dataverse, seguir relaciones entre tablas y generar visualizaciones de datos atractivas, dashboards e informes listos para negocio._x000D_\n_x000D_\nUna sesión pensada para perfiles low-code y pro-code que quieran ver el flujo completo, de extremo a extremo, funcionando en vivo._x000D_\n_x000D_\nKey takeaways:_x000D_\n_x000D_\n_x0009_1._x0009_Cómo preparar la identidad y la autenticación de extremo a extremo (Entra, Power Platform admin center, Teams Developer Portal) y qué valor corresponde a cada sitio._x000D_\n_x0009_2._x0009_Cómo habilitar el servidor MCP de Dataverse en un entorno y registrar el cliente MCP permitido._x000D_\n_x0009_3._x0009_Cómo construir y empaquetar un plugin de Cowork que exponga todas las herramientas del MCP de Dataverse._x000D_\n_x0009_4._x0009_Cómo desplegar el plugin en Agent 365 y conectarlo desde una sesión de Cowork._x000D_\n_x0009_5._x0009_Cómo aportar contexto de esquema para que Cowork consulte tus tablas correctamente y genere visualizaciones, dashboards e informes con datos reales._x000D_\n_x0009_6._x0009_Los errores más habituales de configuración y cómo evitarlos.",
+    "speaker_first": "David",
+    "speaker_last": "Lorenzo",
+    "tagline": "Microsoft MVP Business Apps | Power Platform Solutions Architect at Prodware",
+    "linkedin": "https://www.linkedin.com/in/davidlorenzolopez/",
+    "profile_picture": "https://cdn.sessionize.com/image/4ecc-400o400o1-RVQZaHD9yyi6Zm37xWbJiA.jfif"
+  },
+  {
+    "title": "Materializando, que es gerundio. Vistas materializadas en Fabric Lakehouse",
+    "description": "El título lo dice todo: es hora de pasar de la teoría a la acción. En esta sesión, descubriremos cómo las vistas materializadas pueden transformar nuestros procesos y resultar un recurso de lo más útil. La idea es explorar tanto sus principales beneficios como las claves para identificar sus mejores casos de uso en tu día a día. _x000D_\nPero como no todo es magia, abordaremos con total transparencia la \"letra pequeña\": cómo gestionar su actualización, las limitaciones con las que cuentan y el equilibrio entre velocidad y coste. _x000D_\n¡Acompáñame y descubre cómo sacarles el máximo partido!",
+    "speaker_first": "Rafael",
+    "speaker_last": "Báguena Girbés",
+    "tagline": "Data Engineer @ Plain Concepts | Microsoft Data Platform MVP",
+    "linkedin": "https://www.linkedin.com/in/rafaelbaguena",
+    "profile_picture": "https://cdn.sessionize.com/image/61c1-400o400o1-JsNidau95Tc3LbK1MHeprz.png"
+  },
+  {
+    "title": "Microsoft Fabric IQ potencia los agentes virtuales",
+    "description": "En esta charla vamos a descubrir cómo Fabric IQ está cambiando la forma en que trabajamos con agentes virtuales. Ya no se trata solo de responder preguntas: ahora los agentes entienden el lenguaje del negocio gracias a las ontologías, conectan datos dispersos en un grafo semántico, y pueden razonar en un contexto mas real.",
+    "speaker_first": "Raul",
+    "speaker_last": "Sao",
+    "tagline": "Solution Design of CA, Consultor de Inteligencia de Negocios",
+    "linkedin": "https://www.linkedin.com/in/raul-sao",
+    "profile_picture": "https://cdn.sessionize.com/image/3b7a-400o400o1-J3cgneGHc2yx5LWEWqTAXc.jpg"
+  },
+  {
+    "title": "GitHub’s Agentic Workflow: automatización inteligente para equipos de desarrollo",
+    "description": "En esta sesión exploraremos qué es GitHub’s Agentic Workflow y cómo puede transformar la forma en que los equipos desarrollan, revisan y entregan software. _x000D_\n_x000D_\nVeremos cómo los agentes impulsados por IA pueden asistir en tareas como la generación de código, análisis de cambios, automatización de flujos de trabajo y soporte en procesos de desarrollo, aumentando la productividad y reduciendo tareas repetitivas. _x000D_\n_x000D_\nTambién revisaremos casos de uso prácticos, beneficios, retos y buenas prácticas para adoptar este enfoque de manera efectiva dentro del ciclo de vida de desarrollo.",
+    "speaker_first": "Emiliano",
+    "speaker_last": "Montesdeoca",
+    "tagline": "Microsoft MVP in Developer Technologies & Cloud Solutions Team Lead en Intelequia",
+    "linkedin": "https://www.linkedin.com/in/emimontesdeoca/",
+    "profile_picture": "https://cdn.sessionize.com/image/3b3c-400o400o1-Nj5rqcaAponXAQ5oTE6k8y.jpg"
+  },
+  {
+    "title": "KQL en acción . Consultas Reales de MS Fabric.",
+    "description": "¿KQL te suena a chino? En esta sesión lo desmitificamos con código real y resultados en directo. Partimos de cero — sin instalaciones, sin suscripción de pago — y construimos consultas progresivas sobre datos reales en el clúster gratuito de Azure Data Explorer: desde un simple take hasta detección de anomalías con machine learning nativo. Veremos también cómo KQL encaja en el ecosistema de Microsoft Fabric y cómo conecta con Power BI y Data Activator para pasar del dato a la acción. Saldrás con las queries en la mano y el entorno listo para practicar hoy mismo, sin necesidad de licencia de Fabric.",
+    "speaker_first": "Alejandra",
+    "speaker_last": "Ben Fernández",
+    "tagline": "Data Analyst",
+    "linkedin": "https://www.linkedin.com/in/alejandrabenfernnandez-data-analyst/",
+    "profile_picture": "https://cdn.sessionize.com/image/f28f-400o400o1-E1Jhby2azKkCPhTEGgmU9e.jpg"
+  },
+  {
+    "title": "¿Y si el vibe coding no fuera tan malo? Trabajando con Squads y Github Copilot",
+    "description": "En el contexto de Spec-Driven Development, Squad propone una nueva forma de construir software donde la especificación no solo define el qué, sino que orquesta el cómo a través de un equipo de IA dirigido por humanos integrado en GitHub Copilot._x000D_\n_x000D_\nMucho más cercano al «vibe coding», empieza con una descripción clara de lo que se quiere construir, y Squad materializa un equipo completo de especialistas (frontend, backend, tester, lead, lo que haga falta) que viven como artefactos dentro del propio repositorio._x000D_\n_x000D_\nEstos miembros no son asistentes efímeros: persisten entre sesiones, aprenden del código, comparten decisiones y evolucionan conjuntamente, permitiendo avanzar en paralelo sin perder control ni trazabilidad. Cada rol opera con su propio contexto y conocimiento (incluyendo memoria) contribuyendo de forma estructurada y dejando un rastro explícito de lo aprendido, lo que refuerza la observabilidad y el alineamiento que habitualmente asociamos a los principios de SDD._x000D_\n_x000D_\nSquad no sustituye a los ingenieros ni a los responsables de decisión. Al contrario, sitúa a las personas en el centro, manteniendo la responsabilidad sobre prioridades, validaciones y cambios finales, mientras automatiza coordinación, repetición y ejecución paralela. El resultado es un modelo donde la especificación se convierte en el punto de verdad que guía tanto a humanos como a agentes, acelerando el desarrollo sin sacrificar gobierno ni control.",
+    "speaker_first": "Rodrigo",
+    "speaker_last": "Liberoff",
+    "tagline": "Cloud & Software Senior Architect | Generative AI and Language Models Tech Expert Lead | Senior Prompt Engineer | Microsoft Certified Professional (MCP) | Microsoft MVP for Azure",
+    "linkedin": "https://www.linkedin.com/in/rliberoff/",
+    "profile_picture": "https://cdn.sessionize.com/image/3387-400o400o1-QBWjQAxJtMXMYWCTn3Mdy3.png"
+  },
+  {
+    "title": "Managing Outgassing Risks in Anodized Aluminum for Contamination-Sensitive Optical Systems",
+    "description": "Anodized aluminum is widely used in high-power optical, semiconductor, precision metrology, and laser-processing systems because of its corrosion resistance, stray-light suppression, and optical absorption properties. However, its porous anodic oxide structure can retain moisture, hydrogen, dyes, electrolytes, and processing residues, which may later be released as volatile contaminants. In contamination-sensitive optical systems, these emissions can contribute to haze formation, scattering, and long-term performance degradation._x000D_\n_x000D_\nThis presentation examines surface-driven outgassing behavior in anodized aluminum under ambient and semi-controlled operating conditions, where released species are not actively removed by vacuum pumping. Key mechanisms discussed include moisture desorption, organic residue release, hydrated oxide dehydration, photon-induced desorption under ultraviolet or laser exposure, and microcrack-assisted transport during thermal cycling._x000D_\n_x000D_\nThe session translates these mechanisms into practical engineering controls across the material and process chain. Topics include aluminum grain-structure refinement, improved pre-anodization surface finishing, controlled sulfuric acid anodizing, nickel acetate sealing, post-anodization bakeout, cleanroom-compatible cleaning, and moisture-controlled storage. The presentation also compares dense alternative coatings, including electroless nickel, sol–gel films, and Acktar coatings, for applications where conventional anodized finishes may present elevated contamination risk.",
+    "speaker_first": "Aravindh",
+    "speaker_last": "Sadhanandham",
+    "tagline": "Veeco Instruments Inc ",
+    "linkedin": "https://www.linkedin.com/in/aravindh-sadhanandham-6142424a",
+    "profile_picture": "https://cdn.sessionize.com/image/c794-400o400o1-QvfcaZQJnRz8eszXcuidun.jpg"
+  },
+  {
+    "title": "Creando Modelos semanticos, Informes, y el resto de artefactos en la era de la IA",
+    "description": "Lo que supone la Inteligencia artificial para el mundo de la ingeniería informática es un cambio tan importante como la revolución industrial. Sin embargo es fácil caer en las redes de las nomeclanturas, en los lios del hype y en la perdida de tiempo pagada con ilusión de mejores proyectos. _x000D_\nVeamos ejemplos reales para monitorización, visualización, modelado y buenas practicas en las que la inteligencia artificial viene al rescate de forma eficaz y veamos las pautas para hacer las cosas bien en Fabric y powerbi.",
+    "speaker_first": "Miguel",
+    "speaker_last": "Egea Gómez",
+    "tagline": "Mentor and Technical Advisor. (ex) MPV reconnect.",
+    "linkedin": "https://linkedin.com/in/megea/",
+    "profile_picture": "https://cdn.sessionize.com/image/ab02-400o400o1-6d-39ad-4c0a-9842-3b42db99079d.aa34e38b-3b87-4a84-af23-defebc96796c.jpg"
+  },
+  {
+    "title": "Resilient Cloud Connectivity: A Three-Layer Framework for Availability and Cost Optimization",
+    "description": "As mission-critical workloads move to cloud and multi-cloud environments, network connectivity has become a key architectural priority. Distributed applications, microservices, and growing data traffic are placing new demands on availability, latency, resilience, and cost efficiency._x000D_\n_x000D_\nThis session presents a practical three-layer framework for enterprise-to-cloud connectivity built around Physical Diversity, Intelligent Control, and Operational Governance. The framework helps organizations design connectivity strategies that improve reliability while balancing performance and cost._x000D_\n_x000D_\nThe session will cover how geographic diversity, carrier independence, and multi-path architectures can reduce single points of failure; how application-aware routing can prioritize critical workloads while shifting bulk traffic to cost-efficient paths; and how observability, failure-domain mapping, and operational runbooks can improve detection and recovery in multi-vendor and multi-cloud environments._x000D_\n_x000D_\nAttendees will gain a structured approach to evaluating cloud connectivity architectures, understanding cost–resilience trade-offs, and planning phased improvements for reliable, scalable, and financially efficient cloud operations.",
+    "speaker_first": "Sharath Kumar",
+    "speaker_last": "Bandaru",
+    "tagline": "Independent Researcher, USA",
+    "linkedin": "https://www.linkedin.com/in/sharathkumar-bandaru-b133a615b/",
+    "profile_picture": "https://cdn.sessionize.com/image/ee0b-400o400o1-4Suooo4r9f5BaY7SpEtco.jpg"
+  },
+  {
+    "title": "From Reactive Reporting to Predictive Risk Intelligence:AI-Driven Analytics for theModern Enterprise",
+    "description": "Enterprises today generate vast volumes of operational, financial, and business data, yet many organisations still depend on traditional business intelligence systems that identify risk only after it has already emerged. As market conditions, regulatory expectations, and operational complexity continue to accelerate, enterprise leaders need analytics capabilities that move beyond retrospective reporting toward predictive, real-time decision support._x000D_\n_x000D_\nThis session explores how artificial intelligence is reshaping enterprise risk intelligence through machine learning, automated anomaly detection, and intelligent data processing frameworks. It will examine how AI-enabled analytics platforms can help organisations detect emerging risks earlier, reduce false alerts, uncover meaningful patterns across complex data streams, and support faster, more informed decision-making._x000D_\n_x000D_\nThe presentation will also address the architectural and implementation choices that determine whether AI analytics initiatives succeed. Key topics include designing resilient ML pipelines, calibrating anomaly detection models across financial and operational datasets, managing shifting data distributions, and evolving legacy BI environments into adaptive decision-support systems without requiring full platform replacement._x000D_\n_x000D_\nAttendees will gain a practical framework for assessing AI analytics maturity within their organisations, along with implementation principles grounded in enterprise use cases. The session will conclude with a forward-looking view of how large language models and agentic AI are beginning to enter the analytics stack, and what this means for the future of predictive enterprise risk intelligence.",
+    "speaker_first": "Janardhana Naidu",
+    "speaker_last": "Kola",
+    "tagline": "ADP (Automatic Data Processing, Inc.)",
+    "linkedin": "https://www.linkedin.com/in/janardhana-kola/",
+    "profile_picture": "https://cdn.sessionize.com/image/2ffe-400o400o1-ETGWu9BRMshEnvHBCmiag1.png"
+  },
+  {
+    "title": "AI-Powered CRM and ERP Systems: Driving Predictive, Intelligent, and Scalable Business Operations",
+    "description": "Artificial Intelligence is transforming Customer Relationship Management and Enterprise Resource Planning systems from traditional operational platforms into intelligent engines for prediction, automation, and strategic decision-making. As organizations across industries accelerate digital transformation, AI-enabled CRM and ERP systems are becoming central to improving customer engagement, operational efficiency, financial accuracy, and long-term competitiveness._x000D_\n_x000D_\nThis session will explore how technologies such as machine learning, natural language processing, predictive analytics, and real-time data intelligence are being integrated into CRM and ERP platforms to deliver measurable business outcomes. In CRM environments, AI is enabling stronger lead prioritization, improved customer personalization, automated service interactions, and more accurate forecasting. In ERP systems, AI is supporting predictive maintenance, inventory optimization, financial automation, risk detection, and faster enterprise-wide decision-making._x000D_\n_x000D_\nThe talk will also address practical implementation strategies, including phased deployment models, data readiness, change management, governance, and cross-functional adoption. Special attention will be given to the evolving regulatory landscape, including the EU AI Act, and the importance of building compliance, transparency, and accountability into AI-driven enterprise systems from the outset._x000D_\n_x000D_\nDesigned for leaders and professionals in financial services, manufacturing, retail, healthcare, and technology-driven sectors, this session will provide actionable insights into how organizations can leverage AI-powered CRM and ERP platforms to achieve sustainable efficiency gains, stronger customer relationships, and a measurable competitive advantage.",
+    "speaker_first": "Siva Prasad",
+    "speaker_last": "Sunkara",
+    "tagline": "Senior Technical Program Manager At Microsoft ",
+    "linkedin": "",
+    "profile_picture": "https://cdn.sessionize.com/image/7785-400o400o1-EtyoJJbmk6woZJKkvNZB6J.jpg"
+  },
+  {
+    "title": "Governance-First AI Agents in Enterprise CRM: From Automation to Trusted Autonomy",
+    "description": "Enterprise CRM platforms are evolving from passive systems of record into intelligent operating layers capable of supporting autonomous decision-making across sales, service, and customer engagement workflows. With advances in Large Language Models and agentic AI frameworks, AI agents can now perform multi-step tasks such as lead qualification, opportunity management, customer communication, and workflow optimization with limited human intervention._x000D_\n_x000D_\nHowever, deploying autonomous agents in mission-critical CRM environments requires more than technical capability. Enterprises must address governance, scalability, explainability, regulatory compliance, data protection, and operational risk. Without clear boundaries, autonomous systems can introduce exposure in decision transparency, auditability, and accountability, particularly in regulated or high-stakes business contexts._x000D_\n_x000D_\nThis session introduces a governance-first reference architecture for safely integrating autonomous AI agents into enterprise CRM ecosystems, using Salesforce as a representative SaaS platform. The proposed framework includes agent orchestration, policy-based autonomy controls, human-in-the-loop oversight, auditable execution logs, prompt versioning, compliance-aware data access, and real-time behavioral monitoring._x000D_\n_x000D_\nAttendees will leave with a practical architectural blueprint for operationalizing AI agents in enterprise CRM systems while balancing innovation, control, trust, and audit readiness.",
+    "speaker_first": "Aditya",
+    "speaker_last": "Pothukuchi",
+    "tagline": "Brenntag",
+    "linkedin": "https://www.linkedin.com/in/adityasalesforce/",
+    "profile_picture": "https://cdn.sessionize.com/image/af2a-400o400o1-E3pSdFvdAH5Zzgg3y3nijo.jpg"
+  },
+  {
+    "title": "AI-Augmented EPCIS Anomaly Detection for Pharmaceutical Supply Chain Compliance",
+    "description": "Serialized pharmaceutical supply chains generate complex EPCIS event streams that capture product movement, partner activity, batch context, and traceability relationships. This session explores how AI-augmented anomaly detection can help identify diversion patterns, partner-behavior anomalies, batch-level quality signals, and recall-scope risks beyond traditional rule-based monitoring._x000D_\n_x000D_\nThe presentation introduces a human-in-the-loop framework in which machine learning outputs are used as decision support rather than autonomous decisions on regulated records. Flagged events or traceability subgraphs are reviewed by qualified users, whose actions are captured with userID, reasonCode, and timestamp attribution to support audit-trail integrity and alignment with 21 CFR Part 11 and EU GMP Annex 11._x000D_\n_x000D_\nThe session will also cover practical applications of unsupervised anomaly detection, autoencoders, and graph-based models such as GraphSAGE and Graph Attention Networks, along with governance requirements for compliant deployment, including data lineage, model versioning, change control, validation evidence, drift monitoring, and periodic revalidation._x000D_\n_x000D_\nAttendees will gain a practical framework for adopting AI in GxP supply-chain environments while maintaining regulatory defensibility, human accountability, and validated system lifecycle controls.",
+    "speaker_first": "Navdeep",
+    "speaker_last": "Malik",
+    "tagline": "Independent Researcher",
+    "linkedin": "https://www.linkedin.com/in/navdeep-m-50248714/",
+    "profile_picture": "https://cdn.sessionize.com/image/b529-400o400o1-aEupooHsRf3AeRzg7t5Ear.png"
+  },
+  {
+    "title": "Adopción e Implementación de agentes con Microsoft Foundry",
+    "description": "Los agentes de IA están transformando la forma en que desarrollamos software, pasando de sistemas que simplemente responden a sistemas capaces de razonar, actuar y tomar decisiones._x000D_\n_x000D_\nEn esta sesión, exploraremos cómo crear agentes de IA con Microsoft Foundry, integrar servidores MCP y orquestar flujos de trabajo con múltiples agentes. A través de escenarios reales y demostraciones en vivo, veremos cómo los agentes van más allá de las experiencias de chat para convertirse en sistemas potentes orientados a la acción._x000D_\n_x000D_\nAl finalizar, tendremos una comprensión clara de cómo funcionan los agentes, en qué casos tiene sentido utilizarlos y cómo incorporarlos en aplicaciones del mundo real.",
+    "speaker_first": "Daniel",
+    "speaker_last": "Gomez",
+    "tagline": "Microsoft MVP | AI Software Engineer",
+    "linkedin": "https://www.linkedin.com/in/esdanielgomez/",
+    "profile_picture": "https://cdn.sessionize.com/image/b8cc-400o400o1-7DKHjjQ4Yxio6HSsJ7wyNB.png"
+  },
+  {
+    "title": "A Risk-Driven CI/CD Framework for Faster, More Secure Delivery",
+    "description": "Modern engineering teams often struggle to balance rapid deployments with strong security controls. Traditional security practices can slow CI/CD pipelines, create bottlenecks, and increase release friction. This session presents a risk-driven framework that embeds adaptive security controls, policy-as-code, and automated remediation directly into cloud-native delivery workflows._x000D_\n_x000D_\nImplemented in a financial services environment, the framework achieved 97.3% vulnerability detection accuracy, reduced mean time to detection by 98.4% from 18.4 days to 0.3 days, and lowered security-related rollbacks by 79% while maintaining daily deployment frequency. It also delivered 94% automated compliance coverage, a 76% reduction in overall risk score, and only 3.7% build-time overhead._x000D_\n_x000D_\nAttendees will learn practical strategies for applying dynamic risk assessment, scaling policy-as-code, automating remediation, and measuring security outcomes without slowing delivery. The session offers production-tested lessons for transforming CI/CD security from a release blocker into an enabler of faster, safer software delivery.",
+    "speaker_first": "Rahul Chowdary",
+    "speaker_last": "Bondalapati",
+    "tagline": "Pace University, New York",
+    "linkedin": "https://www.linkedin.com/in/rahulbondalapati/",
+    "profile_picture": "https://cdn.sessionize.com/image/0f74-400o400o1-DmWgat38LYWKyevSNWEbfu.jpg"
+  },
+  {
+    "title": "Building Resilient Self-Healing Data Pipelines with Generative AI",
+    "description": "Data pipeline failures remain one of the most persistent challenges in modern data engineering, often resulting in downtime, delayed insights, and significant manual remediation effort. This session explores how generative AI can be applied to build self-healing data pipelines that detect failures, diagnose root causes, and trigger automated recovery workflows in production environments._x000D_\n_x000D_\nDrawing on real-world implementation experience across financial services, e-commerce, and healthcare, the presentation will examine practical architectures for autonomous data pipeline operations. Key topics include transformer-based anomaly detection, large language model–assisted root cause analysis, automated remediation workflows, and reinforcement learning approaches for resource optimization._x000D_\n_x000D_\nAttendees will see how self-healing systems can reduce mean time to recovery, improve anomaly detection accuracy, and lower operational overhead while maintaining appropriate governance and human oversight. The session will also address the ethical and operational considerations of autonomous data engineering, including bias mitigation, explainability, accountability, and safe escalation paths for mission-critical environments._x000D_\n_x000D_\nThrough production-oriented case studies and implementation patterns, participants will gain a practical framework for evaluating, designing, and deploying AI-enabled self-healing data pipelines. The session will conclude with guidance on ROI assessment, governance models, and reusable architectural patterns for organizations seeking to improve data reliability at scale.",
+    "speaker_first": "Lakshmi Srinivasarao",
+    "speaker_last": "Kothamasu",
+    "tagline": "Independent Researcher,USA",
+    "linkedin": "https://www.linkedin.com/in/srinivasarao-k-2a7ba792",
+    "profile_picture": "https://cdn.sessionize.com/image/5fac-400o400o1-PdWQzHJuBdcoeJATUVEvCR.jpg"
+  },
+  {
+    "title": "Low-Latency Multimodal Data Streaming for Real-Time Clinical Decision Support",
+    "description": "This session presents a low-latency streaming architecture for real-time clinical decision support using multimodal healthcare data, including electronic health records, wearable sensor streams, and medical imaging. The approach is designed for time-sensitive environments such as intensive care units and emergency response settings, where rapid analysis can directly support clinical decision-making._x000D_\n_x000D_\nThe architecture addresses key challenges in data ingestion, synchronization, and real-time inference. By using distributed stream processing and scalable data pipelines, it enables continuous analysis of heterogeneous healthcare inputs instead of relying on traditional batch-processing workflows._x000D_\n_x000D_\nA hybrid processing model combines edge-level filtering with centralized stream analytics. Edge filtering reduces unnecessary data transfer, while centralized analytics supports multimodal integration and machine learning–based clinical inference. Predictive models within the pipeline generate real-time alerts, including early warnings for potential patient deterioration._x000D_\n_x000D_\nUsing publicly available clinical datasets, the case study compares the streaming approach with batch-processing methods across latency, predictive accuracy, and alert generation. The session highlights how real-time streaming systems can improve clinical responsiveness, resource utilization, and intelligent healthcare applications.",
+    "speaker_first": "Naveen Kumar",
+    "speaker_last": "Pedada",
+    "tagline": "Cognizant Technology Solutions US CORP",
+    "linkedin": "https://www.linkedin.com/in/naveen-kumar-pedada-049b94aa/",
+    "profile_picture": "https://cdn.sessionize.com/image/eafa-400o400o1-S5Djo7yKrvoRYd35mBdQvG.jpg"
+  },
+  {
+    "title": "El algoritmo no miente, pero discrimina",
+    "description": "¡Qué tema! ¿No?_x000D_\n_x000D_\n¿Qué tienen en común la Inteligencia Artificial, el prejuicio, y la ilusión de objetividad?_x000D_\n_x000D_\nEs que el prejuicio es humano. Escribir código, es un producto humano también. Y si esto se automatiza... adquiere la apariencia de verdad objetiva._x000D_\n_x000D_\nEsta sesión parte de una perspectiva poco frecuente en el mundo técnico: la de alguien que estudió el prejuicio, los estereotipos y la discriminación como fenómenos psicosociales muchísimo antes de especializarse en datos e IA._x000D_\n_x000D_\nEl problema no es nuevo. La psicología social lleva décadas documentando cómo los estereotipos se naturalizan cuando una figura de autoridad los presenta como hechos. Lo que sí es cuasi-nuevo, es que hoy esa figura viene representada por el algoritmo._x000D_\n_x000D_\nUsando un caso real y ampliamente documentado, mostramos con R y el ecosistema Microsoft cómo un sistema de IA puede ser técnicamente correcto y estructuralmente discriminatorio al mismo tiempo. Y cómo herramientas que usamos a diario narran esos resultados con una neutralidad que no se cuestiona._x000D_\n_x000D_\nNo es que vayamos a llegar a una solución. Vamos a llegar a una paradoja y una pregunta que la tecnología sola no puede responder: ¿quién define qué es justo, y a costa de quién?_x000D_\n_x000D_\nEsta sesión no es para cualquiera. Es para quienes construyen con datos, y quieren hacerlo con más conciencia de los sesgos (peligrosos, en ocasiones) en los que se puede incurrir al interpretarlos.",
+    "speaker_first": "Paula",
+    "speaker_last": "Bria",
+    "tagline": "Business Intelligence & Analytics | Creadora y Host de LCDD | Psicóloga | Docente | Formadora en Cultura de Datos",
+    "linkedin": "https://www.linkedin.com/in/paulabria/",
+    "profile_picture": "https://cdn.sessionize.com/image/863f-400o400o1-D3UC15gF14JFDHC6avUGmX.png"
+  },
+  {
+    "title": "From Analytics to Action: Re-Architecting Master Data Management for Agentic Enterprise AI",
+    "description": "Enterprise AI is rapidly evolving from isolated text-generation tools to autonomous agents capable of executing complex operational decisions across business-critical workflows. These agents are beginning to support functions such as real-time inventory placement, system orchestration, and corporate rewards management. Yet most enterprise data architectures were designed for analytics, reporting, and retrospective insight—not for autonomous decision-making where actions are executed directly against systems of record._x000D_\n_x000D_\nThis session examines why Master Data Management must evolve from a legacy, batch-oriented data foundation into an action-grade operational layer for agentic enterprise AI. In autonomous environments, stale records, near-match identity errors, duplicate entities, and data drift can create serious downstream consequences when AI-driven decisions trigger live enterprise workflows. Reliable agentic systems therefore require a new MDM architecture built around immutability, versioned data contracts, real-time identity resolution, and event-driven execution._x000D_\n_x000D_\nDrawing on experience building enterprise master data hubs, including a global system orchestration framework spanning 38,000 retail locations, the presentation will explore the architectural and system-strategy decisions required to create a stable data substrate for AI-enabled operations. Attendees will learn practical approaches for implementing sub-second match-and-survive capabilities, real-time routing, idempotent workflows, and event-driven fan-out patterns using technologies such as AWS Lambda, DynamoDB, and EventBridge._x000D_\n_x000D_\nThe session will also address structural methods for reducing data drift and maintaining trusted entity resolution as autonomous agents interact with critical enterprise systems. Designed for enterprise architects, data leaders, AI platform teams, and technology decision-makers, this presentation offers a practical roadmap for re-architecting MDM for action-oriented AI environments where data quality directly determines operational outcomes.",
+    "speaker_first": "Vishwak",
+    "speaker_last": "Thatikonda",
+    "tagline": "Starbucks",
+    "linkedin": "https://www.linkedin.com/in/vishwakt/",
+    "profile_picture": "https://cdn.sessionize.com/image/4edd-400o400o1-R5EtvxW1isW7abc2E6KMyv.jpg"
+  },
+  {
+    "title": "Enterprise Integration Strategies for Large-Scale Digital Mergers",
+    "description": "Large-scale digital mergers require organizations to consolidate complex, deeply interconnected technology ecosystems while maintaining business continuity for millions of users and transactions. These environments often include customer relationship management systems, enterprise resource planning platforms, order management systems, billing infrastructures, and large-scale analytics platforms that have evolved independently over many years. As a result, merger programs must address heterogeneous technologies, inconsistent data models, tightly coupled dependencies, and significant operational risk._x000D_\n_x000D_\nThis presentation examines how structured enterprise integration frameworks can support successful digital mergers by aligning architecture, data, testing, governance, infrastructure, and performance engineering. The session will explore key architectural principles, including decoupled system design, modular architecture, microservices, application programming interfaces, middleware, orchestration layers, and standardized data contracts._x000D_\n_x000D_\nThe discussion will also cover practical data migration and harmonization strategies, such as canonical data models, transformation rules, validation frameworks, incremental and big-bang migration approaches, automated validation checks, audit trails, and exception handling. In addition, the presentation will address scalable testing and quality assurance practices across unit testing, integration testing, system testing, and user acceptance testing._x000D_\n_x000D_\nAttendees will gain insight into operational continuity strategies, including parallel-run execution, rollback planning, real-time monitoring, and observability frameworks based on response times, error rates, and system throughput. The session will further examine governance models, program management structures, organizational alignment, cloud-based architectures, containerization, orchestration platforms, horizontal scalability, load balancing, caching, predictive scaling, and automated resource allocation._x000D_\n_x000D_\nBy connecting enterprise architecture with execution governance and operational resilience, this presentation provides a practical framework for reducing integration risk, improving scalability, and enabling long-term innovation during large-scale digital merger initiatives.",
+    "speaker_first": "Supratim",
+    "speaker_last": "Dutta",
+    "tagline": "Independent Researcher",
+    "linkedin": "https://www.linkedin.com/in/supratim-dutta-73211b8b/",
+    "profile_picture": "https://cdn.sessionize.com/image/a084-400o400o1-Y4N2F587EJ8UC6MBKmfo3W.jpg"
+  },
+  {
+    "title": "AI-Assisted Modernization of Legacy jQuery Applications to React",
+    "description": "Legacy jQuery-based enterprise applications continue to power critical production systems across financial services, healthcare, and other regulated industries. Many of these front ends were originally built in the early to mid-2000s and have since accumulated decades of technical debt, with business logic, UI state, DOM manipulation, rendering, and event handling tightly intertwined._x000D_\n_x000D_\nThis session presents an AI-assisted, human-in-the-loop modernization approach for transforming large-scale jQuery applications into maintainable React component systems. The methodology combines static analysis, machine-learning-based pattern detection, automated component boundary identification, dependency graph generation, and candidate React component synthesis for developer review._x000D_\n_x000D_\nThe talk will examine key modernization dimensions, including component discovery, dependency mapping, coverage, consistency, and time to first component. It will also explore how data, event, shared-state, and indirect dependencies can be classified to determine migration sequencing, risk, and impact._x000D_\n_x000D_\nAttendees will learn how a hybrid coexistence layer can support incremental migration by allowing jQuery and React to operate on the same page through structured event-bridge messages. The session will also cover AI-assisted regression test generation using production behavior traces, including event sequences, DOM states, and server requests._x000D_\n_x000D_\nThe presentation concludes with a practical four-phase modernization roadmap quick wins, core journeys, complex integrations, and decommissioning designed to balance technical risk, business impact, and enterprise governance during large-scale front-end transformation.",
+    "speaker_first": "Mohammed",
+    "speaker_last": "Sayerwala",
+    "tagline": "Mphasis Corporation",
+    "linkedin": "https://www.linkedin.com/in/mohammed-sayerwala-0448b6130/",
+    "profile_picture": "https://cdn.sessionize.com/image/5873-400o400o1-Dhj5juKtPiYzRaixNpxDyn.png"
+  },
+  {
+    "title": "Advancing Conversational AI: NLP, Intent Intelligence, and Human-AI Collaboration",
+    "description": "Conversational AI has evolved rapidly from rule-based chatbots into context-aware, transformer-driven systems capable of understanding intent, managing complex dialogue, and supporting seamless human-AI collaboration. This session explores the next generation of intelligent conversational systems, focusing on the technologies and design principles that make them more accurate, adaptive, and human-centric._x000D_\n_x000D_\nThe talk begins with advances in intent recognition, where transformer-based models such as BERT and RoBERTa have significantly improved accuracy over traditional classifiers. By leveraging semantic embeddings and contextual language understanding, modern systems can better interpret nuanced, noisy, and multi-intent user inputs across real-world environments._x000D_\n_x000D_\nThe session then examines dialogue management, including the use of reinforcement learning, attention mechanisms, and memory-augmented architectures to support coherent multi-turn conversations. These innovations are improving task completion, personalization, and user satisfaction across sectors such as healthcare, finance, e-commerce, and enterprise support._x000D_\n_x000D_\nA key focus will be live agent handoff strategies, where contextual awareness, sentiment analysis, and hybrid routing models enable smoother escalation from AI systems to human agents. By preserving conversation history and user intent, organizations can reduce handling time while improving customer experience and service continuity._x000D_\n_x000D_\nThe session concludes with a forward-looking discussion on multimodal interfaces, ethical AI, responsible personalization, and bias mitigation. Attendees will gain practical insight into architecture patterns, performance considerations, and best practices for designing scalable, inclusive, and intelligent conversational AI systems that enhance rather than replace human expertise.",
+    "speaker_first": "Ramana Reddy",
+    "speaker_last": "Gunda",
+    "tagline": "Azure AI Virtual Assistant Lead at Tata Consultancy Services",
+    "linkedin": "",
+    "profile_picture": "https://cdn.sessionize.com/image/5d6e-400o400o1-ayrjJkPX7LdKgUcaKVfiqT.jpg"
+  },
+  {
+    "title": "AI-Driven Identity Verification and Fraud Risk Intelligence in Financial Services",
+    "description": "As digital financial services continue to expand, fraud threats are becoming more sophisticated, adaptive, and difficult to detect through traditional identity verification methods alone. Synthetic identity fraud, deepfake-enabled attacks, account takeover, payment manipulation, and operational control gaps now require financial institutions to rethink fraud prevention as a continuous, intelligence-driven function across the value chain._x000D_\n_x000D_\nThis presentation explores how artificial intelligence is transforming identity verification and risk analysis by enabling smarter, faster, and more scalable fraud detection. It examines the role of machine learning, graph-based fraud detection, behavioral analytics, federated identity frameworks, Zero Trust architecture, and blockchain-based verification in strengthening security while reducing friction for legitimate users. The session also highlights the importance of explainable AI, model governance, privacy-aware design, regulatory alignment, and integration with legacy systems._x000D_\n_x000D_\nBeyond customer onboarding and authentication, the talk demonstrates how AI-driven risk intelligence can enhance accounts payable controls, invoice review, vendor validation, transaction monitoring, and broader operational oversight. By connecting identity intelligence, compliance, transaction integrity, and internal controls, organizations can build more resilient and customer-conscious fraud prevention systems._x000D_\n_x000D_\nDesigned for professionals in AI, cybersecurity, digital banking, fraud prevention, and enterprise risk management, this session offers a practical framework for using AI to strengthen trust, improve decision-making, and build scalable security architectures for the future of financial services.",
+    "speaker_first": "Kedarnath Goud",
+    "speaker_last": "Kothinti",
+    "tagline": "Liverpool John Moores University (LJMU)",
+    "linkedin": "https://www.linkedin.com/in/k-kedarnath/",
+    "profile_picture": "https://cdn.sessionize.com/image/9abf-400o400o1-wr4LXvTSS5wiH9hZFViELt.jpg"
+  },
+  {
+    "title": "Governance by Design: Architecting Compliance-Critical Enterprise Case Processing Systems",
+    "description": "Enterprise case processing systems in regulated environments must do more than manage workflows; they must preserve procedural integrity, accountability, and legal defensibility under real operational conditions. Yet many systems treat governance as an administrative layer added on top of flexible tools, leaving institutions exposed to procedural gaps, inconsistent access controls, incomplete audit trails, and unreliable decision records._x000D_\n_x000D_\nThis presentation introduces a governance-centred architectural framework for compliance-critical case processing. The framework treats compliance not as a supervisory function, but as a system invariant: something structurally enforced across every case, role, transition, and failure scenario. Drawing on institutional theory, secure systems engineering, and distributed systems research, it defines four core architectural pillars._x000D_\n_x000D_\nFirst, deterministic lifecycle enforcement uses finite state machine modelling to restrict case progression to authorised transitions across defined procedural stages, including submission, intake review, investigation, adjudication, decision, appeal, and closure. Second, hierarchical authorisation enforcement aligns role-based and lattice-oriented access controls with institutional authority structures, reducing permission sprawl and preventing inappropriate access escalation. Third, immutable audit architecture applies cryptographic hash chaining to append-only logs, capturing actor identity, case state changes, synchronised timestamps, and integrity proofs suitable for regulatory inspection and judicial review. Fourth, distributed reliability uses causal event ordering and fault-tolerant state replication to preserve governance consistency across multi-node infrastructures, including during network partitions and system failures._x000D_\n_x000D_\nTogether, these components establish governance invariance: structural enforcement of procedural rules across all operational states. The proposed architecture is applicable to public sector adjudication, financial services compliance, investigative case management, and other accountability-intensive domains where compliance cannot depend solely on human supervision or after-the-fact auditing.",
+    "speaker_first": "Romal Bharatkumar",
+    "speaker_last": "Patel",
+    "tagline": "Independent Researcher, USA",
+    "linkedin": "https://www.linkedin.com/in/romalpatel/",
+    "profile_picture": "https://cdn.sessionize.com/image/189f-400o400o1-4rMfXAHD2bN4MzWA9ivRf7.png"
+  },
+  {
+    "title": "Our SDLC Journey with AI",
+    "description": "AI is changing how we build software, but its real value comes when it supports the whole SDLC, not only code generation._x000D_\n_x000D_\nIn this session, we will walk through a realistic feature delivery journey with GitHub Copilot: understanding the user story, validating acceptance criteria, planning, implementation, security review, and pull request validation._x000D_\n_x000D_\nWe will show how skills, custom agents, MCP integrations, and organization-level instructions can help teams break down work, accelerate development, and apply consistent engineering standards._x000D_\n_x000D_\nWe will also cover practical security checkpoints, including secure coding review, linting, dependency risk with Dependabot, and PR review guidance aligned with organizational guardrails._x000D_\n_x000D_\nThe goal is not to present AI as a shortcut, but as a practical teammate that helps teams deliver faster, with better quality and stronger security built into the process._x000D_\n_x000D_\n",
+    "speaker_first": "Diego",
+    "speaker_last": "Rodríguez Varela",
+    "tagline": "Software Development Engineer",
+    "linkedin": "https://www.linkedin.com/in/diego-rodriguez-varela",
+    "profile_picture": "https://cdn.sessionize.com/image/8856-400o400o1-NDsnrBJb1vYUYenswbJKGk.jpg"
+  },
+  {
+    "title": "Security by design en GitHub",
+    "description": "Descubre cómo llevar la seguridad a tus desarrollos desde el primer momento, integrándola de forma natural en todo tu workflow en GitHub. En esta charla veremos cómo trabajar para construir software más seguro sin sacrificar velocidad ni experiencia. Exploraremos automatización, análisis continuo y gestión de vulnerabilidades directamente en el flujo de trabajo diario. Convierte la plataforma en tu mejor aliada para prevenir riesgos antes de que ocurran. Porque la seguridad ya no es un paso extra… es parte del código desde el primer minuto.",
+    "speaker_first": "Elías",
+    "speaker_last": "Manchón López",
+    "tagline": "Most Valuable Secure Cloud & Devops Engineer in Devoteam",
+    "linkedin": "https://www.linkedin.com/in/elias-manchon-lopez/",
+    "profile_picture": "https://cdn.sessionize.com/image/0355-400o400o1-GLmFSZKj2zqwCQBuY98YY.jpg"
+  },
+  {
+    "title": "Building Self-Healing APIs with Intelligent Monitoring and Auto-Scaling",
+    "description": "Modern applications depend on APIs to connect services, automate business processes, and deliver reliable digital experiences. However, maintaining API availability in distributed cloud environments remains a significant challenge as workloads fluctuate and failures occur unexpectedly._x000D_\n_x000D_\nThis session presents a practical framework for autonomous API health management that combines continuous monitoring, real-time anomaly detection, automated recovery, and adaptive scaling. Using cloud-native orchestration and monitoring capabilities, the solution identifies service degradation, redirects traffic when necessary, restarts affected components, and dynamically adjusts resources to maintain service continuity._x000D_\n_x000D_\nThrough real-world implementation patterns and architecture walkthroughs, attendees will learn how to build self-healing API platforms that reduce downtime and improve operational resilience. The session will demonstrate how intelligent monitoring pipelines can be integrated with automated failover and scaling strategies to respond to changing system conditions without manual intervention._x000D_\n_x000D_\nKey results show improvements in recovery time, service availability, and infrastructure utilization under varying load scenarios. The discussion will also cover common implementation challenges, operational considerations, and future opportunities such as predictive failure detection and intelligent capacity planning._x000D_\n_x000D_\nAttendees will leave with practical guidance and reproducible approaches for implementing resilient API architectures using widely adopted cloud-native technologies.",
+    "speaker_first": "Anil Kumar",
+    "speaker_last": "Chitiprolu",
+    "tagline": " Sr. Full Stack Developer at Allstate Silutions Pvt Ltd.",
+    "linkedin": "https://www.linkedin.com/in/anil-kumar-404552212/",
+    "profile_picture": "https://cdn.sessionize.com/image/ba3a-400o400o1-QkZWmHMN9FwPht4MVB4Hwn.png"
+  },
+  {
+    "title": "Building Enterprise AI Agents with MCP and Production Governance",
+    "description": "As organizations adopt AI agents to automate operational workflows, ensuring governance, security, and reliable integration with enterprise systems becomes increasingly important. This session presents real-world implementation patterns for deploying enterprise AI agents using the Model Context Protocol (MCP) across 14 enterprise systems in production environments supporting more than 10,000 customers._x000D_\n_x000D_\nAttendees will learn how MCP simplified enterprise integrations, reducing implementation effort by 73% and lowering average tool integration time from 120 engineering hours to 32 hours per integration. The session explores the architecture behind four autonomous AI agents that process more than 4,200 operational events daily through a governance model combining direct execution, permission-gated actions, and human-in-the-loop escalation controls._x000D_\n_x000D_\nThe talk also covers practical governance techniques, including permission manifest architectures that embed role-based access control, rate limiting, and scope restrictions directly into MCP integrations. These controls reduced unauthorized tool invocations from 3.2 incidents per week to zero. Additional topics include confidence-gated orchestration models achieving 91% operational decision accuracy and autonomous vulnerability remediation systems that resolved more than 35,000 CVEs in production environments._x000D_\n_x000D_\nAttendees will gain practical implementation guidance, architectural patterns, governance frameworks, and security lessons that can be applied when building secure, scalable, and production-ready AI agent solutions.",
+    "speaker_first": "Satish Chandra",
+    "speaker_last": "Guruvelli",
+    "tagline": "Independent Researcher",
+    "linkedin": "https://www.linkedin.com/in/gsatishchandra/",
+    "profile_picture": "https://cdn.sessionize.com/image/03d3-400o400o1-ntsNdZ13dsJ44UY3HNLJPJ.jpg"
+  },
+  {
+    "title": "La verdad en la IA",
+    "description": "En esta sesión veremos algún caso de desarrollo sorprendente y algún sorprendente desarrollo. El problema en la formación del equipo y el pensamiento crítico. Y terminamos viendo una muestra de como aplicarlo a la hora de realizar pruebas sobre nuestros sistemas de IA",
+    "speaker_first": "Diego",
+    "speaker_last": "Zapico",
+    "tagline": "Expert Architect - NTT DATA",
+    "linkedin": "https://www.linkedin.com/in/dzapico/",
+    "profile_picture": "https://cdn.sessionize.com/image/e7e3-400o400o1-b6-d39a-4b1f-a7d5-7f244338e785.97317a8f-99b2-4a23-b6b3-7c2e96882ee5.jpg"
+  },
+  {
+    "title": "De la Fatiga por Alertas al Tuning Autónomo con Security Copilot",
+    "description": "_x000D_\nLas reglas analíticas de Microsoft Sentinel son un aspecto fundamental en la detección de amenazas, pero también pueden convertirse en una fuente importante de fatiga de alertas cuando las detecciones ruidosas poco ajustadas, los incidentes duplicados, las asignaciones de entidades débiles y los umbrales obsoletos no se ajustan de forma continua. Mediante el uso de agentes personalizados en Security Copilot veremos una manera práctica de convertir los flujos de trabajo de optimización en experiencias guiadas para analistas._x000D_\n_x000D_\nEsta charla explica cómo crear agentes personalizados de Security Copilot para optimizar reglas analíticas de Sentinel. Crearemos un agente interactivo que recupera definiciones de reglas, explica KQL y la configuración de reglas, identifica reglas ruidosas a partir de datos reales de incidentes de Sentinel, analiza entidades de alta frecuencia, recomienda ajustes seguros, valida el impacto en KQL y aplica actualizaciones de reglas aprobadas._x000D_\n_x000D_\nLos asistentes aprenderán a diseñar el manifiesto del agente, combinar habilidades de tipo Agente, GPT, KQL y API, escribir instrucciones de orquestación, implementar operaciones de escritura con aprobación previa y evitar errores comunes al crear automatización de seguridad sobre detecciones en producción._x000D_\n",
+    "speaker_first": "Jaime",
+    "speaker_last": "Guimera Coll",
+    "tagline": "Security and AI Architect at BlueVoyant",
+    "linkedin": "https://www.linkedin.com/in/jaimeguimera",
+    "profile_picture": "https://cdn.sessionize.com/image/346c-400o400o1-sT5EmxGkxqXBmzZCDfNBZ8.jpg"
+  },
+  {
+    "title": "Evitando el efecto queso suizo en la adopción de Copilot",
+    "description": "La adopción de Copilot no va solo de tecnología: va, sobre todo, de personas._x000D_\n_x000D_\nEn esta sesión exploraremos qué sucede realmente cuando un cambio impulsado por la IA aterriza en una organización: por qué saltarse la gestión del cambio genera stoppers y “agujeros” invisibles que frenan la adopción —convirtiendo la organización en un auténtico queso suizo— y cómo un enfoque estructurado como ADKAR ayuda a evitarlos._x000D_\n_x000D_\nHablaremos de por qué el acompañamiento en la adopción es clave para apoyar la transición de las personas, desde la incertidumbre inicial hasta el uso efectivo y confiado de Copilot, y de cómo no abordarlo de forma consciente termina provocando resistencias, desconfianza y abandono temprano._x000D_\n_x000D_\nUna sesión participativa y muy aterrizada a la realidad, centrada en riesgos reales y en acciones concretas para construir una adopción sostenible, medible y alineada con el negocio._x000D_\n_x000D_\n¿Qué se llevarán de la sesión?_x000D_\n_x000D_\n- Cómo diseñar programas de acompañamiento en la adopción de Microsoft 365 Copilot que apoyen a las personas durante todo el proceso de cambio._x000D_\n- Los pilares clave del éxito en la adopción, más allá de licencias, despliegues técnicos o formaciones puntuales._x000D_\n- Cómo medir la adopción más allá del “lo he usado”, identificando indicadores reales de valor, impacto y madurez en el uso de Copilot._x000D_\n_x000D_\nUna charla para quienes saben que implementar Copilot es relativamente fácil; lograr que cale de verdad en la organización, no tanto.",
+    "speaker_first": "Gema I.",
+    "speaker_last": "Ortega de Alba",
+    "tagline": "Devoteam, Change Managment Lead Consultant & Lead Presales",
+    "linkedin": "https://www.linkedin.com/in/gemaortegadealba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "profile_picture": "https://cdn.sessionize.com/image/99c5-400o400o1-SCZhoYXCLKQoyZKMCaV3Se.png"
+  },
+  {
+    "title": "Applied AI for Federal Permitting in Historic Districts",
+    "description": "This session shows how Artificial Intelligence can be applied to a real and reproducible regulatory automation use case: federal permitting review under NEPA and Section 106 for projects in historic districts and protected areas. The goal is to explain, in a practical and accessible way, how to combine language models, computer vision, geospatial analysis, and retrieval-augmented reasoning to reduce manual work, improve traceability, and accelerate decisions without losing human oversight._x000D_\n_x000D_\nThe use case focuses on infrastructure, telecommunications, utility, and defense projects that must evaluate Categorical Exclusions, potential impacts on National Register properties, height changes, ground disturbance, right-of-way restrictions, and other relevant criteria. The architecture integrates data from construction drawings, GIS boundaries, imagery, LiDAR, and services such as Google Street View, NPS IRMA, FCC ULS, EPA ECHO, and USGS 3DEP._x000D_\n_x000D_\nDuring the talk, attendees will learn how a multitechnology solution can orchestrate APIs in parallel, interpret technical documentation, generate compliance evidence, and support coordination across agencies. The session also explains how this approach can reduce repetitive tasks in routine permitting workflows, such as small-cell deployments, while maintaining clear criteria for escalating sensitive cases to human experts._x000D_\n_x000D_\nThis session is designed for developers, automation specialists, data professionals, and AI enthusiasts looking for applicable examples of how emerging technologies can become useful, traceable solutions connected to real community needs.",
+    "speaker_first": "Mohit",
+    "speaker_last": "Upadhyay",
+    "tagline": "Technology Partner Aka Principal Solutions Architect at Tech Mahindra",
+    "linkedin": "https://www.linkedin.com/in/mohit-upadhyay-06768324/",
+    "profile_picture": "https://cdn.sessionize.com/image/b424-400o400o1-VHkXPajfeXG8EGgdGbzai6.jpg"
+  },
+  {
+    "title": "Applied AI for Scalable Banking Advisory Optimization",
+    "description": "This session presents a practical case of how Artificial Intelligence can become a real and applicable solution for improving banking advisory services, operational efficiency, and data-driven decision-making. Through an AI-enabled decision support system, the session shows how machine learning, natural language processing, advanced analytics, and predictive modeling can support modern, scalable financial processes._x000D_\n_x000D_\nThe approach integrates structured and unstructured data, including transactions, behavioral patterns, and financial history, to generate intelligent client profiles, personalized recommendations, compliance alerts, and useful meeting briefs for advisors. A key component is predictive life-event modeling, which helps anticipate customer needs and support more proactive financial planning._x000D_\n_x000D_\nDesigned for a multitechnology audience interested in reproducible and applicable use cases, the session explains the conceptual architecture, main workflows, and an implementation roadmap that combines intelligent automation with human oversight. The goal is to show how AI can help move up to 60% of client interactions into more efficient advisory workflows while maintaining customer satisfaction, transparency, trust, and regulatory compliance._x000D_\n_x000D_\nRather than presenting a purely theoretical view, this talk connects AI, automation, analytics, and user experience in a concrete financial scenario. It demonstrates how these technologies can deliver useful solutions for organizations and communities building the digital future.",
+    "speaker_first": "Swamy",
+    "speaker_last": "Biru",
+    "tagline": "Vice President Software Engineering at JPMorganChase & Co",
+    "linkedin": "https://www.linkedin.com/in/swamy-biru/",
+    "profile_picture": "https://cdn.sessionize.com/image/7150-400o400o1-Vv8kXGTeCRBtpvSVpJb6Mi.jpg"
+  },
+  {
+    "title": "Fair AI in Practice: Detecting and Reducing Algorithmic Bias",
+    "description": "As artificial intelligence becomes part of real-world digital solutions, teams need practical ways to ensure that AI systems are accurate, fair, and trustworthy. This session focuses on how algorithmic bias appears in statistical models and how developers, data professionals, and technology communities can identify and reduce it using reproducible, data-driven methods._x000D_\n_x000D_\nThe talk will explain how bias can enter AI systems through data collection, model design, and demographic factors, with examples from high-impact areas such as hiring, lending, healthcare, and facial recognition. It will then present a practical framework for detecting, measuring, and mitigating bias using fairness metrics, model evaluation techniques, discrimination-aware training, bias-adversarial augmentation, and regular auditing._x000D_\n_x000D_\nDesigned for a multitechnology audience, this session connects ethical AI concepts with implementation practices that can be applied across modern AI workflows, cloud-based systems, business applications, and intelligent automation scenarios. Attendees will learn how to evaluate fairness-performance trade-offs, prepare for evolving compliance expectations, and integrate responsible AI checks into development and governance processes._x000D_\n_x000D_\nBy the end of the session, participants will have actionable guidance for building AI solutions that are not only technically effective, but also equitable, explainable, and aligned with community trust. The goal is to make responsible AI practical, accessible, and applicable for teams building the future of digital technology.",
+    "speaker_first": "Ranjeet",
+    "speaker_last": "Sharma",
+    "tagline": "Analyst at TATA CONSULTANCY SERVICES",
+    "linkedin": "https://www.linkedin.com/in/ranjeet-sharma-07773829/",
+    "profile_picture": "https://cdn.sessionize.com/image/6889-400o400o1-EHvnD2Q7AX99V4ypHnxio.jpg"
+  },
+  {
+    "title": "Building Ethical AI Data Pipelines with Practical Engineering Controls",
+    "description": "As artificial intelligence becomes part of real business applications, automation platforms, cloud solutions, and digital products, data engineers play a critical role in making these systems trustworthy. This session explores how ethical data engineering can turn privacy, fairness, and transparency from abstract principles into practical controls that teams can apply in real projects._x000D_\n_x000D_\nDesigned for a multitechnology audience, this talk connects AI, data engineering, cloud platforms, business applications, and responsible automation. We will examine how sensitive data can be exposed in AI workflows, how biased datasets can create unfair outcomes, and how engineering practices can reduce these risks before they reach production._x000D_\n_x000D_\nUsing practical examples from e-commerce and healthcare, the session will show how to introduce privacy-preserving techniques, bias detection, careful feature selection, fairness-aware engineering, documentation, and ethical review points across the data pipeline. These steps help teams build AI-ready systems that are more secure, explainable, and aligned with user expectations._x000D_\n_x000D_\nAttendees will leave with a reproducible framework they can adapt to their own projects, whether they work with AI applications, cloud data platforms, automation tools, or business apps. The goal is to help developers, data professionals, and technology communities build solutions that are not only innovative, but also responsible, transparent, and beneficial to society.",
+    "speaker_first": "Arun vivek",
+    "speaker_last": "Supramanian",
+    "tagline": "Senior Data Engineer at Amazon",
+    "linkedin": "https://www.linkedin.com/in/arunviveksupramanian/",
+    "profile_picture": "https://cdn.sessionize.com/image/015a-400o400o1-YaxBPRgb4KNDFYATPyCZdz.jpg"
+  },
+  {
+    "title": "Agentic AI and LLM-Powered RPA for Practical Automation",
+    "description": "This session explores how Robotic Process Automation is evolving through Agentic AI frameworks and Large Language Models, turning traditional rule-based automation into intelligent, adaptable business solutions. Designed for a multitechnology audience, the talk connects AI, automation, business applications, and cloud-ready architectures to show how organizations can move from repetitive task automation to context-aware process execution._x000D_\n_x000D_\nTraditional RPA has helped teams automate structured and repetitive work, but many real business processes still involve unstructured data, exceptions, changing rules, and human decision points. This session explains how Agentic Process Automation addresses these challenges by combining perception, cognitive processing, action planning, and execution frameworks._x000D_\n_x000D_\nUsing practical examples from financial services, healthcare, and customer service, the session highlights measurable outcomes such as reduced manual intervention, higher process automation rates, lower automation total cost of ownership, improved accuracy, and faster decision-making. It also discusses how AI-powered automation can support unstructured data extraction and complex workflow handling._x000D_\n_x000D_\nAttendees will gain a clear, accessible roadmap for designing and implementing intelligent automation responsibly. The session covers architecture patterns, implementation strategies, governance, risk management, and lessons learned from enterprise deployments. Participants will leave with practical ideas they can apply to build scalable, resilient, and business-focused automation solutions using Agentic AI and LLMs.",
+    "speaker_first": "Nishanth",
+    "speaker_last": "Vepachedu",
+    "tagline": "NIT Warangal, India",
+    "linkedin": "https://www.linkedin.com/in/nishanth-vepachedu-22a2894/",
+    "profile_picture": "https://cdn.sessionize.com/image/88a2-400o400o1-KusUQ5VRT3LJDsA9d5FUiy.jpg"
+  },
+  {
+    "title": "Enterprise Integration with Oracle SOA, Microservices, and Cloud",
+    "description": "As organizations modernize their digital platforms, one of the biggest challenges is connecting legacy enterprise systems with secure, scalable, and cloud-ready microservices. This session presents a practical and reproducible approach to enterprise integration using Oracle SOA Suite, Spring Boot microservices, Apache Kafka, REST and SOAP interoperability, API governance, workflow automation, and OAuth-based security._x000D_\n_x000D_\nFocused on real-world implementation patterns, the talk explains how enterprises can modernize monolithic environments without disrupting existing investments. Attendees will learn how to design synchronous and asynchronous workflows, support real-time transaction processing, improve data consistency across heterogeneous systems, and apply integration practices that strengthen governance, security compliance, resilience, and performance._x000D_\n_x000D_\nThe session also shares measurable implementation insights from the original research, including transaction success rates of 95% to 99% across batch, real-time, near real-time, and asynchronous processing models, response efficiency between 88% and 95%, 88% implementation success for automated testing initiatives, 85% API management adoption, and scalability implementation metrics reaching 80% across distributed architectures._x000D_\n_x000D_\nDesigned for enterprise architects, integration specialists, cloud engineers, developers, and technology leaders, this session connects enterprise integration concepts with practical modernization strategies that can be adapted to complex digital environments.",
+    "speaker_first": "Nagireddy",
+    "speaker_last": "Vasipally",
+    "tagline": "Principal Consultant at Creoal + SMX",
+    "linkedin": "https://www.linkedin.com/in/nagireddy-vasipally-44120814/",
+    "profile_picture": "https://cdn.sessionize.com/image/1e24-400o400o1-DaG3saa3prSM2s2XhSNrPJ.jpg"
+  },
+  {
+    "title": "Building Smarter Employee Experiences with HR Tech and AI",
+    "description": "HR technology is no longer only an internal operations tool. It has become a practical technology ecosystem that connects data, automation, business applications, analytics, and intelligent decision-making to improve how employees experience work._x000D_\n_x000D_\nThis session explores how Human Resource Information Systems, or HRIS, can improve the full employee lifecycle, from recruitment and onboarding to well-being, rewards, performance, and offboarding. Designed for a multitechnology audience, the talk will focus on real and applicable use cases that show how integrated HR platforms can reduce manual work, improve data accuracy, streamline recruitment, and support better people decisions._x000D_\n_x000D_\nThe session will also connect HRIS transformation with trends that are reshaping digital solutions, including intelligent automation, predictive analytics, hyper-personalization, and AI-assisted employee journeys. Attendees will see how these capabilities can help organizations identify retention risks earlier, create more personalized experiences, and make HR services more responsive, efficient, and human-centered._x000D_\n_x000D_\nBeyond the technology, the session will highlight the practical success factors that determine whether HRIS initiatives deliver lasting value, including clean data integration, user-friendly design, effective change management, measurable outcomes, and continuous improvement._x000D_\n_x000D_\nBy the end, participants will understand how HRIS, automation, analytics, and AI can work together to create employee experiences that are more connected, efficient, and impactful while supporting both employee satisfaction and organizational performance.",
+    "speaker_first": "Swetha Priya",
+    "speaker_last": "Sathiyam",
+    "tagline": "Senior Manager - Implementation Delivery - ADP Lyric HCM ADP Technology Services",
+    "linkedin": "https://www.linkedin.com/in/swethapriyasathiyam/",
+    "profile_picture": "https://cdn.sessionize.com/image/24cb-400o400o1-PuTAtr6oVi1Esx28CAmzPo.jpg"
+  },
+  {
+    "title": "Predictive AI for Smarter Finance and Vendor Risk",
+    "description": "This session presents a practical and reproducible use case for applying Artificial Intelligence, automation, and cloud-enabled business applications to real enterprise finance challenges. It focuses on how AI-powered predictive automation can improve invoice approvals and vendor risk assessment by helping finance teams classify invoices, identify low-risk transactions for automated approval, and flag higher-risk cases for manual review._x000D_\n_x000D_\nUsing the original finance workflow as context, the session will explain how historical vendor and invoice data can be prepared, modeled, and integrated into business processes to reduce manual effort, improve decision accuracy, accelerate approvals, and strengthen fraud and vendor risk controls. The talk will cover key technical foundations such as data preprocessing, model selection, risk scoring, enterprise integration, and the use of machine learning models including XGBoost and LightGBM._x000D_\n_x000D_\nThe content is designed for a multitechnology audience interested in AI, intelligent automation, Business Apps, Power Apps, Copilot-style decision support, and Azure-based innovation. Attendees will see how predictive AI can move finance operations from traditional rules-based processing toward intelligent, risk-based decisioning that is measurable, secure, and applicable in real organizations._x000D_\n_x000D_\nBy the end of the session, participants will understand how to design an AI-assisted finance automation approach that supports operational efficiency, compliance, auditability, and strategic decision-making, while remaining practical enough to adapt to their own business scenarios.",
+    "speaker_first": "Ranadheer Reddy ",
+    "speaker_last": "Charabuddi",
+    "tagline": "University of Dayton Ohio",
+    "linkedin": "https://www.linkedin.com/in/ranadheer30/",
+    "profile_picture": "https://cdn.sessionize.com/image/f98f-400o400o1-MEQ6smDfoZHazEY5HM7v1M.jpg"
+  },
+  {
+    "title": "Practical AI for SAP Integration in Enterprise M&A",
+    "description": "Mergers and acquisitions often make enterprise system integration one of the most complex parts of digital transformation. This session presents a practical case study of how a global enterprise used artificial intelligence to accelerate SAP integration, including the consolidation of multiple SAP environments and migration from SAP ECC to S/4HANA across multiple jurisdictions._x000D_\n_x000D_\nDesigned for a multitechnology audience, the session focuses on real, applicable lessons rather than theory. Attendees will learn how AI-supported data mapping, pattern recognition, predictive analytics, and automation helped reduce manual effort, improve data quality, and identify integration risks before they affected the business._x000D_\n_x000D_\nThe AI-powered framework accelerated the integration timeline by 40%, reduced overall costs by 30%, and maintained 99.8% business continuity throughout the transition. Neural networks reduced data mapping time by 76% compared with traditional methods, while achieving 99.3% first-pass migration accuracy across 15 TB of transactional and master data._x000D_\n_x000D_\nThe case study also shows how the team handled more than 3,000 custom ABAP objects and maintained compliance across GDPR, SOX, and HIPAA with zero violations during integration. Beyond the merger, the initiative delivered lasting benefits, including a 28% reduction in annual IT operational costs, 63% faster deployment of new capabilities, and improved transaction completion times._x000D_\n_x000D_\nThis session will help technology professionals, developers, architects, and business application teams understand how AI can turn complex enterprise integration into a practical, scalable, and business-focused accelerator for modernization.",
+    "speaker_first": "Neelima",
+    "speaker_last": "Aderu",
+    "tagline": "Jawaharlal Nehru Technological University (JNTU)",
+    "linkedin": "https://www.linkedin.com/in/neelimaaderu",
+    "profile_picture": "https://cdn.sessionize.com/image/451e-400o400o1-9uHHovDRAs8gYJ9waa9ENt.jpg"
+  },
+  {
+    "title": "Practical Agentic AI Document Pipelines on AWS",
+    "description": "Organizations still rely on manual effort to process large volumes of unstructured documents such as PDFs, contracts, forms, and reports. Traditional Intelligent Document Processing systems often depend on rigid templates and static workflows, which makes them hard to scale and adapt when business needs change._x000D_\n_x000D_\nThis session presents a practical, reproducible approach to building scalable AI document processing pipelines on AWS. Using Amazon S3, AWS Lambda, AWS Step Functions, Amazon Textract, and Amazon Bedrock, attendees will learn how to design a serverless architecture for document ingestion, parallel processing, structured extraction, metadata generation, and Retrieval-Augmented Generation workflows._x000D_\n_x000D_\nThe session focuses on real implementation patterns that developers and technology teams can apply beyond a demo environment. It explains how distributed orchestration, map-based workflows, chunking, page-level inference, schema generation, and embedding-based discovery can help process large document collections efficiently while maintaining visibility through Amazon CloudWatch._x000D_\n_x000D_\nThe talk also explores how document processing can evolve from traditional automation into agentic AI workflows using Amazon Bedrock AgentCore. Specialized AI agents can support document classification, information extraction, output validation, failure detection, and adaptive improvement of extraction quality._x000D_\n_x000D_\nSecurity and responsible implementation are included through PII and PHI detection, encryption with AWS KMS, IAM-based access control, and secure serverless deployment practices. Attendees will leave with practical architectural patterns, implementation guidance, and ideas they can adapt to build resilient, cost-efficient, enterprise-scale AI document intelligence solutions.",
+    "speaker_first": "Venkata Reddy",
+    "speaker_last": "Mulam",
+    "tagline": "Technical Architect, DEV LEAD at MIO Partners Inc. | New York, NY",
+    "linkedin": "https://www.linkedin.com/in/vmulam/",
+    "profile_picture": "https://cdn.sessionize.com/image/c895-400o400o1-TTrCDNVP3qgU5EJ4FUsAcF.jpg"
+  },
+  {
+    "title": "Building Secure and Resilient Performance Workflows",
+    "description": "Modern software teams are under constant pressure to deliver fast, reliable, and scalable digital solutions. At the same time, security must be treated as part of everyday engineering, not as a final checkpoint before release. This session presents a practical and reproducible approach for integrating security testing into performance-driven development environments while preserving speed, quality, and delivery confidence._x000D_\n_x000D_\nDesigned for a multitechnology audience, the session connects software engineering, DevSecOps, cloud reliability, automation, and operational monitoring. It explains why traditional performance testing often focuses on legitimate user behavior under load, while security testing is usually executed separately with adversarial inputs. This separation creates blind spots, especially when vulnerabilities appear only under realistic concurrency, resource pressure, and production-like conditions._x000D_\n_x000D_\nThe talk introduces a structured framework that teams can apply within existing delivery workflows. The approach includes pre-deployment configuration validation, security-focused traffic during load testing, and post-test correlation of security signals with performance metrics, application logs, and infrastructure behavior. Practical examples include denial-of-service conditions, authentication exhaustion, cryptographic bottlenecks, and other failures closely tied to system performance._x000D_\n_x000D_\nAttendees will leave with clear guidance for turning security validation into a collaborative engineering practice. The session emphasizes incremental adoption, shared ownership, automation, and measurable outcomes, making the content accessible for developers, architects, testers, cloud engineers, and technology leaders who want to build safer and more resilient digital systems.",
+    "speaker_first": "Namboodiri Arun",
+    "speaker_last": "Mullamangalath Kesavan",
+    "tagline": "Northwestern University, USA",
+    "linkedin": "",
+    "profile_picture": "https://cdn.sessionize.com/image/86df-400o400o1-73oxE7PtigxbXvyYs12Qt.jpg"
+  },
+  {
+    "title": "Practical Zero Trust Security for Serverless Cloud Platforms",
+    "description": "Serverless and Function-as-a-Service platforms help teams build scalable, cloud-native applications quickly, but they also introduce short-lived and highly distributed execution environments that challenge traditional security models. This session presents a practical adaptive Zero Trust framework for securing cloud-native FaaS architectures, based on empirical research across major cloud providers._x000D_\n_x000D_\nThe talk explains how function-level identity enforcement, fine-grained authorization, runtime behavioral monitoring, and adaptive policy controls can address security risks that are specific to serverless systems. These risks include cross-function attacks, dependency confusion, and timing-based exploitation, which conventional security mechanisms may struggle to detect consistently._x000D_\n_x000D_\nDesigned for a multitechnology audience, the session connects cloud security research with real-world implementation guidance. Attendees will learn how adaptive Zero Trust controls can improve threat detection and prevention while maintaining the scalability and efficiency that make serverless platforms valuable. The presentation also discusses performance and operational impact, including how behavioral baselining can reduce false alerts and improve usability for security teams._x000D_\n_x000D_\nThe session concludes with reproducible architectural guidance for applying Zero Trust principles in serverless environments without requiring major changes to application code. It is relevant for cloud architects, developers, DevSecOps engineers, and platform security teams who want to adopt serverless technologies securely and translate modern cloud security concepts into practical, applicable solutions.",
+    "speaker_first": "Ravi Sastry",
+    "speaker_last": "Kadali",
+    "tagline": "Independent Researcher, California, United States",
+    "linkedin": "https://www.linkedin.com/in/ravisastryk/",
+    "profile_picture": "https://cdn.sessionize.com/image/c787-400o400o1-Ktmq9X3XE8kVmcSqJv9RGq.png"
+  },
+  {
+    "title": "Cloud-Native Enterprise Architecture for Faster Digital Transformation",
+    "description": "Modern enterprises are under constant pressure to accelerate digital transformation while managing legacy systems, security requirements, and increasing operational complexity. This session provides a practical roadmap for adopting cloud-native enterprise architecture using proven technologies and implementation strategies that organizations can apply in real-world environments._x000D_\n_x000D_\nAttendees will learn how containerization, microservices, and service mesh improve scalability, resilience, and deployment speed across enterprise applications. The session also demonstrates how zero-trust architecture, compliance-as-code, and modern governance practices help organizations strengthen security and simplify regulatory compliance without slowing innovation._x000D_\n_x000D_\nThe presentation covers practical modernization approaches, including the strangler pattern, hybrid refactoring, and re-platforming, allowing teams to modernize existing systems incrementally while reducing operational risk. In addition, attendees will explore how DevOps, FinOps, and platform engineering practices enable faster software delivery, better collaboration, and improved cloud cost management._x000D_\n_x000D_\nDesigned for architects, developers, and technology leaders, this session combines architectural guidance with practical implementation strategies and real-world modernization approaches that participants can adapt within their own organizations. Attendees will leave with actionable insights for building scalable, secure, and resilient cloud-native platforms that support sustainable digital transformation and long-term business value.",
+    "speaker_first": "Pavankumar",
+    "speaker_last": "Yanamadala",
+    "tagline": "Sheffield Hallam",
+    "linkedin": "https://www.linkedin.com/in/pavan-y-3aa38821",
+    "profile_picture": "https://cdn.sessionize.com/image/5e80-400o400o1-PUswCnRvUSVw9SyMQqL7pL.jpg"
+  },
+  {
+    "title": "AI Search Revolution: Building Conversational Search Experiences",
+    "description": "Artificial Intelligence is transforming digital search by moving beyond traditional keyword matching to conversational, context-aware interactions. This session explores how modern AI technologies are changing the way users discover information and how developers can build intelligent search experiences using proven architectural patterns._x000D_\n_x000D_\nAttendees will learn the core components behind conversational search, including natural language processing, transformer-based language models, dialogue management, context preservation, and multimodal AI. The session explains how these technologies work together to improve query understanding, maintain conversation context, and deliver more relevant, personalized responses._x000D_\n_x000D_\nUsing practical examples and real-world implementation concepts, the presentation highlights design considerations for building conversational search applications, including scalability, user experience, privacy, and responsible AI practices. It also discusses common implementation challenges, such as maintaining conversational coherence, reducing bias, and integrating multiple AI capabilities into production systems._x000D_\n_x000D_\nParticipants will leave with a clear understanding of the architecture behind conversational AI search, current industry adoption trends, and practical approaches they can apply in their own projects. Whether building enterprise applications, intelligent assistants, or AI-powered information systems, attendees will gain actionable insights into creating more natural, efficient, and user-centric search experiences using modern AI technologies.",
+    "speaker_first": "Keshav ",
+    "speaker_last": "Agrawal",
+    "tagline": "The Wharton School at University of Pennsylvania, USA",
+    "linkedin": "https://www.linkedin.com/in/keshav98271/",
+    "profile_picture": "https://cdn.sessionize.com/image/59c6-400o400o1-aPx3Un8sLT6bAzTMWq2fbm.jpg"
+  },
+  {
+    "title": "Using AI Analytics to Improve ACA Risk Adjustment Performance",
+    "description": "Artificial Intelligence and advanced analytics are transforming how healthcare organizations manage Affordable Care Act (ACA) risk adjustment. This session demonstrates how AI-powered data analytics helps health plans improve financial performance, strengthen compliance, and streamline operations through practical, data-driven solutions._x000D_\n_x000D_\nUsing real-world ACA risk adjustment scenarios, we will explore how predictive analytics, Natural Language Processing (NLP), and intelligent data integration improve HCC capture, enhance risk prediction, and uncover opportunities hidden within structured and unstructured healthcare data. Attendees will learn how modern analytics has evolved from traditional reporting to AI-enhanced predictive models that deliver measurable improvements in accuracy, efficiency, and return on investment._x000D_\n_x000D_\nThe session also examines common implementation challenges, including fragmented data sources, data quality issues, and operational constraints, along with practical approaches for overcoming them using scalable analytics platforms and AI-driven workflows. Real implementation outcomes will illustrate improvements in processing efficiency, member matching accuracy, provider engagement, and compliance monitoring._x000D_\n_x000D_\nDesigned for developers, data professionals, AI practitioners, and technology enthusiasts, this presentation focuses on reproducible concepts that can be applied to modern analytics solutions beyond healthcare. Participants will gain practical insights into building intelligent, data-driven systems that combine AI, analytics, and cloud technologies to solve complex business problems while maintaining regulatory compliance and delivering measurable business value.",
+    "speaker_first": "Avinash",
+    "speaker_last": "Dulam",
+    "tagline": "Osmania University, Hyderabad, India",
+    "linkedin": "https://www.linkedin.com/in/avinash-dulam-6260b629/",
+    "profile_picture": "https://cdn.sessionize.com/image/9b6b-400o400o1-aGQEEWqB4HLZW46kX22m9F.jpg"
+  },
+  {
+    "title": "Slurm vs Kubernetes: Choosing the Right Platform for Enterprise Workloads",
+    "description": "Modern enterprises increasingly run a combination of HPC, AI, and cloud-native applications, making resource management a critical architectural decision. This session presents a practical, data-driven comparison of Slurm and Kubernetes based on insights from 187 production deployments, helping developers, architects, DevOps engineers, and IT leaders understand where each platform provides the greatest value._x000D_\n_x000D_\nUsing real production metrics, we compare scheduling efficiency, resource allocation speed, memory footprint, scalability, recovery performance, and operational efficiency. The analysis highlights Slurm's strengths for HPC environments, including its adoption across 60% of the TOP500 supercomputers, management of more than 300,000 compute cores, and 93.7% scheduling efficiency. It also explores Kubernetes' leadership in container orchestration, with 96.8% market adoption, approximately 2 billion weekly deployments, and 99.99% service availability._x000D_\n_x000D_\nThe session demonstrates how these metrics translate into real technology decisions by examining scheduling latency, throughput, resource utilization, controller failover recovery, and day-to-day operational performance. It also discusses how hybrid Slurm and Kubernetes environments can improve infrastructure resilience, workflow completion, and resource utilization compared with standalone implementations._x000D_\n_x000D_\nAttendees will gain practical guidance for selecting Slurm, Kubernetes, or a hybrid architecture based on workload characteristics, business objectives, and operational requirements. Drawing on empirical data from 14 supercomputing centers and 76 production Kubernetes environments, the session provides an evidence-based framework that participants can apply to HPC, AI, and enterprise cloud deployments. The goal is to help organizations make informed infrastructure decisions using measurable performance data and real-world operational experience.",
+    "speaker_first": "Siva Prakash Reddy",
+    "speaker_last": "Mandadi",
+    "tagline": "California State university Long Beach",
+    "linkedin": "https://www.linkedin.com/in/themandadi/",
+    "profile_picture": "https://cdn.sessionize.com/image/a8c5-400o400o1-pnrJMJrCSyFDT9TP1McPfb.jpg"
+  },
+  {
+    "title": "Agente de Gastos: El nuevo agente de Business Central",
+    "description": "En la nueva versión de Business Central, se ha presentado un nuevo agente.  Se trata de gestionar los gastos de empresa, categorizarlos y aprobarlos.  _x000D_\n¿Quieres saber como funciona?  Te lo contaré en esta sesión.",
+    "speaker_first": "Roberto",
+    "speaker_last": "Corella",
+    "tagline": "Dual Microsoft MVP - MCT - Business Central Team Leader & PowerApps Developer",
+    "linkedin": "https://www.linkedin.com/in/robertocorella/",
+    "profile_picture": "https://cdn.sessionize.com/image/d10f-400o400o1-7iqB5y4Vkk2qH2riYu3Kba.jpg"
+  },
+  {
+    "title": "Creación Inteligente de Documentos con Copilot Studio y Plantillas Dinámicas",
+    "description": "En esta sesión exploraremos cómo utilizar Copilot Studio para automatizar la generación de documentos empresariales a partir de plantillas predefinidas. Veremos cómo diseñar plantillas reutilizables, integrar fuentes de datos (Dataverse, SharePoint, APIs, etc.) y orquestar agentes que generen documentos personalizados en tiempo real. A través de un enfoque práctico, se mostrarán escenarios reales como generación de contratos, informes o documentación operativa, combinando IA generativa con automatización de procesos para mejorar la eficiencia y reducir el esfuerzo manual.",
+    "speaker_first": "Ramon",
+    "speaker_last": "Palomares",
+    "tagline": "Practice Leader ",
+    "linkedin": "https://www.linkedin.com/in/ramon-palomares/",
+    "profile_picture": "https://cdn.sessionize.com/image/50b7-400o400o1-TTnJTzU5RzoC2wsdvgQP8i.jpeg"
+  },
+  {
+    "title": "OpenCode: Cuando los minions aterrizan en tu máquina local. Mas seguridad menos velocidad",
+    "description": "Claude Code se ha convertido en una referencia de los agentes de codificación en terminal, pero tiene un precio: dependes de Anthropic, pagas por token, y cuando los servidores se saturan… te quedas sin minions._x000D_\n_x000D_\nEn esta sesión veremos qué es OpenCode, cómo funciona su arquitectura cliente/servidor, cómo conectarlo con modelos locales y qué ganamos —y qué sacrificamos— al traernos los minions a casa. Porque sí, hay un trade-off real: más control y privacidad a cambio de velocidad de respuesta. Libertad no es gratis, pero al menos esta vez la pagamos en watts, no en dólares.",
+    "speaker_first": "Fernando",
+    "speaker_last": "Prada",
+    "tagline": "Senior AI Engineer & Technical Lead at Devoteam | Multi-Agent Systems Architect",
+    "linkedin": "https://linkedin.com/in/fernandopradagorge",
+    "profile_picture": "https://cdn.sessionize.com/image/6a94-400o400o1-JQtpZKWVKwbQFzg154r6ZQ.png"
+  },
+  {
+    "title": "Certificaciones Power Platform: del track tradicional al enfoque AI‑first",
+    "description": "En esta sesión vamos a repasar los cambios recientes en el track de certificación de Power Platform, comparando el modelo anterior con el nuevo enfoque centrado en capacidades AI y Applied Skills. _x000D_\n_x000D_\nQué veremos:  Exámenes que se retiran o se transforman, cómo mapear roles y trayectorias profesionales a las nuevas credenciales, y cómo comenzar a construir guías de estudio por examen con recursos oficiales de Microsoft Learn y labs recomendados. _x000D_\n_x000D_\nFinalmente veremos una propuesta de estrategia de estudio usando Copilot para mejorar la experiencia de aprendizaje y te prepares no solo para aprobar, sino para aprender.",
+    "speaker_first": "Carlos Javier",
+    "speaker_last": "Sosa Marquina",
+    "tagline": "Business Apps MVP | MCT | M365 & Power Platform Architect - knowmad mood",
+    "linkedin": "https://www.linkedin.com/in/carlosjsosam/",
+    "profile_picture": "https://cdn.sessionize.com/image/9ec8-400o400o1-RQC7duqWYrpdxbVuQA4NW5.jpg"
+  },
+  {
+    "title": "AI-Powered Database Observability: From Reactive to Predictive",
+    "description": "Modern cloud-native databases produce massive volumes of logs, metrics, and distributed traces, making it increasingly difficult to detect issues before they impact production. Traditional monitoring approaches struggle to keep pace with dynamic containerized environments where infrastructure changes continuously._x000D_\n_x000D_\nIn this session, you will learn how AI-powered observability enables engineering teams to move from reactive monitoring to predictive operations using practical techniques that can be integrated into existing environments. Through real-world examples, we will explore how organizations reduced Mean Time to Detection (MTTD) by up to 85%, improved Mean Time to Resolution (MTTR) by 75%, and increased alert accuracy from 20 to 30 percent to 80 to 90 percent, significantly reducing alert fatigue while preventing incidents before they escalated._x000D_\n_x000D_\nThe session includes practical demonstrations of machine learning for log pattern recognition, anomaly detection with dynamic baselines that adapt to changing workloads, real-time streaming analytics for early issue detection, and event correlation techniques that identify the root cause of cascading failures across distributed systems._x000D_\n_x000D_\nAttendees will also learn practical implementation strategies, including model training considerations, integration with existing observability platforms such as Prometheus and Datadog, and automation workflows that proactively remediate common database issues._x000D_\n_x000D_\nThe goal is to provide reproducible techniques and actionable guidance that developers, DevOps engineers, and database professionals can apply to build more resilient cloud-native systems using AI-powered observability.",
+    "speaker_first": "Ramakrishna",
+    "speaker_last": "Pittu",
+    "tagline": "Sr Systems Development Engineer at Google LLC",
+    "linkedin": "https://www.linkedin.com/in/ramakrishnapittu/",
+    "profile_picture": "https://cdn.sessionize.com/image/084e-400o400o1-9y2dqYEewL4yyBPvamwr47.jpg"
+  },
+  {
+    "title": "AI-Driven Fraud Detection in Cloud Banking with Azure",
+    "description": "Financial fraud is evolving faster than traditional rule-based detection systems can respond. Modern attacks use synthetic identities, real-time social engineering, and AI-assisted techniques that require more intelligent and adaptive security approaches._x000D_\n_x000D_\nIn this session, we will explore how cloud-native architectures on Azure and artificial intelligence can be combined to build scalable, adaptive fraud detection systems for digital banking. Starting from the limitations of conventional rule-based models, we will demonstrate how cloud services enable real-time data processing, elastic scalability, and continuous model improvement._x000D_\n_x000D_\nThe session will cover practical AI techniques, including ensemble learning, deep learning, and real-time inference, showing how they can detect complex fraud patterns across high-volume transaction data. We will also discuss how these models can improve detection accuracy while reducing false positives and supporting regulatory compliance._x000D_\n_x000D_\nAttendees will learn architectural patterns, implementation considerations, and best practices for building AI-powered fraud detection solutions using cloud technologies. The concepts presented are applicable to financial services and other industries that require real-time risk analysis and intelligent decision-making._x000D_\n_x000D_\nThe session is designed for developers, cloud architects, AI practitioners, and technology enthusiasts seeking practical approaches that they can reproduce and adapt in their own environments.",
+    "speaker_first": "Rajender",
+    "speaker_last": "Chilukala",
+    "tagline": "Independent Author",
+    "linkedin": "https://www.linkedin.com/in/rajender-chilukala-44336a171",
+    "profile_picture": "https://cdn.sessionize.com/image/7073-400o400o1-aj9H4N1L6PPmo27wheGvdQ.jpg"
+  },
+  {
+    "title": "Modernizing SAP O2C and EDI with AI for Smarter Manufacturing",
+    "description": "Manufacturing organizations are under increasing pressure to deliver faster, more accurate, and more connected business processes. This session demonstrates how modernizing SAP Order-to-Cash (O2C) and Electronic Data Interchange (EDI) with SAP S/4HANA, AI, RPA, and cloud technologies can improve operational efficiency while reducing manual work and errors._x000D_\n_x000D_\nUsing real-world implementation examples and industry research, attendees will explore practical approaches to streamlining O2C and EDI processes, improving data quality, enabling real-time visibility, and accelerating trading partner integration. The session highlights how intelligent automation supports touchless transactions, faster order processing, improved cash management, and more resilient supply chain operations._x000D_\n_x000D_\nThe presentation also covers proven implementation practices, including phased migrations, change management, leadership alignment, and measuring business outcomes. These lessons are applicable to organizations planning or actively executing SAP modernization initiatives._x000D_\n_x000D_\nDesigned as a technical and practical session, attendees will gain actionable guidance that can be adapted to their own SAP environments. Whether you are a developer, architect, consultant, or IT leader, you will leave with reproducible strategies for modernizing O2C and EDI processes and accelerating digital transformation in manufacturing.",
+    "speaker_first": "Venkateswara Rao",
+    "speaker_last": "Mekanaboina",
+    "tagline": "Sr.Systems Analyst at 3R Info",
+    "linkedin": "https://www.linkedin.com/in/venkateswara-rao-mekanaboina-903a781/",
+    "profile_picture": "https://cdn.sessionize.com/image/f637-400o400o1-NE3Gom8mfszw9fyHpLQMvY.jpg"
+  },
+  {
+    "title": "Orchestrating Multi-Cloud Innovation for Enterprise Excellence",
+    "description": "Modern enterprises are increasingly adopting multi-cloud architectures to build scalable, resilient, and intelligent digital platforms. This session presents a practical approach to designing and managing multi-cloud environments using proven technologies and real-world implementation strategies that participants can apply in their own organizations._x000D_\n_x000D_\nThrough enterprise case studies, attendees will learn how container orchestration improves application portability and scalability, how Infrastructure as Code (IaC) accelerates automation and standardizes deployments, and how AI-driven cloud optimization enhances performance, resource utilization, and operational efficiency across cloud platforms._x000D_\n_x000D_\nThe session also addresses the security and governance challenges of operating distributed cloud environments and demonstrates practical techniques to strengthen resilience, improve compliance, and simplify operations. Examples from finance, healthcare, retail, and manufacturing illustrate how organizations have reduced infrastructure costs, accelerated application delivery, improved healthcare data processing, and enhanced product quality through edge-to-cloud integration._x000D_\n_x000D_\nDesigned for developers, cloud engineers, architects, and technology leaders, this session combines technical insights with practical guidance and reproducible enterprise use cases. Attendees will leave with actionable strategies to standardize cloud operations, increase agility, strengthen governance, and leverage AI and cloud-native technologies to drive innovation across modern multi-cloud environments.",
+    "speaker_first": "Uday kiran",
+    "speaker_last": "Yedluri",
+    "tagline": "Sr. Systems Engineer  at CybeCys Inc",
+    "linkedin": "https://www.linkedin.com/in/uday-kiran-yedluri-878b3611b/",
+    "profile_picture": "https://cdn.sessionize.com/image/d3e8-400o400o1-Sz1HCUMxmFH6aGTBtGkXeF.jpg"
+  },
+  {
+    "title": "Conversational AI for Industrial Maintenance: Practical AI to Reduce Downtime",
+    "description": "Conversational AI is becoming a practical tool for modern industrial maintenance, helping technicians diagnose equipment issues faster, improve repair quality, and support predictive maintenance. This session demonstrates how conversational AI, combined with IoT data and augmented reality (AR), can be integrated into existing maintenance workflows to deliver measurable operational improvements._x000D_\n_x000D_\nUsing real-world implementation results, the session presents how organizations have reduced unplanned downtime by up to 57.3%, achieved average annual savings of €3.4 million per plant, and improved diagnostic accuracy by 41.3%. Participants will also see how AI-assisted workflows increased first-attempt resolution rates from 56.4% to 81.2%, while AR-enabled guidance reduced repair times by 46.7% and lowered error rates in complex electrical repairs by 82.4%._x000D_\n_x000D_\nThe presentation explains how conversational AI processes equipment data to support predictive maintenance with 97.2% accuracy in detecting early failures, reducing maintenance costs while extending asset life. It also explores how natural language interfaces reduce technician cognitive load by 62.4%, accelerate decision-making by 73.8%, and improve collaboration by shortening expert escalation times by 78.3%._x000D_\n_x000D_\nDesigned as a practical technical session, attendees will learn implementation strategies, architectural considerations, integration challenges such as ontology mapping and workforce adoption, and best practices for deploying conversational AI within industrial environments. The session concludes with an overview of emerging capabilities, including digital twins and multimodal AI, providing attendees with actionable insights they can apply to their own AI and industrial modernization initiatives.",
+    "speaker_first": "Sanchayan",
+    "speaker_last": "Chakraborty",
+    "tagline": "Indian Institute of Technology, Kharagpur",
+    "linkedin": "https://www.linkedin.com/in/sanchochakraborty/",
+    "profile_picture": "https://cdn.sessionize.com/image/1c28-400o400o1-N7YevkVUSAiquhzPTFHn37.jpg"
+  },
+  {
+    "title": "Architectural Patterns for Human-AI Collaboration in the Enterprise",
+    "description": "Artificial Intelligence is transforming enterprise applications, but the greatest value comes from designing systems where humans and AI work together effectively. This session presents practical architectural patterns for building scalable human-AI collaboration solutions using modern enterprise architectures._x000D_\n_x000D_\nThrough real-world enterprise examples from industries including financial services, healthcare, and customer service, attendees will explore how organizations combine AI with human decision-making to improve efficiency and business outcomes. The session covers architectural components such as context preservation, adaptive workflows, real-time analytics, and monitoring frameworks that enable reliable collaboration between users and AI systems._x000D_\n_x000D_\nThe presentation also demonstrates how continuous feedback loops and operational metrics help optimize task allocation, system performance, and user experience. Participants will learn why successful implementation depends not only on architecture, but also on human-centered design, governance, and organizational adoption._x000D_\n_x000D_\nDesigned for architects, developers, and technology professionals, this session focuses on practical, reproducible approaches that attendees can apply in their own organizations. The discussion highlights architectural decisions, implementation considerations, and lessons learned for building enterprise solutions that balance AI capabilities with human oversight, resulting in scalable, responsible, and effective collaboration.",
+    "speaker_first": "Gaurav",
+    "speaker_last": "Bansal",
+    "tagline": "Uttar Pradesh Technical University",
+    "linkedin": "https://www.linkedin.com/in/gaurav-bansal-8133a6348/",
+    "profile_picture": "https://cdn.sessionize.com/image/215f-400o400o1-Emqs8CmTTpn9zSro95ikbg.jpg"
+  },
+  {
+    "title": "AI Agents for Enterprise Integration with iPaaS: Practical Hyperautomation",
+    "description": "Enterprise integration is entering a new phase with AI agents embedded within Integration Platform as a Service (iPaaS) platforms. These intelligent software agents move beyond traditional rule-based automation by understanding context, processing structured and unstructured data, and making real-time decisions that simplify complex integration scenarios._x000D_\n_x000D_\nIn this session, we will explore how AI agents enhance enterprise integration by automating data synchronization, orchestrating workflows, and connecting business applications with greater intelligence and flexibility. Unlike general-purpose AI agents used for chatbots or recommendation systems, iPaaS AI agents are designed specifically for integration challenges, enabling faster automation with less manual effort._x000D_\n_x000D_\nThrough practical examples, including Workato's AI agent Genie, attendees will see how AI agents can monitor business events, extract information from emails and documents, trigger context-aware workflows, and continuously improve automation outcomes. The session will also discuss where human approval and governance remain essential to ensure responsible and secure AI adoption._x000D_\n_x000D_\nAttendees will gain a clear understanding of the differences between traditional integration automation and AI-driven orchestration, learn where AI agents deliver the greatest value, and discover practical patterns that can be applied to enterprise integration projects today. Whether you are an integration developer, architect, or automation enthusiast, this session provides actionable insights into building intelligent, scalable, and trustworthy hyperautomation solutions with modern iPaaS platforms.",
+    "speaker_first": "Raghu Chaitanya",
+    "speaker_last": "Vasi Reddy",
+    "tagline": "Technical Architect at Workato",
+    "linkedin": "https://www.linkedin.com/in/raghuvasireddy-8519678/",
+    "profile_picture": "https://cdn.sessionize.com/image/8e57-400o400o1-T8jvsk9AjAxumxd1rQhcH6.jpg"
+  },
+  {
+    "title": "Reducing LLM Hallucinations with Cross-Verification Using Multiple Models",
+    "description": "Large Language Models (LLMs) have become powerful tools for generating content through prompt engineering, enabling practical applications across software development, automation, and AI-driven solutions. However, hallucinations, where models generate inaccurate or fabricated information, remain one of the biggest challenges when deploying LLMs in production environments. While prompt refinement and stricter generation constraints can reduce these errors, they cannot eliminate them completely._x000D_\n_x000D_\nThis session presents a practical approach for improving the reliability of LLM-generated content through cross-verification using multiple language models. The presentation is based on an experiment using Anthropic Claude and Llama in a two-step validation workflow. Claude generated concise summaries of book titles using only structured input attributes, including title, release date, and other provided metadata, with explicit instructions not to introduce new information. Llama then verified each generated summary against the original input, identifying fabricated content, self-referential text, incomplete sentences, and other quality issues._x000D_\n_x000D_\nThe experiment evaluated approximately 1,800 to 2,000 generated summaries. Despite multiple iterations of prompt refinement, between 1% and 3% of the outputs still contained hallucinated information. The results demonstrate that prompt engineering alone is insufficient for eliminating hallucinations, while cross-verification provides an effective and reproducible quality assurance layer that significantly improves output reliability._x000D_\n_x000D_\nAttendees will gain practical insights into designing multi-model validation workflows, understand the limitations of current LLMs, and learn techniques that can be applied to build more reliable AI-powered applications and content generation pipelines.",
+    "speaker_first": "Anupam",
+    "speaker_last": "Chansarkar",
+    "tagline": "Sr. Software Engineer at Amazon.com Services LLC",
+    "linkedin": "https://www.linkedin.com/in/anupam-chansarkar-61579612/",
+    "profile_picture": "https://cdn.sessionize.com/image/14d1-400o400o1-TZpZEcfvK9eSnJcRaxD9c8.jpg"
+  },
+  {
+    "title": "Enhancing Human AI Collaboration with Intelligent AI Optimized Data Systems",
+    "description": "Artificial Intelligence is transforming how developers build intelligent applications, but the quality of AI experiences depends heavily on the data systems that power them. This session explores how AI optimized data systems improve application performance and strengthen human AI collaboration through adaptive indexing, intelligent query planning, and workload aware optimization._x000D_\n_x000D_\nRather than focusing only on theory, this talk demonstrates how modern data platforms can reduce latency, improve responsiveness, and provide AI models with faster access to relevant information. Attendees will gain practical insights into how these optimizations support common AI workloads, including intelligent search, machine learning, and real time decision making._x000D_\n_x000D_\nThe session also highlights reproducible use cases from industries such as healthcare, finance, and research, illustrating how intelligent data systems enable faster analysis, more informed decisions, and more effective collaboration between people and AI. These examples provide patterns and best practices that developers and technology professionals can apply in their own environments._x000D_\n_x000D_\nDesigned for developers, architects, and AI enthusiasts, this session connects modern AI concepts with practical implementation strategies. Participants will leave with a clearer understanding of how intelligent data systems create more scalable, responsive, and reliable AI solutions, enabling organizations to build applications that combine human expertise with machine intelligence more effectively.",
+    "speaker_first": "Venkata Narasimha Raju",
+    "speaker_last": "Dantuluri",
+    "tagline": "University of Southern California (USC)",
+    "linkedin": "https://www.linkedin.com/in/raj-dantuluri/",
+    "profile_picture": "https://cdn.sessionize.com/image/49a4-400o400o1-YGzvpUoVhvHoDgUhbva8MY.jpg"
+  },
+  {
+    "title": "Self-Optimizing Funnels with Governed Agentic AI for Real-Time Attribution",
+    "description": "Modern customer journeys span websites, advertising platforms, email campaigns, CRM systems, and many other digital touchpoints. Traditional multi-touch attribution (MTA) models rely on static rules and delayed analysis, making it difficult to understand customer behavior and optimize marketing performance while campaigns are running._x000D_\n_x000D_\nIn this session, I will demonstrate how Agentic AI, combined with strong Data Governance, enables a self-optimizing marketing funnel that continuously learns from customer interactions and improves attribution in real time._x000D_\n_x000D_\nAttendees will learn how Agentic AI processes governed customer events across multiple channels, dynamically assigns attribution based on the incremental impact of each interaction, and automatically recommends or performs optimizations such as budget redistribution, bid adjustments, channel optimization, and personalized interventions. The session will also explain how trusted data lineage, identity resolution, privacy compliance, and continuous data quality monitoring provide the governance framework that makes autonomous AI decisions reliable and responsible._x000D_\n_x000D_\nUsing practical architecture patterns and implementation concepts, this session will show how governed data, real-time attribution, and AI-driven optimization form a continuous feedback loop that improves marketing performance while maintaining transparency and compliance._x000D_\n_x000D_\nParticipants will leave with a clear understanding of how to design governed Agentic AI solutions for real-time attribution, the key architectural components involved, and practical approaches they can apply when building intelligent marketing and analytics solutions on modern cloud platforms.",
+    "speaker_first": "Aditya Chakravarthy",
+    "speaker_last": "Sumbaraju",
+    "tagline": "Data Stewardship Manager II at walmart inc",
+    "linkedin": "https://www.linkedin.com/in/sa-27097287/",
+    "profile_picture": "https://cdn.sessionize.com/image/d03b-400o400o1-BVRWc1gAsYmEoqKrBevpn3.jpg"
+  },
+  {
+    "title": "Scalable Data Lakehouse Strategies for AI and Machine Learning",
+    "description": "Modern AI and machine learning solutions depend on reliable, scalable data platforms. A Lakehouse architecture brings together the flexibility of data lakes and the performance of data warehouses, enabling organizations to manage structured, semi structured, and unstructured data within a single platform._x000D_\n_x000D_\nIn this session, we will explore the fundamentals of the Lakehouse approach and examine how technologies such as Delta Lake, Apache Iceberg, and Apache Hudi provide capabilities including ACID transactions, schema enforcement, and time travel. These features help build trustworthy data pipelines while supporting analytics and machine learning workloads at scale._x000D_\n_x000D_\nThrough practical architecture examples and implementation strategies, attendees will learn how Lakehouse platforms support real time streaming, batch processing, and ML model training in the same environment. The session will also discuss representative use cases that demonstrate how organizations can create modern data platforms capable of serving both analytics and AI initiatives._x000D_\n_x000D_\nDesigned for developers, data engineers, and cloud professionals, this session focuses on practical concepts and implementation guidance that attendees can apply when building scalable, AI ready data platforms using open Lakehouse technologies.",
+    "speaker_first": "Bhanudeepti",
+    "speaker_last": "Chinta",
+    "tagline": "University of Illinois at Chicago",
+    "linkedin": "https://www.linkedin.com/in/bhanudeepti-chinta-9b450725/",
+    "profile_picture": "https://cdn.sessionize.com/image/3070-400o400o1-MKViEKz79tquPaNRuyTSvN.jpg"
+  },
+  {
+    "title": "Building Observable and Responsible Machine Learning Systems for Production on Azure",
+    "description": "Deploying machine learning models is only the beginning of delivering reliable AI solutions. Sustained success depends on comprehensive observability that continuously monitors model quality, operational health, data integrity, and responsible AI practices. This session presents a practical framework for building production-ready monitoring systems that provide end-to-end visibility into machine learning workloads deployed on modern cloud platforms. Participants will explore techniques for tracking model performance through metrics such as precision, recall, F1-score, and AUC while simultaneously detecting data drift, feature distribution changes, prediction anomalies, and infrastructure bottlenecks. The presentation also demonstrates how fairness indicators and automated alerting can be integrated into operational workflows to support trustworthy AI deployments. Using Azure-native services and modern monitoring architectures, attendees will learn how telemetry, dashboards, automated responses, and self-healing workflows can reduce operational overhead while improving system reliability. Real-world implementation examples illustrate how engineering teams can proactively identify issues before they affect users and establish repeatable monitoring practices across multiple machine learning applications. Ideal for developers, data scientists, DevOps engineers, and cloud architects, this session delivers practical guidance for creating resilient, observable, and scalable AI systems that maintain high performance, operational transparency, and responsible governance throughout the entire machine learning lifecycle.",
+    "speaker_first": "Sravankumar",
+    "speaker_last": "Nandamuri",
+    "tagline": "Quantitative Developer at Citadel",
+    "linkedin": "https://www.linkedin.com/in/sravankumar-nandamuri-89337032/",
+    "profile_picture": "https://cdn.sessionize.com/image/fcb1-400o400o1-YY5RvJNmfgKDGUXegXTEsU.jpg"
+  },
+  {
+    "title": "Despliega de manera eficiente soluciones en DataVerse",
+    "description": "Microsoft recomienda utilizar soluciones administradas pero la realidad es que es bastante tedioso lidiar con ellas el día a día. Si quieres vente y te enseño los tips y mi experiencia para lograr una implantación impecable de tus desarrollos en Microsoft DataVerse",
+    "speaker_first": "Enrique",
+    "speaker_last": "Romero Fernández",
+    "tagline": "Consultor y desarrollador de soluciones tecnológicas personalizadas especializado en la Power Platform de Microsoft  | Low-Code ",
+    "linkedin": "https://www.linkedin.com/in/eromerof3/",
+    "profile_picture": "https://cdn.sessionize.com/image/b45d-400o400o1-7XrBeS8dkvnBESzCQsZnwS.jpg"
+  },
+  {
+    "title": "Describe, diseña, reutiliza: como crear Canvas Apps bonitas y usables",
+    "description": "La IA ya genera una Power App en minutos… pero un esqueleto generado no enamora a nadie. En esta charla veremos cómo combinar el vibe coding con buenos diseños en Canvas Apps para crear aplicaciones que, además de funcionar, los usuarios quieran usar. ",
+    "speaker_first": "Angela",
+    "speaker_last": "Velasco Perea",
+    "tagline": "Prodware",
+    "linkedin": "https://www.linkedin.com/in/angela-velasco-perea-309726195/",
+    "profile_picture": "https://cdn.sessionize.com/image/cf50-400o400o1-aahN1Zdb4KDvukE1kgFxuf.png"
+  },
+  {
+    "title": "Autonomous Cognitive Navigation: AI-Powered End-to-End Testing with Natural Language",
+    "description": "Modern software applications evolve rapidly, making traditional end-to-end test automation increasingly difficult to maintain. Script-based testing frameworks that depend on fixed UI elements often require continuous updates whenever interfaces change, reducing development efficiency and slowing software delivery._x000D_\n_x000D_\nIn this session, we will explore Autonomous Cognitive Navigation (ACN), a Natural Language Based (NLB) generative framework that leverages Large Language Models to execute end-to-end testing through natural language instructions instead of brittle test scripts. Attendees will learn how AI can understand application state, reason through complex user journeys, and dynamically adapt to interface changes without requiring extensive manual maintenance._x000D_\n_x000D_\nThe presentation demonstrates three core capabilities of the framework. First, a Persistent Temporal Action Memory maintains execution history to prevent repetitive navigation and improve decision making. Second, a Semantic Canonicalization process simplifies complex UI structures, enabling faster and more efficient reasoning. Third, a multimodal verification engine validates application outcomes using visual understanding, allowing tests to remain reliable even after UI redesigns._x000D_\n_x000D_\nThrough practical demonstrations and reproducible implementation concepts, attendees will discover how generative AI can modernize software quality engineering, simplify the creation of new test scenarios, and improve the resilience of automated testing across multilingual applications and evolving digital platforms._x000D_\n_x000D_\nThis session is intended for software developers, QA engineers, architects, and technology professionals interested in applying Artificial Intelligence to modern software development, Azure-based development environments, and intelligent automation within contemporary CI/CD workflows. Participants will leave with practical ideas they can apply to build more adaptive, scalable, and maintainable testing solutions.",
+    "speaker_first": "Sowjanya",
+    "speaker_last": "Puligadda",
+    "tagline": "Senior Engineering Manager at Uber",
+    "linkedin": "https://www.linkedin.com/in/sowjanyapuligadda",
+    "profile_picture": "https://cdn.sessionize.com/image/8393-400o400o1-rpSPFLQanvqKZEUpEt5ZPb.jpg"
+  },
+  {
+    "title": "Machine Learning for Scalable Intellectual Property Protection in Cloud Environments",
+    "description": "Modern organizations increasingly rely on cloud platforms to create, store, and manage valuable intellectual property, making effective protection more important than ever. This session demonstrates how machine learning can help detect, analyze, and prevent unauthorized use of digital assets through practical, cloud-native solutions that developers and architects can apply in real-world environments._x000D_\n_x000D_\nAttendees will explore how keyword search, semantic similarity models, natural language processing, and computer vision work together to identify potential intellectual property violations across documents, source code, images, and other digital content. The session explains how hybrid machine learning approaches improve detection quality while reducing false positives, making automated protection more reliable than traditional manual review processes._x000D_\n_x000D_\nThe presentation also covers how cloud platforms enable these solutions to scale efficiently, integrate with existing security workflows, and optimize infrastructure costs. Through practical implementation guidance and real-world architectural patterns, participants will learn how to design intelligent monitoring systems that remain responsive as data volumes and workloads grow._x000D_\n_x000D_\nFinally, the session looks at emerging innovations, including AI-assisted security automation and quantum-resistant encryption, and discusses how these technologies can strengthen future intellectual property protection strategies. Attendees will leave with practical knowledge, implementation ideas, and cloud-native best practices that they can adapt to their own applications and enterprise environments.",
+    "speaker_first": "Hemang",
+    "speaker_last": "Manish Shah",
+    "tagline": "Software Development Engineer II at Amazon.com",
+    "linkedin": "https://www.linkedin.com/in/hshah20/",
+    "profile_picture": "https://cdn.sessionize.com/image/3f6c-400o400o1-G4WpmxfyGNgTKZf3s73Gh8.jpg"
+  },
+  {
+    "title": "Copilot sin líos: licencias, costes y qué puede hacer de verdad por ti",
+    "description": "¿Copilot, Copilot Chat, Microsoft 365 Copilot, Copilot Pro… y ahora Cowork? Si te has perdido entre tantos nombres parecidos, esta sesión pone orden._x000D_\n_x000D_\nSin tecnicismos, recorremos todo lo que necesitas saber para decidir qué versión te conviene: qué es cada Copilot, qué licencia necesitas, cuánto cuesta, cómo se instala y —lo más importante— qué tareas reales puede quitarte de encima cada uno._x000D_\n_x000D_\nDespués daremos el salto a la gran novedad: Copilot Cowork, el asistente que deja de limitarse a responder y pasa a ejecutar encargos completos por ti —ordenar tu calendario, preparar el material de una reunión, investigar una empresa o montar un plan de lanzamiento— siempre bajo tu supervisión y aprobación._x000D_\n_x000D_\nSaldrás con las ideas claras, ejemplos concretos para aplicar desde el lunes y una regla de oro: la IA propone, pero tú decides.",
+    "speaker_first": "Diego",
+    "speaker_last": "Jurado",
+    "tagline": "CoFounder of CursosPowerBI.es",
+    "linkedin": "https://www.linkedin.com/in/diego-jurado-lorite/",
+    "profile_picture": "https://cdn.sessionize.com/image/ec19-400o400o1-b7-1734-4392-b9c3-2518f97c0c46.aca01a6b-a551-4bfd-9dda-ab030408ac47.jpg"
+  },
+  {
+    "title": "Aspire para developers: menos configuración, más código y mejor observabilidad",
+    "description": "Levantar una API, una base de datos, un frontend, telemetría y varios servicios debería ser fácil. O al menos no debería necesitar una mañana completa, cuatro terminales abiertas y un documento llamado setup-final-v7.md._x000D_\n_x000D_\nEn esta sesión veremos las últimas novedades de Aspire y cómo pueden simplificar el trabajo diario de los desarrolladores: ejecutar aplicaciones distribuidas, conectar servicios, añadir dependencias, observar qué está pasando y preparar el camino hacia producción._x000D_\n_x000D_\nHabrá demos, errores en directo —probablemente— y ejemplos prácticos para empezar a usar Aspire sin necesidad de rehacer toda tu arquitectura._x000D_\n_x000D_\nAspire no elimina la complejidad del cloud. Pero al menos evita que tengas que sufrirla toda al mismo tiempo.",
+    "speaker_first": "Bruno",
+    "speaker_last": "Capuano",
+    "tagline": "Principal Cloud Advocate 🥑 @Microsoft",
+    "linkedin": "https://www.linkedin.com/in/elbruno/",
+    "profile_picture": "https://cdn.sessionize.com/image/9bb0-400o400o1-au9jnBuK1QR2ymtxmeeM9Y.jpg"
+  },
+  {
+    "title": "Agentes y skills de Microsoft Fabric desde GitHub Copilot",
+    "description": "¿Y si pudieras administrar tu tenant de Microsoft Fabric, construir una app sobre tus datos o montar una arquitectura medallion completa... simplemente pidiéndoselo en lenguaje natural a GitHub Copilot? Eso es exactamente lo que traen los nuevos agentes y skills de Microsoft Fabric (microsoft/skills-for-fabric)._x000D_\n_x000D_\nEn esta sesión, David Rodríguez te enseñará, con demos en vivo y de las que tiemblan, cómo sacarle partido a los cuatro agentes especializados:_x000D_\n_x000D_\nFabricAdmin - gobernanza, capacidades, control de acceso, inventario y documentación de workspaces. La parte \"aburrida\" pero crítica, ahora resuelta a golpe de prompt._x000D_\n_x000D_\nFabricAppDev - desarrollo full-stack sobre Fabric con Python, ODBC, XMLA y REST APIs para construir aplicaciones conectadas a tus datos._x000D_\n_x000D_\nFabricDataEngineer - flujos end-to-end de ingeniería de datos: Spark, Warehouse, Pipelines, arquitectura Lakehouse, migraciones y calidad de datos._x000D_\n_x000D_\nFabricIQ: responde preguntas sobre datos de reportes y modelos semánticos de Power BI, descubriendo artefactos, generando consultas DAX y ejecutándolas para dar respuestas concretas._x000D_\n_x000D_\nTe llevarás patrones concretos, buenas prácticas y la receta para empezar a usar todo esto en tu día a día. Si trabajas con datos en Fabric y quieres dejar de hacer clics repetitivos para empezar a conversar con tu plataforma, esta sesión es para ti.",
+    "speaker_first": "David",
+    "speaker_last": "Rodriguez",
+    "tagline": "CTO at Intelequia, Microsoft Regional Director and Azure MVP",
+    "linkedin": "https://www.linkedin.com/in/davidjrh",
+    "profile_picture": "https://cdn.sessionize.com/image/b142-400o400o1-Tgw2GhRaky1mEhC3e9tV2z.jpg"
+  }
+]
