@@ -408,6 +408,50 @@ section h2 {
   transform: scale(1.05);
 }
 
+.youtube-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: rgba(255, 0, 0, 0.15);
+  border: 1px solid #ff4444;
+  border-radius: 20px;
+  color: #ff6666;
+  text-decoration: none;
+  transition: var(--transition);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.youtube-link:hover {
+  background: #ff4444;
+  color: var(--white);
+  transform: scale(1.05);
+  box-shadow: 0 4px 15px rgba(255, 68, 68, 0.4);
+}
+
+.track-badge {
+  display: inline-block;
+  padding: 0.3rem 0.8rem;
+  background: rgba(255, 200, 87, 0.15);
+  border: 1px solid var(--gold);
+  border-radius: 12px;
+  color: var(--gold);
+  font-size: 0.75rem;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+  text-transform: uppercase;
+}
+
+.session-card.has-video {
+  border-color: rgba(255, 68, 68, 0.3);
+}
+
+.session-card.has-video:hover {
+  border-color: #ff4444;
+  box-shadow: 0 10px 40px rgba(255, 68, 68, 0.15);
+}
+
 .no-results {
   grid-column: 1 / -1;
   text-align: center;

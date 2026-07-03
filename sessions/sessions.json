@@ -6,7 +6,9 @@
     "speaker_last": "Perona Puro",
     "tagline": "Microsoft MVP | Azure Cloud Architect @ Plain Concepts | Microsoft MCT",
     "linkedin": "https://www.linkedin.com/in/jorgeperona/",
-    "profile_picture": "https://cdn.sessionize.com/image/58c3-400o400o1-KxPgNTguF7XRYTjmGHKf72.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/58c3-400o400o1-KxPgNTguF7XRYTjmGHKf72.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=LGJHwBqsZ08",
+    "track": "Summer Sessions | TRACK 3 | Mañana"
   },
   {
     "title": "Cuándo usar qué. Principios de arquitectura en Fabric",
@@ -15,7 +17,9 @@
     "speaker_last": "Lizana",
     "tagline": "Data Squad Lead | Microsoft Data & DevTech MVP",
     "linkedin": "https://www.linkedin.com/in/mar-lizana/",
-    "profile_picture": "https://cdn.sessionize.com/image/1d9c-400o400o1-nv9xeJxhDRZeGVnKMj8Nbh.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/1d9c-400o400o1-nv9xeJxhDRZeGVnKMj8Nbh.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=M7Q1yQgd0O8",
+    "track": "Summer Sessions | TRACK 5 | Mañana"
   },
   {
     "title": "Accesibilidad y neurodivergencia: No todo el mundo navega igual",
@@ -24,7 +28,9 @@
     "speaker_last": "Salazar",
     "tagline": "Front-End developer at Service Club",
     "linkedin": "https://www.linkedin.com/in/miasalazar/",
-    "profile_picture": "https://cdn.sessionize.com/image/42d2-400o400o1-Kai1fJ7HdFRmXpseufdUD6.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/42d2-400o400o1-Kai1fJ7HdFRmXpseufdUD6.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=oei9yb4WofI",
+    "track": "Summer Sessions | TRACK 3 | Mañana"
   },
   {
     "title": "Copilot ya no responde… ahora trabaja contigo (y dentro de Word y Excel)",
@@ -33,7 +39,9 @@
     "speaker_last": "Espés",
     "tagline": "Microsoft MVP · M365 Copilot | Consultant & Speaker",
     "linkedin": "https://www.linkedin.com/in/adrianespes",
-    "profile_picture": "https://cdn.sessionize.com/image/46df-400o400o1-JH1KGFPqxMSzVXWK2wkgan.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/46df-400o400o1-JH1KGFPqxMSzVXWK2wkgan.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=6ZtF_XUj-WQ",
+    "track": "Summer Sessions | TRACK 4 | Mañana"
   },
   {
     "title": "El bueno, el feo y el malo: Implementando IA en Azure sin romanticismos",
@@ -42,7 +50,9 @@
     "speaker_last": "Sánchez Fresneda",
     "tagline": "Consultora Azure y desarrolladora",
     "linkedin": "https://www.linkedin.com/in/celestesanchez/",
-    "profile_picture": "https://cdn.sessionize.com/image/5afc-400o400o1-pK5dTvkCJFizY2NMU5Qk5x.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/5afc-400o400o1-pK5dTvkCJFizY2NMU5Qk5x.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=locg8u-2_HM",
+    "track": "Summer Sessions | TRACK 5 | Mañana"
   },
   {
     "title": "Revive tus fotos con IA creando un restaurador inteligente de imágenes",
@@ -51,7 +61,9 @@
     "speaker_last": "Martinez",
     "tagline": "CTO Inforrada",
     "linkedin": "https://www.linkedin.com/in/dmartinezmartinez/",
-    "profile_picture": "https://cdn.sessionize.com/image/28c7-400o400o1-EXV84TdhQcMdnNZpSuJwHu.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/28c7-400o400o1-EXV84TdhQcMdnNZpSuJwHu.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Jtuzsh4AJ1c",
+    "track": "Summer Sessions | TRACK 1 | Mañana"
   },
   {
     "title": "No son más listos: están mejor organizados",
@@ -69,7 +81,9 @@
     "speaker_last": "Rogles",
     "tagline": "Senior UI Developer at Softtek | Real Madrid F.C.",
     "linkedin": "https://www.linkedin.com/in/mariarogles/",
-    "profile_picture": "https://cdn.sessionize.com/image/84bf-400o400o1-RhSN3Cv86ojjgCX6Y6ZenD.png"
+    "profile_picture": "https://cdn.sessionize.com/image/84bf-400o400o1-RhSN3Cv86ojjgCX6Y6ZenD.png",
+    "youtube_url": "https://www.youtube.com/watch?v=MNDZ0LEDN8Y",
+    "track": "Summer Sessions | TRACK 1 | Mañana"
   },
   {
     "title": "Vibe coding sucks! - Harness Engineering para real-world AI development",
@@ -78,7 +92,9 @@
     "speaker_last": "Mañez",
     "tagline": "Chief architect. Microsoft MVP Azure AI (former M365 development)",
     "linkedin": "https://www.linkedin.com/in/luismanez/",
-    "profile_picture": "https://cdn.sessionize.com/image/2569-400o400o1-cb-3887-417c-9d87-353019925b98.9dbdec58-a427-4852-ac75-5c92f8b6cf99.PNG"
+    "profile_picture": "https://cdn.sessionize.com/image/2569-400o400o1-cb-3887-417c-9d87-353019925b98.9dbdec58-a427-4852-ac75-5c92f8b6cf99.PNG",
+    "youtube_url": "https://www.youtube.com/watch?v=BpxfZ6OQ8R0",
+    "track": "Summer Sessions | TRACK 5 | Mañana"
   },
   {
     "title": "App inteligente de retail multicanal con datos, scoring e IA en 40 minutos",
@@ -87,7 +103,9 @@
     "speaker_last": "Soto Rodriguez",
     "tagline": "MVP Azure AI & Microsoft Fabric",
     "linkedin": "https://www.linkedin.com/in/antoniosql/",
-    "profile_picture": "https://cdn.sessionize.com/image/99bf-400o400o1-9VyPMaC6gLwoJC85yBssfU.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/99bf-400o400o1-9VyPMaC6gLwoJC85yBssfU.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=26GuVwOy5sQ",
+    "track": "Summer Sessions | TRACK 4 | Tarde"
   },
   {
     "title": "La Tríada Definitiva: Azure AI Foundry, Microsoft Agent Framework y Copilot Studio",
@@ -96,7 +114,9 @@
     "speaker_last": "Cordoba",
     "tagline": "Microsoft MVP Business Applications | Power Platform/Microsoft Dynamics Architect en Arbentia",
     "linkedin": "https://www.linkedin.com/in/daniel-cordoba/",
-    "profile_picture": "https://cdn.sessionize.com/image/6eb6-400o400o1-pGHoRoCLjeXznBuNfPuPJk.png"
+    "profile_picture": "https://cdn.sessionize.com/image/6eb6-400o400o1-pGHoRoCLjeXznBuNfPuPJk.png",
+    "youtube_url": "https://www.youtube.com/watch?v=DGGPRjiSAe0",
+    "track": "Summer Sessions | TRACK 6 | Mañana"
   },
   {
     "title": "Arquitectura Escalable en Power Platform: De Prototipo a Solución Empresarial",
@@ -114,7 +134,9 @@
     "speaker_last": "Toribio Gallardo",
     "tagline": "Microsoft 365 Architect  - Full stack - AI  Developer",
     "linkedin": "https://www.linkedin.com/in/rubentg/",
-    "profile_picture": "https://cdn.sessionize.com/image/a51a-400o400o1-MpKWcEB35mz6bNjZrabwu8.png"
+    "profile_picture": "https://cdn.sessionize.com/image/a51a-400o400o1-MpKWcEB35mz6bNjZrabwu8.png",
+    "youtube_url": "https://www.youtube.com/watch?v=pq7HV3qrbA4",
+    "track": "Summer Sessions | TRACK 5 | Mañana"
   },
   {
     "title": "Los 7 pecados capitales de la IA generativa (y cómo evitarlos)",
@@ -123,7 +145,9 @@
     "speaker_last": "Catoira Franco",
     "tagline": "Developer & Cloud Consultant in Tokiota",
     "linkedin": "https://www.linkedin.com/in/albacatoira",
-    "profile_picture": "https://cdn.sessionize.com/image/ee80-400o400o1-PDsWeYh5Es47MCGrfYoyhM.png"
+    "profile_picture": "https://cdn.sessionize.com/image/ee80-400o400o1-PDsWeYh5Es47MCGrfYoyhM.png",
+    "youtube_url": "https://www.youtube.com/watch?v=uySpXpXMCeE",
+    "track": "Summer Sessions | TRACK 2 | Mañana"
   },
   {
     "title": "Piensa en pipelines: Aprende qué son, cómo funcionan y cómo aprovecharlas",
@@ -132,7 +156,9 @@
     "speaker_last": "Jiménez Yébenes",
     "tagline": "Development & Cloud Consultant in Tokiota",
     "linkedin": "https://www.linkedin.com/in/sergio-jimenez-yebenes/",
-    "profile_picture": "https://cdn.sessionize.com/image/b61b-400o400o1-aHxfvmi9LKugKZRx5N5Acz.png"
+    "profile_picture": "https://cdn.sessionize.com/image/b61b-400o400o1-aHxfvmi9LKugKZRx5N5Acz.png",
+    "youtube_url": "https://www.youtube.com/watch?v=czWkrxomBQs",
+    "track": "Summer Sessions | TRACK 1 | Mañana"
   },
   {
     "title": "Artificial Intelligence vs Artificial Stupidity",
@@ -168,7 +194,9 @@
     "speaker_last": "Artigas Alfonso",
     "tagline": "Dynamics Business Central Technical Consultant",
     "linkedin": "https://www.linkedin.com/in/fernando-artigas-alfonso-4ab62510b",
-    "profile_picture": "https://cdn.sessionize.com/image/64a5-400o400o1-XMj99Y3TopFdWAptiacgvy.png"
+    "profile_picture": "https://cdn.sessionize.com/image/64a5-400o400o1-XMj99Y3TopFdWAptiacgvy.png",
+    "youtube_url": "https://www.youtube.com/watch?v=ejdzB4Bg53E",
+    "track": "Summer Sessions | TRACK 1 | Mañana"
   },
   {
     "title": "Verano, Copilot y Agentes: la nueva erupción de IA en las aplicaciones para usuarios de negocio",
@@ -177,7 +205,9 @@
     "speaker_last": "Manrique",
     "tagline": "Encamina- Technnical Solutions Lead in Modern Workplace -BizzApp",
     "linkedin": "https://www.linkedin.com/in/jonathan-manrique-rios",
-    "profile_picture": "https://cdn.sessionize.com/image/3b09-400o400o1-DyjKLbv2oqN2uzkqw3Ff74.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/3b09-400o400o1-DyjKLbv2oqN2uzkqw3Ff74.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=h4i7vGoGxJ8",
+    "track": "Summer Sessions | TRACK 3 | Tarde"
   },
   {
     "title": "“Código bajo el sol: Copilot, Agentes y la nueva forma de construir aplicaciones empresariales",
@@ -195,7 +225,9 @@
     "speaker_last": "Alonso Bernardo",
     "tagline": "MVP Data Platform & AI Platform - Data & AI Consultant",
     "linkedin": "https://www.linkedin.com/in/saraalonsobernardo/",
-    "profile_picture": "https://cdn.sessionize.com/image/0b51-400o400o1-HvsLHtKCavQXuFvFF1KwRP.png"
+    "profile_picture": "https://cdn.sessionize.com/image/0b51-400o400o1-HvsLHtKCavQXuFvFF1KwRP.png",
+    "youtube_url": "https://www.youtube.com/watch?v=G5m5LZjGo2A",
+    "track": "Summer Sessions | TRACK 2 | Mañana"
   },
   {
     "title": "De flujos a agentes: cómo pasar de Power Automate a automatización inteligente con IA",
@@ -204,7 +236,9 @@
     "speaker_last": "Unzueta Rueda",
     "tagline": "Lead Enterprise Solutions Engineer - NTTDATA",
     "linkedin": "https://www.linkedin.com/in/jonunzuetarueda",
-    "profile_picture": "https://cdn.sessionize.com/image/bca2-400o400o1-nedAa8XaXnt3u1FD6gWi65.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/bca2-400o400o1-nedAa8XaXnt3u1FD6gWi65.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=NFWtMQoje_g",
+    "track": "Summer Sessions | TRACK 3 | Mañana"
   },
   {
     "title": "El futuro de F&SCM: agentes que analizan, deciden y actúan",
@@ -213,7 +247,9 @@
     "speaker_last": "Bordolini",
     "tagline": "Project Manager",
     "linkedin": "https://www.linkedin.com/in/marcela-bordolini-b107b77/",
-    "profile_picture": "https://cdn.sessionize.com/image/4050-400o400o1-T92FL95QXRWwLB6cUgzib9.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/4050-400o400o1-T92FL95QXRWwLB6cUgzib9.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=9rAqD6Kew-M",
+    "track": "Summer Sessions | TRACK 3 | Tarde"
   },
   {
     "title": "RAGs y agentes sin arruinarte",
@@ -222,7 +258,9 @@
     "speaker_last": "Hierro",
     "tagline": "Software Engineering Consultant at Avanade | Staff Lead at Tech Riders | Técnologo",
     "linkedin": "https://www.linkedin.com/in/shierroc/",
-    "profile_picture": "https://cdn.sessionize.com/image/d4ef-400o400o1-4UzrURHHQ94wf4ZXSgoQW2.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/d4ef-400o400o1-4UzrURHHQ94wf4ZXSgoQW2.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=HboB2fEDIFA",
+    "track": "Summer Sessions | TRACK 2 | Mañana"
   },
   {
     "title": "10 tips para que tu app Blazor funcione bien en producción",
@@ -231,7 +269,9 @@
     "speaker_last": "Montesdeoca",
     "tagline": "Microsoft MVP in Developer Technologies & Cloud Solutions Team Lead en Intelequia",
     "linkedin": "https://www.linkedin.com/in/emimontesdeoca/",
-    "profile_picture": "https://cdn.sessionize.com/image/3b3c-400o400o1-Nj5rqcaAponXAQ5oTE6k8y.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/3b3c-400o400o1-Nj5rqcaAponXAQ5oTE6k8y.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=E0RKSzBBdfc",
+    "track": "Summer Sessions | TRACK 2 | Tarde"
   },
   {
     "title": "Build interactive Agents with Generative UI on Azure",
@@ -240,7 +280,9 @@
     "speaker_last": "González",
     "tagline": "AI Cloud Solution Architect at Avanade | Microsoft AI MVP ",
     "linkedin": "https://www.linkedin.com/in/alexander-gonz%C3%A1lez-0b388177/",
-    "profile_picture": "https://cdn.sessionize.com/image/1db9-400o400o1-P3mizVZspTdVTcdho528hC.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/1db9-400o400o1-P3mizVZspTdVTcdho528hC.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=CKWykuqrvzc",
+    "track": "Summer Sessions | TRACK 3 | Mañana"
   },
   {
     "title": "La respuesta al Vibecoding - Spec Driven Development con SpecKit",
@@ -249,7 +291,9 @@
     "speaker_last": "Micheloni",
     "tagline": "Software Developer at Tokiota",
     "linkedin": "https://www.linkedin.com/in/leomicheloni/",
-    "profile_picture": "https://cdn.sessionize.com/image/6144-400o400o1-61-b15d-4b8d-9fc6-d6cb32932511.74b5dbad-2b19-4a2f-86d5-0e6ea4bea147.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/6144-400o400o1-61-b15d-4b8d-9fc6-d6cb32932511.74b5dbad-2b19-4a2f-86d5-0e6ea4bea147.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Qu9fBDH0G-o",
+    "track": "Summer Sessions | TRACK 2 | Mañana"
   },
   {
     "title": "🏝️ AI Survival Kit  Lo que nadie te cuenta sobre trabajar con agentes en producción",
@@ -276,7 +320,9 @@
     "speaker_last": "Rostan",
     "tagline": "Microsoft Business Applications MVP / Director",
     "linkedin": "https://www.linkedin.com/in/alexrostan/",
-    "profile_picture": "https://cdn.sessionize.com/image/c6d8-400o400o1-J1CWQHqYEUresA8KwxRQU2.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/c6d8-400o400o1-J1CWQHqYEUresA8KwxRQU2.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=X2hpwNF7TUs",
+    "track": "Summer Sessions | TRACK 3 | Tarde"
   },
   {
     "title": "RAG end-to-end con SQL Database in Fabric y Power BI",
@@ -285,7 +331,9 @@
     "speaker_last": "Carrancio",
     "tagline": "Microsoft MVP | Ingeniero de rendimiento de SQL Server en IESA Comunidades Tecnológicas",
     "linkedin": "https://www.linkedin.com/in/robertocarrancio/",
-    "profile_picture": "https://cdn.sessionize.com/image/1501-400o400o1-J7Ru9E1eRyCGSGnatRAmeS.png"
+    "profile_picture": "https://cdn.sessionize.com/image/1501-400o400o1-J7Ru9E1eRyCGSGnatRAmeS.png",
+    "youtube_url": "https://www.youtube.com/watch?v=KE8ymjX4loo",
+    "track": "Summer Sessions | TRACK 3 | Mañana"
   },
   {
     "title": "Creando agentes de Copilot Studio desde VS Code con GitHub Copilot y Claude",
@@ -303,7 +351,9 @@
     "speaker_last": "Fernández Nieto",
     "tagline": "Security Cloud Engineer",
     "linkedin": "https://www.linkedin.com/in/lidia-fernandez-nieto",
-    "profile_picture": "https://cdn.sessionize.com/image/78e2-400o400o1-XHGoWKDmqqupTWSWrsdxU7.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/78e2-400o400o1-XHGoWKDmqqupTWSWrsdxU7.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=XDHIVFf4cYE",
+    "track": "Summer Sessions | TRACK 4 | Mañana"
   },
   {
     "title": " UDF vs UDF: DAX o Fabric, ¿cuál te llevas al verano? 🌴🍹",
@@ -312,7 +362,9 @@
     "speaker_last": "Mesa",
     "tagline": "BI & Data Analyst | Data Scientist | Microsoft MVP Data Platform | Speaker & Community Builder ",
     "linkedin": "https://www.linkedin.com/in/monicamesa/",
-    "profile_picture": "https://cdn.sessionize.com/image/da1f-400o400o1-HC6iLpA1LLXFkpJMkNMDch.png"
+    "profile_picture": "https://cdn.sessionize.com/image/da1f-400o400o1-HC6iLpA1LLXFkpJMkNMDch.png",
+    "youtube_url": "https://www.youtube.com/watch?v=Y7dqHcGrARI",
+    "track": "Summer Sessions | TRACK 4 | Tarde"
   },
   {
     "title": "Lleva tus Sitios de SharePoint al siguiente nivel con Copilot en SharePoint",
@@ -321,7 +373,9 @@
     "speaker_last": "González Martín",
     "tagline": "Microsoft 365 SME at RICOH Spain S.L.U | Microsoft 365 & Microsoft 365 Copilot MVP",
     "linkedin": "https://www.linkedin.com/in/juagon/",
-    "profile_picture": "https://cdn.sessionize.com/image/4015-400o400o1-aPWxvRkFurMUApeqteU7P8.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/4015-400o400o1-aPWxvRkFurMUApeqteU7P8.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=FlWspKtRYzg",
+    "track": "Summer Sessions | TRACK 4 | Mañana"
   },
   {
     "title": "El stack del futuro ya está aquí: lidera la transformación IA de tu equipo ahora",
@@ -330,7 +384,9 @@
     "speaker_last": "Diaz Cervera",
     "tagline": "Technical Lead at SCRM Lidl International Hub | MVP Office  Development",
     "linkedin": "https://www.linkedin.com/in/adriandiazcervera/",
-    "profile_picture": "https://cdn.sessionize.com/image/065f-400o400o1-be-b116-4e9a-bd9b-71015d64eca9.3ed7ada1-0859-4734-92de-a01838af88b7.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/065f-400o400o1-be-b116-4e9a-bd9b-71015d64eca9.3ed7ada1-0859-4734-92de-a01838af88b7.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=_E5DeK4LKaw",
+    "track": "Summer Sessions | TRACK 2 | Mañana"
   },
   {
     "title": "AI-Augmented Developer Tools",
@@ -339,7 +395,9 @@
     "speaker_last": "Gómez García",
     "tagline": "Microsoft MVP - Developer at Plain Concepts",
     "linkedin": "https://www.linkedin.com/in/rub%C3%A9n-g%C3%B3mez-garc%C3%ADa-2a2b844a/",
-    "profile_picture": "https://cdn.sessionize.com/image/8849-400o400o1-NzFepdYQsweXfr6YaQZPZV.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/8849-400o400o1-NzFepdYQsweXfr6YaQZPZV.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=KyRnK5UXehc",
+    "track": "Summer Sessions | TRACK 2 | Tarde"
   },
   {
     "title": "Agentes con calle: Para que tu IA deje de inventar y empiece a currar",
@@ -348,7 +406,9 @@
     "speaker_last": "Naranjo Lituma",
     "tagline": " Sr. Cloud Solutions Architect - Europe Hybrid CoE",
     "linkedin": "https://www.linkedin.com/in/gnl/",
-    "profile_picture": "https://cdn.sessionize.com/image/d817-400o400o1-snN7tWK2fr7Nn3tNrEgZCY.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/d817-400o400o1-snN7tWK2fr7Nn3tNrEgZCY.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=XPsCXOCzsfg",
+    "track": "Summer Sessions | TRACK 5 | Mañana"
   },
   {
     "title": "Foundry Local: Llevando la IA al Entorno Local",
@@ -366,7 +426,9 @@
     "speaker_last": "Da Silva Fernandes",
     "tagline": "EL - Arquitecto/Developer/Consultor",
     "linkedin": "https://www.linkedin.com/in/elbrinner",
-    "profile_picture": "https://cdn.sessionize.com/image/1760-400o400o1-NjQ7XKPQiDFwKYauezCs9U.png"
+    "profile_picture": "https://cdn.sessionize.com/image/1760-400o400o1-NjQ7XKPQiDFwKYauezCs9U.png",
+    "youtube_url": "https://www.youtube.com/watch?v=ZtwG--fJMV8",
+    "track": "Summer Sessions | TRACK 4 | Mañana"
   },
   {
     "title": "La retro del Dungeon Master: guía a tu equipo a la siguiente fase",
@@ -375,7 +437,9 @@
     "speaker_last": "Pereira",
     "tagline": "Analyst en Avanade",
     "linkedin": "https://www.linkedin.com/in/anampereiramolinero/",
-    "profile_picture": "https://cdn.sessionize.com/image/c239-400o400o1-MyDiZu5tm56fPEFUi9rJBr.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/c239-400o400o1-MyDiZu5tm56fPEFUi9rJBr.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Lj_I1O_GjHs",
+    "track": "Summer Sessions | TRACK 2 | Mañana"
   },
   {
     "title": "Microsoft Agent Framework Deep Dive",
@@ -384,7 +448,9 @@
     "speaker_last": "Perez Altamirano",
     "tagline": "Arquitecto de soluciones TI",
     "linkedin": "https://www.linkedin.com/in/ricardojosue/",
-    "profile_picture": "https://cdn.sessionize.com/image/a8df-400o400o1-T7Dh8xaNLr5t7L28viUeFU.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/a8df-400o400o1-T7Dh8xaNLr5t7L28viUeFU.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=40xGvGieryg",
+    "track": "Summer Sessions | TRACK 3 | Mañana"
   },
   {
     "title": "Agent Skills en Microsoft Fabric: haciendo más determinista el trabajo en Fabric con agentes de IA",
@@ -393,7 +459,9 @@
     "speaker_last": "Lopez",
     "tagline": "I help you transform your data into solutions (dataXbi.com)",
     "linkedin": "https://www.linkedin.com/in/nelson-lopez-centeno/",
-    "profile_picture": "https://cdn.sessionize.com/image/02b4-400o400o1-a8jx8eNj693WwCDKM5Xtqy.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/02b4-400o400o1-a8jx8eNj693WwCDKM5Xtqy.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=jz_NIDDTz90",
+    "track": "Summer Sessions | TRACK 6 | Mañana"
   },
   {
     "title": "Construyendo Agentes de IA con Microsoft Foundry y Claude",
@@ -411,7 +479,9 @@
     "speaker_last": "Esparza",
     "tagline": "Analista de datos. Microsoft MVP Data Platform. Microsoft Certified Power BI Data Analyst Associate.",
     "linkedin": "https://www.linkedin.com/in/cecilia-esparza-catalan-data-analyst",
-    "profile_picture": "https://cdn.sessionize.com/image/484a-400o400o1-pTvLH2mAjeDWCFjRJQUadG.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/484a-400o400o1-pTvLH2mAjeDWCFjRJQUadG.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=VNjA7_JG9uI",
+    "track": "Summer Sessions | TRACK 1 | Mañana"
   },
   {
     "title": "Subiendo el nivel de Data API Builder: Seguridad, observabilidad e integración moderna",
@@ -447,7 +517,9 @@
     "speaker_last": "Porras Rodríguez",
     "tagline": "Innovation Team Leader, MVP Developer Technologies",
     "linkedin": "https://www.linkedin.com/in/santiago-porras/",
-    "profile_picture": "https://cdn.sessionize.com/image/5135-400o400o1-40-94c3-4323-80cd-f3e72f09ad6a.8018579b-7e4e-485e-98ae-8afec8af1eb6.png"
+    "profile_picture": "https://cdn.sessionize.com/image/5135-400o400o1-40-94c3-4323-80cd-f3e72f09ad6a.8018579b-7e4e-485e-98ae-8afec8af1eb6.png",
+    "youtube_url": "https://www.youtube.com/watch?v=pc4lHB4GGM4",
+    "track": "Summer Sessions | TRACK 6 | Mañana"
   },
   {
     "title": "¿Quién vigila a los agentes? Seguridad y gobierno con Microsoft Agent 365",
@@ -456,7 +528,9 @@
     "speaker_last": "Rautenstrauch",
     "tagline": "Passionate ❤ Marketer. Microsoft MVP 😊. Copilot Evangelist 🤖. CMO 😍. SEO 🧠. AI and Dynamics 365 Consultant 👨‍💻. PLAYMOBILpro facilitator 💭.",
     "linkedin": "https://www.linkedin.com/in/ramonrautenstrauch/",
-    "profile_picture": "https://cdn.sessionize.com/image/2f26-400o400o1-DH18NRfckCSPEq5Q5NsNEC.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/2f26-400o400o1-DH18NRfckCSPEq5Q5NsNEC.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=PEme9kotuJw",
+    "track": "Summer Sessions | TRACK 2 | Tarde"
   },
   {
     "title": "Fabric AI Functions o cómo integrar LLMs directamente en Fabric",
@@ -465,7 +539,9 @@
     "speaker_last": "Soto Castro",
     "tagline": "Head of Innovation at Bravent & Microsoft AI MVP",
     "linkedin": "https://es.linkedin.com/in/mariasotocastro",
-    "profile_picture": "https://cdn.sessionize.com/image/44dc-400o400o1-BoxvheSCdhVHBJYy31MpKJ.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/44dc-400o400o1-BoxvheSCdhVHBJYy31MpKJ.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=P2yuOMKN3jI",
+    "track": "Summer Sessions | TRACK 3 | Mañana"
   },
   {
     "title": "Hands-On Copilot Cowork Dataverse MCP Server Plugin",
@@ -474,7 +550,9 @@
     "speaker_last": "Lorenzo",
     "tagline": "Microsoft MVP Business Apps | Power Platform Solutions Architect at Prodware",
     "linkedin": "https://www.linkedin.com/in/davidlorenzolopez/",
-    "profile_picture": "https://cdn.sessionize.com/image/4ecc-400o400o1-RVQZaHD9yyi6Zm37xWbJiA.jfif"
+    "profile_picture": "https://cdn.sessionize.com/image/4ecc-400o400o1-RVQZaHD9yyi6Zm37xWbJiA.jfif",
+    "youtube_url": "https://www.youtube.com/watch?v=oq-Q6To60JI",
+    "track": "Summer Sessions | TRACK 6 | Mañana"
   },
   {
     "title": "Materializando, que es gerundio. Vistas materializadas en Fabric Lakehouse",
@@ -492,7 +570,9 @@
     "speaker_last": "Sao",
     "tagline": "Solution Design of CA, Consultor de Inteligencia de Negocios",
     "linkedin": "https://www.linkedin.com/in/raul-sao",
-    "profile_picture": "https://cdn.sessionize.com/image/3b7a-400o400o1-J3cgneGHc2yx5LWEWqTAXc.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/3b7a-400o400o1-J3cgneGHc2yx5LWEWqTAXc.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=pDf6TbR0PGU",
+    "track": "Summer Sessions | TRACK 5 | Mañana"
   },
   {
     "title": "GitHub’s Agentic Workflow: automatización inteligente para equipos de desarrollo",
@@ -501,7 +581,9 @@
     "speaker_last": "Montesdeoca",
     "tagline": "Microsoft MVP in Developer Technologies & Cloud Solutions Team Lead en Intelequia",
     "linkedin": "https://www.linkedin.com/in/emimontesdeoca/",
-    "profile_picture": "https://cdn.sessionize.com/image/3b3c-400o400o1-Nj5rqcaAponXAQ5oTE6k8y.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/3b3c-400o400o1-Nj5rqcaAponXAQ5oTE6k8y.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=ngAX1IqJ8cM",
+    "track": "Summer Sessions | TRACK 1 | Mañana"
   },
   {
     "title": "KQL en acción . Consultas Reales de MS Fabric.",
@@ -528,7 +610,9 @@
     "speaker_last": "Sadhanandham",
     "tagline": "Veeco Instruments Inc ",
     "linkedin": "https://www.linkedin.com/in/aravindh-sadhanandham-6142424a",
-    "profile_picture": "https://cdn.sessionize.com/image/c794-400o400o1-QvfcaZQJnRz8eszXcuidun.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/c794-400o400o1-QvfcaZQJnRz8eszXcuidun.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=lZoSC3tUZGw",
+    "track": "Summer Sessions |  Track 2 | English"
   },
   {
     "title": "Creando Modelos semanticos, Informes, y el resto de artefactos en la era de la IA",
@@ -591,7 +675,9 @@
     "speaker_last": "Gomez",
     "tagline": "Microsoft MVP | AI Software Engineer",
     "linkedin": "https://www.linkedin.com/in/esdanielgomez/",
-    "profile_picture": "https://cdn.sessionize.com/image/b8cc-400o400o1-7DKHjjQ4Yxio6HSsJ7wyNB.png"
+    "profile_picture": "https://cdn.sessionize.com/image/b8cc-400o400o1-7DKHjjQ4Yxio6HSsJ7wyNB.png",
+    "youtube_url": "https://www.youtube.com/watch?v=lAYDjtrU_1E",
+    "track": "Summer Sessions | TRACK 6 | Mañana"
   },
   {
     "title": "A Risk-Driven CI/CD Framework for Faster, More Secure Delivery",
@@ -654,7 +740,9 @@
     "speaker_last": "Sayerwala",
     "tagline": "Mphasis Corporation",
     "linkedin": "https://www.linkedin.com/in/mohammed-sayerwala-0448b6130/",
-    "profile_picture": "https://cdn.sessionize.com/image/5873-400o400o1-Dhj5juKtPiYzRaixNpxDyn.png"
+    "profile_picture": "https://cdn.sessionize.com/image/5873-400o400o1-Dhj5juKtPiYzRaixNpxDyn.png",
+    "youtube_url": "https://www.youtube.com/watch?v=wqj0t5fnJSA",
+    "track": "Summer Sessions |  Track 2 | English"
   },
   {
     "title": "Advancing Conversational AI: NLP, Intent Intelligence, and Human-AI Collaboration",
@@ -663,7 +751,9 @@
     "speaker_last": "Gunda",
     "tagline": "Azure AI Virtual Assistant Lead at Tata Consultancy Services",
     "linkedin": "",
-    "profile_picture": "https://cdn.sessionize.com/image/5d6e-400o400o1-ayrjJkPX7LdKgUcaKVfiqT.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/5d6e-400o400o1-ayrjJkPX7LdKgUcaKVfiqT.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=OxO8Q_GP_9A",
+    "track": "Summer Sessions |  Track 2 | English"
   },
   {
     "title": "AI-Driven Identity Verification and Fraud Risk Intelligence in Financial Services",
@@ -690,7 +780,9 @@
     "speaker_last": "Rodríguez Varela",
     "tagline": "Software Development Engineer",
     "linkedin": "https://www.linkedin.com/in/diego-rodriguez-varela",
-    "profile_picture": "https://cdn.sessionize.com/image/8856-400o400o1-NDsnrBJb1vYUYenswbJKGk.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/8856-400o400o1-NDsnrBJb1vYUYenswbJKGk.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=OQdZnDFp3RU",
+    "track": "Summer Sessions | TRACK 2 | Mañana"
   },
   {
     "title": "Security by design en GitHub",
@@ -708,7 +800,9 @@
     "speaker_last": "Chitiprolu",
     "tagline": " Sr. Full Stack Developer at Allstate Silutions Pvt Ltd.",
     "linkedin": "https://www.linkedin.com/in/anil-kumar-404552212/",
-    "profile_picture": "https://cdn.sessionize.com/image/ba3a-400o400o1-QkZWmHMN9FwPht4MVB4Hwn.png"
+    "profile_picture": "https://cdn.sessionize.com/image/ba3a-400o400o1-QkZWmHMN9FwPht4MVB4Hwn.png",
+    "youtube_url": "https://www.youtube.com/watch?v=kctGT8jSjkQ",
+    "track": "Summer Sessions |  Track 2 | English"
   },
   {
     "title": "Building Enterprise AI Agents with MCP and Production Governance",
@@ -726,7 +820,9 @@
     "speaker_last": "Zapico",
     "tagline": "Expert Architect - NTT DATA",
     "linkedin": "https://www.linkedin.com/in/dzapico/",
-    "profile_picture": "https://cdn.sessionize.com/image/e7e3-400o400o1-b6-d39a-4b1f-a7d5-7f244338e785.97317a8f-99b2-4a23-b6b3-7c2e96882ee5.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/e7e3-400o400o1-b6-d39a-4b1f-a7d5-7f244338e785.97317a8f-99b2-4a23-b6b3-7c2e96882ee5.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=zyer_jaw8L8",
+    "track": "Summer Sessions | TRACK 6 | Mañana"
   },
   {
     "title": "De la Fatiga por Alertas al Tuning Autónomo con Security Copilot",
@@ -735,7 +831,9 @@
     "speaker_last": "Guimera Coll",
     "tagline": "Security and AI Architect at BlueVoyant",
     "linkedin": "https://www.linkedin.com/in/jaimeguimera",
-    "profile_picture": "https://cdn.sessionize.com/image/346c-400o400o1-sT5EmxGkxqXBmzZCDfNBZ8.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/346c-400o400o1-sT5EmxGkxqXBmzZCDfNBZ8.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=UAoikwUepaU",
+    "track": "Summer Sessions | TRACK 1 | Mañana"
   },
   {
     "title": "Evitando el efecto queso suizo en la adopción de Copilot",
@@ -744,7 +842,9 @@
     "speaker_last": "Ortega de Alba",
     "tagline": "Devoteam, Change Managment Lead Consultant & Lead Presales",
     "linkedin": "https://www.linkedin.com/in/gemaortegadealba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    "profile_picture": "https://cdn.sessionize.com/image/99c5-400o400o1-SCZhoYXCLKQoyZKMCaV3Se.png"
+    "profile_picture": "https://cdn.sessionize.com/image/99c5-400o400o1-SCZhoYXCLKQoyZKMCaV3Se.png",
+    "youtube_url": "https://www.youtube.com/watch?v=lgW_BlQtmxo",
+    "track": "Summer Sessions | TRACK 4 | Mañana"
   },
   {
     "title": "Applied AI for Federal Permitting in Historic Districts",
@@ -753,7 +853,9 @@
     "speaker_last": "Upadhyay",
     "tagline": "Technology Partner Aka Principal Solutions Architect at Tech Mahindra",
     "linkedin": "https://www.linkedin.com/in/mohit-upadhyay-06768324/",
-    "profile_picture": "https://cdn.sessionize.com/image/b424-400o400o1-VHkXPajfeXG8EGgdGbzai6.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/b424-400o400o1-VHkXPajfeXG8EGgdGbzai6.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=OjTfkZe-kMQ",
+    "track": "Summer Sessions |  Track 2 | English"
   },
   {
     "title": "Applied AI for Scalable Banking Advisory Optimization",
@@ -771,7 +873,9 @@
     "speaker_last": "Sharma",
     "tagline": "Analyst at TATA CONSULTANCY SERVICES",
     "linkedin": "https://www.linkedin.com/in/ranjeet-sharma-07773829/",
-    "profile_picture": "https://cdn.sessionize.com/image/6889-400o400o1-EHvnD2Q7AX99V4ypHnxio.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/6889-400o400o1-EHvnD2Q7AX99V4ypHnxio.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=TWRvgwKACyU",
+    "track": "Summer Sessions |  Track 2 | English"
   },
   {
     "title": "Building Ethical AI Data Pipelines with Practical Engineering Controls",
@@ -915,7 +1019,9 @@
     "speaker_last": "Prada",
     "tagline": "Senior AI Engineer & Technical Lead at Devoteam | Multi-Agent Systems Architect",
     "linkedin": "https://linkedin.com/in/fernandopradagorge",
-    "profile_picture": "https://cdn.sessionize.com/image/6a94-400o400o1-JQtpZKWVKwbQFzg154r6ZQ.png"
+    "profile_picture": "https://cdn.sessionize.com/image/6a94-400o400o1-JQtpZKWVKwbQFzg154r6ZQ.png",
+    "youtube_url": "https://www.youtube.com/watch?v=gdHwWPJczJM",
+    "track": "Summer Sessions | TRACK 2 | Tarde"
   },
   {
     "title": "Certificaciones Power Platform: del track tradicional al enfoque AI‑first",
@@ -924,7 +1030,9 @@
     "speaker_last": "Sosa Marquina",
     "tagline": "Business Apps MVP | MCT | M365 & Power Platform Architect - knowmad mood",
     "linkedin": "https://www.linkedin.com/in/carlosjsosam/",
-    "profile_picture": "https://cdn.sessionize.com/image/9ec8-400o400o1-RQC7duqWYrpdxbVuQA4NW5.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/9ec8-400o400o1-RQC7duqWYrpdxbVuQA4NW5.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=un1YvcdFwoc",
+    "track": "Summer Sessions | TRACK 5 | Mañana"
   },
   {
     "title": "AI-Powered Database Observability: From Reactive to Predictive",
@@ -960,7 +1068,9 @@
     "speaker_last": "Yedluri",
     "tagline": "Sr. Systems Engineer  at CybeCys Inc",
     "linkedin": "https://www.linkedin.com/in/uday-kiran-yedluri-878b3611b/",
-    "profile_picture": "https://cdn.sessionize.com/image/d3e8-400o400o1-Sz1HCUMxmFH6aGTBtGkXeF.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/d3e8-400o400o1-Sz1HCUMxmFH6aGTBtGkXeF.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=TCZ9fQshH2U",
+    "track": "Summer Sessions |  Track 2 | English"
   },
   {
     "title": "Conversational AI for Industrial Maintenance: Practical AI to Reduce Downtime",
@@ -1041,7 +1151,9 @@
     "speaker_last": "Romero Fernández",
     "tagline": "Consultor y desarrollador de soluciones tecnológicas personalizadas especializado en la Power Platform de Microsoft  | Low-Code ",
     "linkedin": "https://www.linkedin.com/in/eromerof3/",
-    "profile_picture": "https://cdn.sessionize.com/image/b45d-400o400o1-7XrBeS8dkvnBESzCQsZnwS.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/b45d-400o400o1-7XrBeS8dkvnBESzCQsZnwS.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=neG9BYGcSdY",
+    "track": "Summer Sessions | TRACK 1 | Mañana"
   },
   {
     "title": "Describe, diseña, reutiliza: como crear Canvas Apps bonitas y usables",
@@ -1050,7 +1162,9 @@
     "speaker_last": "Velasco Perea",
     "tagline": "Prodware",
     "linkedin": "https://www.linkedin.com/in/angela-velasco-perea-309726195/",
-    "profile_picture": "https://cdn.sessionize.com/image/cf50-400o400o1-aahN1Zdb4KDvukE1kgFxuf.png"
+    "profile_picture": "https://cdn.sessionize.com/image/cf50-400o400o1-aahN1Zdb4KDvukE1kgFxuf.png",
+    "youtube_url": "https://www.youtube.com/watch?v=hmriCpUfJxs",
+    "track": "Summer Sessions | TRACK 6 | Mañana"
   },
   {
     "title": "Autonomous Cognitive Navigation: AI-Powered End-to-End Testing with Natural Language",
@@ -1077,7 +1191,9 @@
     "speaker_last": "Jurado",
     "tagline": "CoFounder of CursosPowerBI.es",
     "linkedin": "https://www.linkedin.com/in/diego-jurado-lorite/",
-    "profile_picture": "https://cdn.sessionize.com/image/ec19-400o400o1-b7-1734-4392-b9c3-2518f97c0c46.aca01a6b-a551-4bfd-9dda-ab030408ac47.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/ec19-400o400o1-b7-1734-4392-b9c3-2518f97c0c46.aca01a6b-a551-4bfd-9dda-ab030408ac47.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=Xliiyt1C6kY",
+    "track": "Summer Sessions | TRACK 4 | Mañana"
   },
   {
     "title": "Aspire para developers: menos configuración, más código y mejor observabilidad",
@@ -1086,7 +1202,9 @@
     "speaker_last": "Capuano",
     "tagline": "Principal Cloud Advocate 🥑 @Microsoft",
     "linkedin": "https://www.linkedin.com/in/elbruno/",
-    "profile_picture": "https://cdn.sessionize.com/image/9bb0-400o400o1-au9jnBuK1QR2ymtxmeeM9Y.jpg"
+    "profile_picture": "https://cdn.sessionize.com/image/9bb0-400o400o1-au9jnBuK1QR2ymtxmeeM9Y.jpg",
+    "youtube_url": "https://www.youtube.com/watch?v=_-xLZytKN8M",
+    "track": "Summer Sessions | TRACK 3 | Tarde"
   },
   {
     "title": "Agentes y skills de Microsoft Fabric desde GitHub Copilot",

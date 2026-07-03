@@ -48,6 +48,7 @@ function filterSessions(query, category) {
       `${session.speaker_first} ${session.speaker_last}`.toLowerCase().includes(query);
 
     if (category === 'all') return matchesQuery;
+    if (category === 'video') return matchesQuery && session.youtube_url;
 
     const categoryTag = category.toLowerCase();
     const sessionText = `${session.title} ${session.description} ${session.tagline}`.toLowerCase();
@@ -82,7 +83,7 @@ function renderSessions() {
   }
 
   sessionsGrid.innerHTML = filteredSessions.map(session => `
-    <div class="session-card">
+    <div class="session-card${session.youtube_url ? ' has-video' : ''}">
       <div class="session-card-header">
         ${session.profile_picture ? `<img src="${session.profile_picture}" alt="${session.speaker_first} ${session.speaker_last}" class="speaker-avatar">` : '<div class="speaker-avatar-placeholder"></div>'}
         <div class="speaker-info">
@@ -90,9 +91,11 @@ function renderSessions() {
           <p class="speaker-tagline">${session.tagline}</p>
         </div>
       </div>
+      ${session.track ? `<span class="track-badge">${session.track.replace('Summer Sessions | ', '')}</span>` : ''}
       <h2 class="session-title">${session.title}</h2>
       <p class="session-description">${session.description.substring(0, 150)}...</p>
       <div class="session-footer">
+        ${session.youtube_url ? `<a href="${session.youtube_url}" target="_blank" class="youtube-link" title="Watch on YouTube">▶️ Watch</a>` : ''}
         ${session.linkedin ? `<a href="${session.linkedin}" target="_blank" class="linkedin-link" title="Speaker LinkedIn">🔗 LinkedIn</a>` : ''}
       </div>
     </div>
