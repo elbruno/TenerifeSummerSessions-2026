@@ -1,0 +1,32 @@
+{
+  "agents": {
+    "lead": {
+      "persistent_name": "Danny",
+      "universe": "Ocean's Eleven",
+      "created_at": "2026-07-03T07:26:43-04:00",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "frontend-dev": {
+      "persistent_name": "Livingston",
+      "universe": "Ocean's Eleven",
+      "created_at": "2026-07-03T07:26:43-04:00",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "creative-director": {
+      "persistent_name": "Rusty",
+      "universe": "Ocean's Eleven",
+      "created_at": "2026-07-03T07:26:43-04:00",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "content-media": {
+      "persistent_name": "Basher",
+      "universe": "Ocean's Eleven",
+      "created_at": "2026-07-03T07:26:43-04:00",
+      "legacy_named": false,
+      "status": "active"
+    }
+  }
+}

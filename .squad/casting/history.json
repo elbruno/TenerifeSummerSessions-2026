@@ -1,0 +1,21 @@
+{
+  "universe_usage_history": [
+    {
+      "universe": "Ocean's Eleven",
+      "assignment_id": "tenerife-summer-2026-init",
+      "used_at": "2026-07-03T07:26:43-04:00"
+    }
+  ],
+  "assignment_cast_snapshots": {
+    "tenerife-summer-2026-init": {
+      "universe": "Ocean's Eleven",
+      "agents": {
+        "lead": "Danny",
+        "frontend-dev": "Livingston",
+        "creative-director": "Rusty",
+        "content-media": "Basher"
+      },
+      "created_at": "2026-07-03T07:26:43-04:00"
+    }
+  }
+}
